@@ -1239,9 +1239,11 @@
     "28546": {
         "subject": "IceCube-200929A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -5288,9 +5290,11 @@
     "26479": {
         "subject": "LIGO/Virgo S191216ap: CORRECTED list of galaxies coincident with LIGO/Virgo and HAWC positions",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -6871,9 +6875,11 @@
     "31199": {
         "subject": "IceCube-211208A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -11962,9 +11968,11 @@
     "24173": {
         "subject": "LIGO/VirgoS190425z: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -16113,10 +16121,10 @@
     "25284": {
         "subject": "Alert from the HAWC Burst Monitor",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "32696": {
@@ -17826,9 +17834,11 @@
     "28249": {
         "subject": "HAWC alert 200815.26: MASTER optical observations",
         "events": [
+            "Gamma-ray Transient",
             "Optical Transient"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Optical Transient"
         ]
     },
@@ -20643,9 +20653,11 @@
     "26354": {
         "subject": "LIGO/Virgo S191205ah: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -22109,9 +22121,11 @@
     "24102": {
         "subject": "LIGO/Virgo S190412m: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -23523,9 +23537,11 @@
     "20727": {
         "subject": "LIGO/Virgo G274296: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -24915,9 +24931,11 @@
     "32428": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-220728A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -25750,9 +25768,11 @@
     "33470": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-230313A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -31686,9 +31706,11 @@
     "26369": {
         "subject": "IceCube-191204A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -38710,9 +38732,11 @@
     "25283": {
         "subject": "HAWC Alert 190806.56 Global MASTER-Net observations report",
         "events": [
+            "Gamma-ray Transient",
             "Optical Transient"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Optical Transient"
         ]
     },
@@ -38802,10 +38826,10 @@
     "25776": {
         "subject": "HAWC-190916A: Upper limits from Insight-HXMT/HE observations",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "33881": {
@@ -45330,10 +45354,10 @@
     "25766": {
         "subject": "Alert from the HAWC Burst Monitor HAWC-190917A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "7455": {
@@ -48204,9 +48228,11 @@
     "24718": {
         "subject": "LIGO/Virgo S190602aq: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -51794,9 +51820,11 @@
     "28729": {
         "subject": "HAWC-201019A: No Neutrino Counterpart detected with ANTARES",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -52130,9 +52158,11 @@
     "20384": {
         "subject": "LIGO/Virgo G268556: HAWC follow-up of northern sky",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -52424,9 +52454,11 @@
     "25775": {
         "subject": "HAWC-190916A: IceCube neutrino search",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -53502,9 +53534,11 @@
     "25169": {
         "subject": "LIGO/Virgo S190727h: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -55543,9 +55577,11 @@
     "26650": {
         "subject": "LIGO/Virgo S200105ae: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -57411,9 +57447,11 @@
     "21248": {
         "subject": "LIGO/Virgo G288732: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -58136,9 +58174,11 @@
     "26628": {
         "subject": "IceCube-191231A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -59084,9 +59124,11 @@
     "31585": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-220212A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -59384,9 +59426,11 @@
     "25238": {
         "subject": "IceCube-190730A - HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -61117,10 +61161,10 @@
     "29359": {
         "subject": "HAWC Transient event on 2021/01/25",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "42270": {
@@ -72970,9 +73014,11 @@
     "21071": {
         "subject": "LIGO/Virgo G284239: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -74414,9 +74460,11 @@
     "26963": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-200202A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -77301,9 +77349,11 @@
     "25805": {
         "subject": "IceCube-190922A - HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -79046,10 +79096,12 @@
         "subject": "LIGO/Virgo S191213g: MASTER OT J064855.37-055545.7 is a dwarf nova",
         "events": [
             "GW",
+            "Nova",
             "Optical Transient"
         ],
         "effectiveCategory": [
             "GW",
+            "Nova",
             "Optical Transient"
         ]
     },
@@ -83874,9 +83926,11 @@
     "31722": {
         "subject": "IceCube-220306A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -84054,9 +84108,11 @@
     "26445": {
         "subject": "LIGO/Virgo S191215w: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -86335,10 +86391,10 @@
     "28248": {
         "subject": "Alert from the HAWC Burst Monitor HAWC-200814A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "159": {
@@ -89720,9 +89776,11 @@
     "19361": {
         "subject": "Archival observations by HAWC of IceCube HESE event of April 27, 2016",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -90945,9 +91003,11 @@
     "33855": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-230523A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -96075,10 +96135,10 @@
     "32975": {
         "subject": "Alert from the HAWC Burst Monitor HAWC-221123A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "3307": {
@@ -96396,10 +96456,10 @@
     "28076": {
         "subject": "Update of alert from the HAWC Burst Monitor HAWC-200709A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "28813": {
@@ -97250,9 +97310,11 @@
     "33624": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-230414A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -98044,9 +98106,11 @@
     "27287": {
         "subject": "LIGO/Virgo S200302c: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -102839,9 +102903,11 @@
     "30950": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-211020A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -103632,9 +103698,11 @@
     "27569": {
         "subject": "IceCube-200410A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -109000,9 +109068,11 @@
     "40128": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-250409A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -109294,9 +109364,11 @@
     "31153": {
         "subject": "IceCube-211125A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -115342,9 +115414,11 @@
     "21709": {
         "subject": "LIGO/Virgo G298389: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -116116,9 +116190,11 @@
     "37614": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-240926A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -120922,9 +120998,11 @@
     "27972": {
         "subject": "IceCube-200615A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -122032,9 +122110,11 @@
     "32300": {
         "subject": "IceCube-220629A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -125830,9 +125910,11 @@
     "25191": {
         "subject": "LIGO/Virgo S190728q: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -129048,9 +129130,11 @@
     "23382": {
         "subject": "IceCube-181023A: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -138536,9 +138620,11 @@
     "24923": {
         "subject": "LIGO/Virgo S190630ag: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -140313,9 +140399,11 @@
     "32031": {
         "subject": "IceCube-220509A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -144475,9 +144563,11 @@
     "26709": {
         "subject": "IceCube 200109A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -146936,9 +147026,11 @@
     "31721": {
         "subject": "IceCube-220303A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -148477,9 +148569,11 @@
     "27617": {
         "subject": "IceCube-200421A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -149025,9 +149119,11 @@
     "24441": {
         "subject": "LIGO/Virgo S190510g: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -151226,9 +151322,11 @@
     "28014": {
         "subject": "IceCube-200620A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -155283,9 +155381,11 @@
     "31271": {
         "subject": "IceCube-211216A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -156985,9 +157085,11 @@
     "26531": {
         "subject": "LIGO/Virgo S191216ap: VLA/JAGWAR radio monitoring of the 1-sigma HAWC region",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -158525,10 +158627,10 @@
     "30236": {
         "subject": "Follow-up on HAWC Transient Monitoring Alert J0020+3108",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "27815": {
@@ -161194,9 +161296,11 @@
     "28480": {
         "subject": "IceCube-200921A: no significant detection in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -161609,10 +161713,12 @@
     "26476": {
         "subject": "LIGO/Virgo S191216ap: galaxies consistent with GW + Neutrino + HAWC position",
         "events": [
+            "Gamma-ray Transient",
             "GW",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW",
             "Neutrino"
         ]
@@ -162338,9 +162444,11 @@
     "24630": {
         "subject": "LIGO/Virgo S190521r: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -162522,9 +162630,11 @@
     "28657": {
         "subject": "IceCube-201014A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -164171,9 +164281,11 @@
     "28592": {
         "subject": "IceCube-201007A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -167443,9 +167555,11 @@
     "28528": {
         "subject": "IceCube-200926A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -167802,10 +167916,12 @@
     "26509": {
         "subject": "LIGO/Virgo S191216ap: Subaru/Hyper Suprime-Cam observations of GW+IceCube+HAWC error region",
         "events": [
+            "Gamma-ray Transient",
             "GW",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW",
             "Neutrino"
         ]
@@ -171209,9 +171325,11 @@
     "26267": {
         "subject": "IceCube-191119A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -172935,9 +173053,11 @@
     "28074": {
         "subject": "HAWC-200907A: No Neutrino Counterpart detected with ANTARES",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -172999,9 +173119,11 @@
     "27658": {
         "subject": "IceCube-200425A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -176232,9 +176354,11 @@
     "28448": {
         "subject": "IceCube-200916A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -177088,11 +177212,13 @@
         "subject": "GRB 230918B: VLT/X-shooter classification of AT 2023tbf (GOTO23aky) as a dwarf nova",
         "events": [
             "GRB",
-            "Gamma-ray Transient"
+            "Gamma-ray Transient",
+            "Nova"
         ],
         "effectiveCategory": [
             "GRB",
-            "Gamma-ray Transient"
+            "Gamma-ray Transient",
+            "Nova"
         ]
     },
     "42315": {
@@ -180924,9 +181050,11 @@
     "26455": {
         "subject": "LIGO/Virgo S191216ap: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -181687,10 +181815,10 @@
     "31106": {
         "subject": "Alert from the HAWC Burst Monitor HAWC-211123A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "5198": {
@@ -182355,9 +182483,11 @@
     "19156": {
         "subject": "LIGO/Virgo G211117: HAWC follow-up of northern sky",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -184726,9 +184856,11 @@
     "30041": {
         "subject": "IceCube-210516A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -185129,9 +185261,11 @@
     "26719": {
         "subject": "LIGO/Virgo S200112r: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -185776,9 +185910,11 @@
     "26544": {
         "subject": "LIGO/Virgo S191222n: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -187272,9 +187408,11 @@
     "26733": {
         "subject": "LIGO/Virgo S200114f: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -190903,9 +191041,11 @@
     "26483": {
         "subject": "LIGO/Virgo S191216ap: GRAWITA Loiano observations of HAWC error region",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -191829,9 +191969,11 @@
     "24144": {
         "subject": "LIGO/Virgo S190421ar: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -193294,9 +193436,11 @@
     "21759": {
         "subject": "LIGO/Virgo G299232: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -194894,9 +195038,11 @@
     "28422": {
         "subject": "IceCube-200911A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -202027,9 +202173,11 @@
     "31111": {
         "subject": "HAWC-211123A: No neutrino counterpart detected with ANTARES",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -205984,9 +206132,11 @@
     "30010": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEM-210515A and 210515B",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -207969,10 +208119,10 @@
     "25768": {
         "subject": "Correction on the Trigger Date HAWC-190916A --> HAWC-190917A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "35506": {
@@ -208700,9 +208850,11 @@
     "31615": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-220220A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -209888,9 +210040,11 @@
     "26758": {
         "subject": "LIGO/Virgo S200115j: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -210570,10 +210724,10 @@
     "32319": {
         "subject": "Alert from the HAWC Burst Monitor HAWC-220702A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "18161": {
@@ -211088,10 +211242,10 @@
     "28247": {
         "subject": "IceCube200806A: No significant detection in HAWC",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "3144": {
@@ -221527,9 +221681,11 @@
     "20250": {
         "subject": "HAWC follow-up on IceCube-161210",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -228772,9 +228928,11 @@
     "20120": {
         "subject": "HAWC follow up of IceCube-161103",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -229745,9 +229903,11 @@
     "25499": {
         "subject": "LIGO/Virgo S190828j: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -237969,9 +238129,11 @@
     "32298": {
         "subject": "IceCube-220627A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -241287,9 +241449,11 @@
     "26188": {
         "subject": "LIGO/Virgo S191105e: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -250125,9 +250289,11 @@
     "25017": {
         "subject": "LIGO/Virgo S190707q: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -251497,9 +251663,11 @@
     "34805": {
         "subject": "IceCube-231004A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -252572,9 +252740,11 @@
     "35579": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-240118A: correction on the localization",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -253147,9 +253317,11 @@
     "25813": {
         "subject": "LIGO/Virgo S190923y: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -254056,10 +254228,10 @@
     "25315": {
         "subject": "HAWC-190806A: Upper limits from Insight-HXMT/HE observations",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "14972": {
@@ -258848,9 +259020,11 @@
     "24996": {
         "subject": "IceCube-190704A - HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -260626,9 +260800,11 @@
     "21448": {
         "subject": "LIGO/Virgo G296853: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -262212,9 +262388,11 @@
     "26049": {
         "subject": "HAWC-191019A: No Neutrino Counterpart detected with ANTARES",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -264268,9 +264446,11 @@
     "25411": {
         "subject": "IceCube-190819A - HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -267295,9 +267475,11 @@
     "26298": {
         "subject": "IceCube-191122A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -275776,9 +275958,11 @@
     "21732": {
         "subject": "LIGO/Virgo G298936: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -276209,9 +276393,11 @@
     "20542": {
         "subject": "LIGO/Virgo G270580: HAWC follow-up observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -277411,9 +277597,11 @@
     "27017": {
         "subject": "LIGO/Virgo S200208q: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -278339,9 +278527,11 @@
     "26496": {
         "subject": "LIGO/Virgo S191216ap: No candidates found in J-GEM follow-up observations of HAWC error region",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -279756,9 +279946,11 @@
     "29151": {
         "subject": "IceCube-201221A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -282186,9 +282378,11 @@
     "24622": {
         "subject": "LIGO/Virgo S190521g: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -282934,9 +283128,11 @@
     "28865": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-201107A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -283298,10 +283494,10 @@
     "29958": {
         "subject": "Alert from the HAWC Burst Monitor HAWC-210507A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "42674": {
@@ -288176,9 +288372,11 @@
     "27202": {
         "subject": "LIGO/Virgo S200225q: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -289883,9 +290081,11 @@
     "32504": {
         "subject": "IceCube-220822A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -291150,10 +291350,10 @@
     "32988": {
         "subject": "Alert from the HAWC Burst Monitor HAWC-221128A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "10215": {
@@ -293353,9 +293553,11 @@
     "19743": {
         "subject": "HAWC follow up of IceCube 160731",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -306974,9 +307176,11 @@
     "25501": {
         "subject": "LIGO/Virgo S190828l: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -308190,9 +308394,11 @@
     "24523": {
         "subject": "LIGO/Virgo S190513bm: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -308569,9 +308775,11 @@
     "28758": {
         "subject": "IceCube-201021A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -316624,9 +316832,11 @@
     "26310": {
         "subject": "LIGO/Virgo S191129u: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -329971,9 +330181,11 @@
     "35566": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-240118A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -330388,9 +330600,11 @@
     "25936": {
         "subject": "IceCube-191001A: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -330684,9 +330898,11 @@
     "28952": {
         "subject": "IceCube-201120A in the Cygnus region: No enhanced TeV gamma-ray flux detected by HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -332228,9 +332444,11 @@
     "29152": {
         "subject": "IceCube-201222A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -333533,9 +333751,11 @@
     "25291": {
         "subject": "HAWC Burst Alert 1008846_957: IceCube Neutrino Search",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -338585,10 +338805,10 @@
     "33886": {
         "subject": "Alert from the HAWC Burst Monitor HAWC-230527A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "3281": {
@@ -341131,9 +341351,11 @@
     "27133": {
         "subject": "LIGO/Virgo S200219ac: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -347750,9 +347972,11 @@
     "32274": {
         "subject": "IceCube-220624A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -349252,9 +349476,11 @@
     "24235": {
         "subject": "LIGO/Virgo S190426c: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -353995,10 +354221,10 @@
     "33454": {
         "subject": "Alert from the HAWC Burst Monitor HAWC-230311A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "4859": {
@@ -356535,9 +356761,11 @@
     "25769": {
         "subject": "HAWC-190916A: DDOTI Optical Observations",
         "events": [
+            "Gamma-ray Transient",
             "Optical Transient"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Optical Transient"
         ]
     },
@@ -362770,9 +362998,11 @@
     "24864": {
         "subject": "IceCube-190619A - HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -365530,9 +365760,11 @@
     "21683": {
         "subject": "LIGO/Virgo G298048: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -365957,9 +366189,11 @@
     "28534": {
         "subject": "IceCube-200926B: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -366466,9 +366700,11 @@
     "25715": {
         "subject": "LIGO/Virgo S190910h: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -369106,9 +369342,11 @@
     "25607": {
         "subject": "LIGO/Virgo S190901ap: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -369356,9 +369594,11 @@
     "20811": {
         "subject": "LIGO/Virgo G275404: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -371502,9 +371742,11 @@
     "22114": {
         "subject": "HAWC follow-up of IceCube-171106A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -372145,9 +372387,11 @@
     "21924": {
         "subject": "IceCube-170922A: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -372541,9 +372785,11 @@
     "25298": {
         "subject": "LIGO/Virgo S190808ae: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -374995,9 +375241,11 @@
     "36286": {
         "subject": "LIGO/Virgo/KAGRA S240422ed: No significant counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -377562,9 +377810,11 @@
     "28908": {
         "subject": "IceCube-201114A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -382805,9 +383055,11 @@
     "28984": {
         "subject": "IceCube-201130A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -383880,10 +384132,12 @@
     "26472": {
         "subject": "LIGO/Virgo S191216ap: HAWC gamma-ray sub-threshold event coincident with LIGO/Virgo and IceCube localizations",
         "events": [
+            "Gamma-ray Transient",
             "GW",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW",
             "Neutrino"
         ]
@@ -386568,9 +386822,11 @@
     "29042": {
         "subject": "IceCube-201209: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -396656,9 +396912,11 @@
     "31192": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-211209A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -404341,9 +404599,11 @@
     "27969": {
         "subject": "IceCube-200614A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -405215,9 +405475,11 @@
     "32047": {
         "subject": "IceCube-220513A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -406092,9 +406354,11 @@
     "23219": {
         "subject": "IceCube-180908A: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -408636,10 +408900,10 @@
     "28709": {
         "subject": "Alert from the HAWC Burst Monitor HAWC-201019A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "7055": {
@@ -413109,9 +413373,11 @@
     "27873": {
         "subject": "IceCube-200530A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -414152,9 +414418,11 @@
     "26828": {
         "subject": "IceCube 200117A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -414324,9 +414592,11 @@
     "32560": {
         "subject": "IceCube-220907A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -423817,9 +424087,11 @@
     "26487": {
         "subject": "LIGO/Virgo S191216ap: No candidates found in CHES observations of HAWC error region",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -424996,9 +425268,11 @@
     "26507": {
         "subject": "LIGO/Virgo S191216ap: UPDATED list of galaxies coincident with LIGO/Virgo LALInference skymap and HAWC positions",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -431919,9 +432193,11 @@
     "24601": {
         "subject": "LIGO/Virgo S190519bj: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -434732,9 +435008,11 @@
     "24578": {
         "subject": "LIGO/Virgo S190517h: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -435601,10 +435879,10 @@
     "26037": {
         "subject": "Alert from the HAWC Burst Monitor HAWC-191019A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "22837": {
@@ -442237,9 +442515,11 @@
     "28950": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-201124A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -446003,10 +446283,10 @@
     "25779": {
         "subject": "Correction on name for HAWC-190916A to HAWC-190917A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "33125": {
@@ -449300,9 +449580,11 @@
     "34776": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-230927A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -451289,9 +451571,11 @@
     "25113": {
         "subject": "LIGO/Virgo S190720a: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -454761,9 +455045,11 @@
     "29967": {
         "subject": "HAWC-210507A:  No neutrino counterpart candidates in ANTARES search",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -459148,9 +459434,11 @@
     "24067": {
         "subject": "LIGO-Virgo S190408an: HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -460228,9 +460516,11 @@
     "26907": {
         "subject": "LIGO/Virgo S200128d: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -461666,9 +461956,11 @@
     "25004": {
         "subject": "LIGO/Virgo S190706ai: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -472309,9 +472601,11 @@
     "28909": {
         "subject": "IceCube-201115A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -472620,9 +472914,11 @@
     "25885": {
         "subject": "LIGO/Virgo S190930t: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },
@@ -475777,10 +476073,10 @@
     "31374": {
         "subject": "Alert from the HAWC Burst Monitor HAWC-220103A",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "28764": {
@@ -477644,9 +477940,11 @@
     "29287": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-210111A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -480476,10 +480774,10 @@
     "30183": {
         "subject": "HAWC Transient Monitoring Alert: Significant Spot after 3 transits",
         "events": [
-            "Misc"
+            "Gamma-ray Transient"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Gamma-ray Transient"
         ]
     },
     "15516": {
@@ -482714,9 +483012,11 @@
     "25307": {
         "subject": "HAWC-190806A: Swift-XRT observations",
         "events": [
+            "Gamma-ray Transient",
             "X-ray Transient"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "X-ray Transient"
         ]
     },
@@ -482820,9 +483120,11 @@
     "25826": {
         "subject": "IceCube-190922B - HAWC follow-up",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -483176,9 +483478,11 @@
     "31272": {
         "subject": "IceCube-211216B: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -487295,9 +487599,11 @@
     "27242": {
         "subject": "HAWC-200216A: No Neutrino Counterpart in ANTARES Search",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -491634,9 +491940,11 @@
     "30876": {
         "subject": "IceCube-210922A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -495789,9 +496097,11 @@
     "33221": {
         "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-230125A",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -501051,9 +501361,11 @@
     "26668": {
         "subject": "IceCube-200107A: No significant detection in HAWC",
         "events": [
+            "Gamma-ray Transient",
             "Neutrino"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "Neutrino"
         ]
     },
@@ -505803,9 +506115,11 @@
     "25696": {
         "subject": "LIGO/Virgo S190910d: No counterpart candidates in HAWC observations",
         "events": [
+            "Gamma-ray Transient",
             "GW"
         ],
         "effectiveCategory": [
+            "Gamma-ray Transient",
             "GW"
         ]
     },

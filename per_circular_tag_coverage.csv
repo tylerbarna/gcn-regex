@@ -136,7 +136,7 @@ LIGO/Virgo/KAGRA S240422ed,36266.0,LIGO/Virgo/KAGRA S240422ed: SAGUARO upper lim
 LIGO/Virgo/KAGRA S240422ed,36296.0,LIGO/Virgo/KAGRA S240422ed: Magellan Spectrum of GW-MMADS Candidate AT2024hdo Indicates a Type II SN,"['GW', 'Optical Transient', 'SN']",3,6,0.5,82
 LIGO/Virgo/KAGRA S240422ed,36280.0,LIGO/Virgo/KAGRA S240422ed: ATCA follow-up of candidate counterparts,['GW'],1,6,0.16666666666666666,82
 LIGO/Virgo/KAGRA S240422ed,36243.0,LIGO/Virgo/KAGRA S240422ed: Updated NED Galaxies in the Localization Volume,['GW'],1,6,0.16666666666666666,82
-LIGO/Virgo/KAGRA S240422ed,36286.0,LIGO/Virgo/KAGRA S240422ed: No significant counterpart candidates in HAWC observations,['GW'],1,6,0.16666666666666666,82
+LIGO/Virgo/KAGRA S240422ed,36286.0,LIGO/Virgo/KAGRA S240422ed: No significant counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,82
 LIGO/Virgo/KAGRA S240422ed,36402.0,LIGO/Virgo/KAGRA S240422ed: Swope Follow-up of AT2024hfr and AT2024hfs,"['GW', 'Optical Transient']",2,6,0.3333333333333333,82
 LIGO/Virgo/KAGRA S240422ed,36251.0,LIGO/Virgo/KAGRA S240422ed: no candidate counterparts from ATLAS observations,['GW'],1,6,0.16666666666666666,82
 LIGO/Virgo/KAGRA S240422ed,36272.0,LIGO/Virgo/KAGRA S240422ed: Potential Magellan candidates from GCN 36263 are unrelated.,['GW'],1,6,0.16666666666666666,82
@@ -705,7 +705,7 @@ LIGO/Virgo S190513bm,24524.0,LIGO/Virgo S190513bm: IceCube Neutrino Search,"['GW
 LIGO/Virgo S190513bm,24525.0,LIGO/Virgo S190513bm Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,4,0.5,16
 LIGO/Virgo S190513bm,24530.0,LIGO/Virgo S190513bm: MAXI/GSC Observations,['GW'],1,4,0.25,16
 LIGO/Virgo S190513bm,24528.0,LIGO/Virgo S190513bm: AGILE GRID observations,['GW'],1,4,0.25,16
-LIGO/Virgo S190513bm,24523.0,LIGO/Virgo S190513bm: HAWC follow-up,['GW'],1,4,0.25,16
+LIGO/Virgo S190513bm,24523.0,LIGO/Virgo S190513bm: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
 LIGO/Virgo S190513bm,24546.0,LIGO/Virgo S190513bm: Lick/KAIT Follow-Up Observations,['GW'],1,4,0.25,16
 LIGO/Virgo S190513bm,24522.0,LIGO/Virgo S190513bm: Identification of a GW compact binary merger candidate,['GW'],1,4,0.25,16
 GRB 140620A,16426.0,GRB 140620A / iPTF14cva: Fermi GBM observations,"['GRB', 'Gamma-ray Transient']",2,4,0.5,6
@@ -782,7 +782,7 @@ LIGO/Virgo G275404,20759.0,LIGO/Virgo G275404: MASTER PSN detection from the max
 LIGO/Virgo G275404,20771.0,LIGO/Virgo G275404: MASTER bright PSN detected on 27 Feb from the maximum  of probability of LIGO localization,"['GW', 'Optical Transient']",2,5,0.4,46
 LIGO/Virgo G275404,20757.0,LIGO/Virgo G275404: Keck spectrum of MASTER OT J105958.00-115756.5,"['GW', 'Optical Transient']",2,5,0.4,46
 LIGO/Virgo G275404,20762.0,LIGO/Virgo G275404: Keck LRIS classification of MASTER PSN candidate,"['GW', 'Optical Transient']",2,5,0.4,46
-LIGO/Virgo G275404,20811.0,LIGO/Virgo G275404: HAWC follow-up,['GW'],1,5,0.2,46
+LIGO/Virgo G275404,20811.0,LIGO/Virgo G275404: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,5,0.4,46
 LIGO/Virgo G275404,20814.0,LIGO/Virgo G275404: Liverpool Telescope classification of EM candidates,['GW'],1,5,0.2,46
 LIGO/Virgo G275404,20834.0,LIGO/Virgo G275404 and AGL J1914+1043: INTEGRAL follow-up,"['GW', 'Gamma-ray Transient']",2,5,0.4,46
 LIGO/Virgo G275404,20746.0,LIGO/Virgo G275404: Swift/BAT data search,"['GW', 'Gamma-ray Transient']",2,5,0.4,46
@@ -1066,7 +1066,7 @@ LIGO/Virgo S191105e,26181.0,LIGO/Virgo S191105e: Upper limits from IceCube neutr
 LIGO/Virgo S191105e,26184.0,LIGO/Virgo S191105e: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,4,0.5,17
 LIGO/Virgo S191105e,26192.0,LIGO/Virgo S191105e: no counterpart candidates in the Swift/BAT observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S191105e,26213.0,LIGO/Virgo S191105e: Upper limits from Insight-HXMT/HE observations,['GW'],1,4,0.25,17
-LIGO/Virgo S191105e,26188.0,LIGO/Virgo S191105e: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,17
+LIGO/Virgo S191105e,26188.0,LIGO/Virgo S191105e: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S191105e,26245.0,LIGO/Virgo S191105e: Updated Sky Localization,['GW'],1,4,0.25,17
 LIGO/Virgo S191105e,26182.0,LIGO/Virgo S191105e: Identification of a GW compact binary merger candidate,['GW'],1,4,0.25,17
 LIGO/Virgo S191105e,26215.0,LIGO/Virgo S191105e: No significant candidates in FRAM-TAROT-GRANDMA observations,['GW'],1,4,0.25,17
@@ -1165,7 +1165,7 @@ LIGO/Virgo S190728q,25208.0,LIGO/Virgo S190728q: Update on Sky-Localization and 
 LIGO/Virgo S190728q,25193.0,LIGO/Virgo S190728q: No counterpart candidates in AGILE-MCAL observations,['GW'],1,6,0.16666666666666666,41
 LIGO/Virgo S190728q,25197.0,LIGO/Virgo S190728q: Second update on neutrino search with IceCube,"['GW', 'Neutrino']",2,6,0.3333333333333333,41
 LIGO/Virgo S190728q,25187.0,LIGO/Virgo S190728q: Identification of a GW compact binary merger candidate,['GW'],1,6,0.16666666666666666,41
-LIGO/Virgo S190728q,25191.0,LIGO/Virgo S190728q: No counterpart candidates in HAWC observations,['GW'],1,6,0.16666666666666666,41
+LIGO/Virgo S190728q,25191.0,LIGO/Virgo S190728q: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,41
 LIGO/Virgo S190728q,25189.0,LIGO/Virgo S190728q: SPI-ACS/INTEGRAL data analysis,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,41
 LIGO/Virgo S190728q,25215.0,LIGO/Virgo S190728q: Optical Counterpart Candidates from DECam-GROWTH,"['GW', 'Optical Transient']",2,6,0.3333333333333333,41
 LIGO/Virgo S190728q,25236.0,LIGO/Virgo S190728q: Correction to GCN #25235: also PS19dxm and DG19zrjmb are not associated with S190728q,['GW'],1,6,0.16666666666666666,41
@@ -1375,7 +1375,7 @@ LIGO/Virgo G298048,21531.0,LIGO/Virgo G298048: DLT40 optical candidate,"['GW', '
 LIGO/Virgo G298048,21676.0,LIGO/Virgo G298048: LOFAR follow-up,['GW'],1,10,0.1,179
 LIGO/Virgo G298048,21539.0,LIGO/Virgo G298048: DLT40 follow-up observation,['GW'],1,10,0.1,179
 LIGO/Virgo G298048,21669.0,LIGO/Virgo G298048: Properties of NGC 4993,['GW'],1,10,0.1,179
-LIGO/Virgo G298048,21683.0,LIGO/Virgo G298048: HAWC follow-up,['GW'],1,10,0.1,179
+LIGO/Virgo G298048,21683.0,LIGO/Virgo G298048: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,10,0.2,179
 LIGO/Virgo G298048,21624.0,LIGO/Virgo G298048: optical observations with BOOTES-5 at San Pedro Mártir,"['GW', 'Optical Transient']",2,10,0.2,179
 LIGO/Virgo G298048,21740.0,LIGO/Virgo G298048: Further ATCA follow-up of SSS17a in NGC 4993,['GW'],1,10,0.1,179
 LIGO/Virgo G298048,21674.0,LIGO/Virgo G298048: H.E.S.S. very-high energy gamma-ray follow-up,['GW'],1,10,0.1,179
@@ -1835,7 +1835,7 @@ GRB 151112A,18595.0,GRB 151112A: GROND Detection of the Optical/NIR Afterglow Ca
 GRB 151112A,18596.0,GRB 151112A: MAXI/GSC detection,"['GRB', 'Gamma-ray Transient']",2,5,0.4,11
 GRB 151112A,18593.0,GRB 151112A: Swift-BAT refined analysis,"['GRB', 'Gamma-ray Transient']",2,5,0.4,11
 GRB 151112A,18591.0,GRB 151112A: MASTER-NET  optical limit,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,11
-IceCube-200929A,28546.0,IceCube-200929A: No significant detection in HAWC,['Neutrino'],1,3,0.3333333333333333,9
+IceCube-200929A,28546.0,IceCube-200929A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,9
 IceCube-200929A,28541.0,Swift-XRT observations of IceCube 200929A,"['Neutrino', 'X-ray Transient']",2,3,0.6666666666666666,9
 IceCube-200929A,28532.0,IceCube-200929A: IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,3,0.3333333333333333,9
 IceCube-200929A,28552.0,IceCube-200929A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,9
@@ -1923,7 +1923,7 @@ LIGO/Virgo S190426c,24592.0,LIGO/Virgo S190426c: NICER X-ray Follow-Up of ZTF19a
 LIGO/Virgo S190426c,24275.0,LIGO/Virgo S190426c: Imaging confirmation and host spectroscopy of DG19vkgf,['GW'],1,6,0.16666666666666666,67
 LIGO/Virgo S190426c,24353.0,LIGO/Virgo S190426c: Swift rapid follow-up observations of S190425z and S190426c and URL for observation log for all future events,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,67
 LIGO/Virgo S190426c,24251.0,LIGO/Virgo S190426c: Nemo is Unrelated,['GW'],1,6,0.16666666666666666,67
-LIGO/Virgo S190426c,24235.0,LIGO/Virgo S190426c: HAWC follow-up,['GW'],1,6,0.16666666666666666,67
+LIGO/Virgo S190426c,24235.0,LIGO/Virgo S190426c: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,67
 LIGO/Virgo S190426c,24283.0,LIGO/Virgo S190426c: Optical Wide-field Search with the Zwicky Transient Facility,"['GW', 'Optical Transient']",2,6,0.3333333333333333,67
 LIGO/Virgo S190426c,24316.0,LIGO/Virgo S190426c: GROWTH India follow-up,['GW'],1,6,0.16666666666666666,67
 LIGO/Virgo S190426c,24433.0,LIGO/Virgo S190426c: INT Observations of ZTF19aassfws,"['GW', 'Optical Transient']",2,6,0.3333333333333333,67
@@ -2018,7 +2018,7 @@ IceCube-200117A,26815.0,IceCube-200117A : Upper limits from Insight-HXMT/HE obse
 IceCube-200117A,26811.0,IceCube-200117A: No Neutrino Counterpart in ANTARES data,['Neutrino'],1,2,0.5,10
 IceCube-200117A,26804.0,"IceCube-200117A: no counterpart candidates in INTEGRAL SPI-ACS and,IBIS prompt observation","['Gamma-ray Transient', 'Neutrino']",2,2,1.0,10
 IceCube-200117A,26816.0,IceCube-200117A: One Additional Candidate Counterpart from the Zwicky Transient Facility,['Neutrino'],1,2,0.5,10
-IceCube-200117A,26828.0,IceCube 200117A: No significant detection in HAWC,['Neutrino'],1,2,0.5,10
+IceCube-200117A,26828.0,IceCube 200117A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,10
 IceCube-200117A,26821.0,Fermi-LAT Gamma-ray Observations of IceCube-200117A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,10
 IceCube-200117A,26805.0,IceCube-200117A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,10
 GRB 070208,6079.0,GRB 070208: Early IR detection and afterglow astrometry,"['Afterglow', 'GRB', 'Gamma-ray Transient']",3,5,0.6,15
@@ -2783,7 +2783,7 @@ LIGO/Virgo S190517h,24654.0,LIGO/Virgo S190517h: Gaia Photometric Alerts transie
 LIGO/Virgo S190517h,24570.0,LIGO/Virgo S190517h: Identification of a GW compact binary merger candidate,['GW'],1,4,0.25,17
 LIGO/Virgo S190517h,24589.0,LIGO/Virgo S190517h: INTEGRAL prompt observation,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S190517h,24669.0,LIGO/Virgo S190517h: AstroSat CZTI upper limits,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
-LIGO/Virgo S190517h,24578.0,LIGO/Virgo S190517h: HAWC follow-up,['GW'],1,4,0.25,17
+LIGO/Virgo S190517h,24578.0,LIGO/Virgo S190517h: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 EP240913a,37515.0,EP240913a: VLT/HAWK-I near-infrared upper limits,['X-ray Transient'],1,4,0.25,11
 EP240913a,37521.0,EP EP240913a: Global MASTER-Net observations report,"['Optical Transient', 'X-ray Transient']",2,4,0.5,11
 EP240913a,37500.0,EP240913a: JinShan optical upper limits,['X-ray Transient'],1,4,0.25,11
@@ -2857,7 +2857,7 @@ LIGO/Virgo S200225q,27209.0,LIGO/Virgo S200225q: Upper limits from Fermi-GBM Obs
 LIGO/Virgo S200225q,27229.0,LIGO/Virgo S200225q: Updated Sky Localization,['GW'],1,5,0.2,21
 LIGO/Virgo S200225q,27526.0,"LIGO/Virgo S200225q: Swift XRT observations, 1 X-ray sources","['GW', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,21
 LIGO/Virgo S200225q,27203.0,LIGO/Virgo S200225q: Upper limits from IceCube neutrino searches,"['GW', 'Neutrino']",2,5,0.4,21
-LIGO/Virgo S200225q,27202.0,LIGO/Virgo S200225q: No counterpart candidates in HAWC observations,['GW'],1,5,0.2,21
+LIGO/Virgo S200225q,27202.0,LIGO/Virgo S200225q: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,21
 LIGO/Virgo S200225q,27201.0,LIGO/Virgo S200225q : no neutrino counterpart candidate in ANTARES search,"['GW', 'Neutrino']",2,5,0.4,21
 LIGO/Virgo S200225q,27198.0,LIGO/Virgo S200225q: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['GW', 'Gamma-ray Transient']",2,5,0.4,21
 LIGO/Virgo S200225q,27282.0,LIGO/Virgo S200225q: AstroSat CZTI upper limits,"['GW', 'Gamma-ray Transient']",2,5,0.4,21
@@ -3015,57 +3015,57 @@ GRB 061004,5774.0,GRB 061004: Swift/XRT Astrometry Correction,"['GRB', 'Gamma-ra
 GRB 061004,5691.0,GRB 061004: Swift detection of a burst,"['GRB', 'Gamma-ray Transient']",2,5,0.4,9
 GRB 061004,5697.0,GRB 061004: Las Campanas Optical/NIR Observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,9
 GRB 061004,5698.0,GRB 061004: Optical afterglow candidate and redshift,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,5,0.8,9
-LIGO/Virgo S191213g,26417.0,LIGO/Virgo S191213g: Updated Sky Localization,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26423.0,LIGO/Virgo S191213g: No neutrino candidates at Pierre Auger Observatory,"['GW', 'Neutrino']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26501.0,LIGO/Virgo S191213g: Swift UVOT/XRT observations of Pan-STARRS1 candidate: PS19hgw,"['GW', 'Gamma-ray Transient', 'X-ray Transient']",3,6,0.5,51
-LIGO/Virgo S191213g,26428.0,LIGO/Virgo S191213g: GRAWITA TNG classification of ZTF19acykzsk,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26527.0,LIGO/Virgo S191213g: VLA follow-up of AT2019wxt/PS19hg,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26425.0,LIGO/Virgo S191213g: AstroSat CZTI upper limits,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26504.0,LIGO/Virgo S191213g: VLT spectrum of AT2019wxt (PS19hgw) - a probable Ib supernova,"['GW', 'Optical Transient', 'SN']",3,6,0.5,51
-LIGO/Virgo S191213g,26470.0,LIGO/Virgo S191213g: MASTER OT J064855.37-055545.7 is a dwarf nova,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26558.0,LIGO/Virgo S191213g : No significant candidates found in GRANDMA citizen science observations,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26490.0,LIGO/Virgo S191213g: HCT spectroscopy of PS19hgw / AT2019wxt,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26437.0,LIGO/Virgo S191213g: Additional candidates from the Zwicky Transient Facility,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26510.0,LIGO/Virgo S191213g: YAHPT Observations of AT2019wxt(PS19hgw),"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26521.0,LIGO/Virgo S191213g: AT2019wxt 10.4m GTC spectroscopy,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26431.0,LIGO/Virgo S191213g: Lulin Follow-up Observations of ZTF19acykzsk/AT2019wqj,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26467.0,LIGO/Virgo S191213g:  MASTER OT detection in BNS error-box,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,27057.0,LIGO/Virgo S191213g: AT2019wxt Wendelstein optical observations,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26402.0,LIGO/Virgo S191213g: Identification of a GW compact binary merger candidate,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26409.0,LIGO/Virgo S191213g: Upper limits from Fermi-GBM Observations,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26426.0,LIGO/Virgo S191213g: Liverpool Telescope spectroscopy of ZTF candidates,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26403.0,LIGO/Virgo S191213g: Coverage and upper limits from MAXI/GSC observations,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26517.0,LIGO/Virgo S191213g: DCT observation of AT2019wxt,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26827.0,LIGO/Virgo S191213g: Upper limits from Konus-Wind observations,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26430.0,LIGO/Virgo S191213g: Pan-STARRS1 previous detections of ZTF19acykzsk,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26471.0,LIGO/Virgo S191213g: Swift UVOT/XRT observations of three ZTF sources,"['GW', 'Gamma-ray Transient', 'Optical Transient', 'X-ray Transient']",4,6,0.6666666666666666,51
-LIGO/Virgo S191213g,26404.0,LIGO/Virgo S191213g : no neutrino counterpart candidate in ANTARES search,"['GW', 'Neutrino']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26491.0,LIGO/Virgo S191213g: NOT optical spectroscopy of AT2019wxt (PS19hgw),"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26433.0,LIGO/Virgo S191213g: Upper limits from Insight-HXMT/HE observations,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26488.0,LIGO/Virgo S191213g: No counterpart candidate in the NOWT observations,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26429.0,LIGO/Virgo S191213g: WHT spectroscopy of candidate counterparts,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26499.0,LIGO/Virgo S191213g: GRAWITA TNG NIR imaging of AT2019wxt (PS19hgw),"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26400.0,LIGO/Virgo S191213g: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26591.0,LIGO/Virgo S191213g: AT2019wxt 10.4m GTC further spectroscopy,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26500.0,LIGO/Virgo S191213g: Palomar 60-inch imaging of AT2019wxt,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26419.0,LIGO/Virgo S191213g: No transient candidates in CALET observations,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26520.0,LIGO/Virgo S191213g : SAO 1-m optical observation of AT2019wxt (PS19hgw),"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26503.0,LIGO/Virgo S191213g: Lulin Follow-up Observations of AT2019wxt,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26508.0,LIGO/Virgo S191213g: LBT spectrum of AT2019wxt (PS19hgw) reveals a type IIb supernova,"['GW', 'Optical Transient', 'SN']",3,6,0.5,51
-LIGO/Virgo S191213g,26412.0,LIGO/Virgo S191213g: No counterpart candidates in Fermi-LAT observations,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26492.0,"LIGO/Virgo S191213g: AT2019wnh, AT2019wnk and AT2019wrt 10.4m GTC spectroscopy","['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26399.0,LIGO/Virgo S191213g: Upper limits from IceCube neutrino searches,"['GW', 'Neutrino']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26410.0,LIGO/Virgo S191213g: no counterpart candidates in the Swift/BAT observations,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26407.0,LIGO/Virgo S191213g: upper limits from AGILE-MCAL observations,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26408.0,LIGO/Virgo S191213g: upper limits from AGILE-GRID observations,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26432.0,LIGO/Virgo S191213g: LCOGT photometry of ZTF19acymaru/AT2019wnh,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26424.0,LIGO/Virgo S191213g: Candidates from the Zwicky Transient Facility,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26485.0,LIGO/Virgo S191213g: Pan-STARRS1 discovery of a potential optical counterpart,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26477.0,LIGO/Virgo S191213g: No candidates found in J-GEM follow-up observations,['GW'],1,6,0.16666666666666666,51
-LIGO/Virgo S191213g,26401.0,LIGO/Virgo S191213g: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26497.0,LIGO/Virgo S191213g:  MASTER observation of AT2019wxt (PS19hgw),"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26577.0,LIGO/Virgo S191213g: Pan-STARRS monitoring shows PS19hgw (AT2019wxt) to be fading quickly,"['GW', 'Optical Transient']",2,6,0.3333333333333333,51
-LIGO/Virgo S191213g,26427.0,LIGO/Virgo S191213g: GMOS-N spectroscopy shows ZTF19acykzsk/AT2019wqj is a SN II,"['GW', 'Optical Transient', 'SN']",3,6,0.5,51
+LIGO/Virgo S191213g,26417.0,LIGO/Virgo S191213g: Updated Sky Localization,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26423.0,LIGO/Virgo S191213g: No neutrino candidates at Pierre Auger Observatory,"['GW', 'Neutrino']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26501.0,LIGO/Virgo S191213g: Swift UVOT/XRT observations of Pan-STARRS1 candidate: PS19hgw,"['GW', 'Gamma-ray Transient', 'X-ray Transient']",3,7,0.42857142857142855,51
+LIGO/Virgo S191213g,26428.0,LIGO/Virgo S191213g: GRAWITA TNG classification of ZTF19acykzsk,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26527.0,LIGO/Virgo S191213g: VLA follow-up of AT2019wxt/PS19hg,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26425.0,LIGO/Virgo S191213g: AstroSat CZTI upper limits,"['GW', 'Gamma-ray Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26504.0,LIGO/Virgo S191213g: VLT spectrum of AT2019wxt (PS19hgw) - a probable Ib supernova,"['GW', 'Optical Transient', 'SN']",3,7,0.42857142857142855,51
+LIGO/Virgo S191213g,26470.0,LIGO/Virgo S191213g: MASTER OT J064855.37-055545.7 is a dwarf nova,"['GW', 'Nova', 'Optical Transient']",3,7,0.42857142857142855,51
+LIGO/Virgo S191213g,26558.0,LIGO/Virgo S191213g : No significant candidates found in GRANDMA citizen science observations,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26490.0,LIGO/Virgo S191213g: HCT spectroscopy of PS19hgw / AT2019wxt,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26437.0,LIGO/Virgo S191213g: Additional candidates from the Zwicky Transient Facility,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26510.0,LIGO/Virgo S191213g: YAHPT Observations of AT2019wxt(PS19hgw),"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26521.0,LIGO/Virgo S191213g: AT2019wxt 10.4m GTC spectroscopy,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26431.0,LIGO/Virgo S191213g: Lulin Follow-up Observations of ZTF19acykzsk/AT2019wqj,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26467.0,LIGO/Virgo S191213g:  MASTER OT detection in BNS error-box,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,27057.0,LIGO/Virgo S191213g: AT2019wxt Wendelstein optical observations,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26402.0,LIGO/Virgo S191213g: Identification of a GW compact binary merger candidate,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26409.0,LIGO/Virgo S191213g: Upper limits from Fermi-GBM Observations,"['GW', 'Gamma-ray Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26426.0,LIGO/Virgo S191213g: Liverpool Telescope spectroscopy of ZTF candidates,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26403.0,LIGO/Virgo S191213g: Coverage and upper limits from MAXI/GSC observations,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26517.0,LIGO/Virgo S191213g: DCT observation of AT2019wxt,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26827.0,LIGO/Virgo S191213g: Upper limits from Konus-Wind observations,"['GW', 'Gamma-ray Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26430.0,LIGO/Virgo S191213g: Pan-STARRS1 previous detections of ZTF19acykzsk,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26471.0,LIGO/Virgo S191213g: Swift UVOT/XRT observations of three ZTF sources,"['GW', 'Gamma-ray Transient', 'Optical Transient', 'X-ray Transient']",4,7,0.5714285714285714,51
+LIGO/Virgo S191213g,26404.0,LIGO/Virgo S191213g : no neutrino counterpart candidate in ANTARES search,"['GW', 'Neutrino']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26491.0,LIGO/Virgo S191213g: NOT optical spectroscopy of AT2019wxt (PS19hgw),"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26433.0,LIGO/Virgo S191213g: Upper limits from Insight-HXMT/HE observations,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26488.0,LIGO/Virgo S191213g: No counterpart candidate in the NOWT observations,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26429.0,LIGO/Virgo S191213g: WHT spectroscopy of candidate counterparts,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26499.0,LIGO/Virgo S191213g: GRAWITA TNG NIR imaging of AT2019wxt (PS19hgw),"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26400.0,LIGO/Virgo S191213g: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26591.0,LIGO/Virgo S191213g: AT2019wxt 10.4m GTC further spectroscopy,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26500.0,LIGO/Virgo S191213g: Palomar 60-inch imaging of AT2019wxt,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26419.0,LIGO/Virgo S191213g: No transient candidates in CALET observations,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26520.0,LIGO/Virgo S191213g : SAO 1-m optical observation of AT2019wxt (PS19hgw),"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26503.0,LIGO/Virgo S191213g: Lulin Follow-up Observations of AT2019wxt,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26508.0,LIGO/Virgo S191213g: LBT spectrum of AT2019wxt (PS19hgw) reveals a type IIb supernova,"['GW', 'Optical Transient', 'SN']",3,7,0.42857142857142855,51
+LIGO/Virgo S191213g,26412.0,LIGO/Virgo S191213g: No counterpart candidates in Fermi-LAT observations,"['GW', 'Gamma-ray Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26492.0,"LIGO/Virgo S191213g: AT2019wnh, AT2019wnk and AT2019wrt 10.4m GTC spectroscopy","['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26399.0,LIGO/Virgo S191213g: Upper limits from IceCube neutrino searches,"['GW', 'Neutrino']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26410.0,LIGO/Virgo S191213g: no counterpart candidates in the Swift/BAT observations,"['GW', 'Gamma-ray Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26407.0,LIGO/Virgo S191213g: upper limits from AGILE-MCAL observations,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26408.0,LIGO/Virgo S191213g: upper limits from AGILE-GRID observations,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26432.0,LIGO/Virgo S191213g: LCOGT photometry of ZTF19acymaru/AT2019wnh,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26424.0,LIGO/Virgo S191213g: Candidates from the Zwicky Transient Facility,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26485.0,LIGO/Virgo S191213g: Pan-STARRS1 discovery of a potential optical counterpart,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26477.0,LIGO/Virgo S191213g: No candidates found in J-GEM follow-up observations,['GW'],1,7,0.14285714285714285,51
+LIGO/Virgo S191213g,26401.0,LIGO/Virgo S191213g: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['GW', 'Gamma-ray Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26497.0,LIGO/Virgo S191213g:  MASTER observation of AT2019wxt (PS19hgw),"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26577.0,LIGO/Virgo S191213g: Pan-STARRS monitoring shows PS19hgw (AT2019wxt) to be fading quickly,"['GW', 'Optical Transient']",2,7,0.2857142857142857,51
+LIGO/Virgo S191213g,26427.0,LIGO/Virgo S191213g: GMOS-N spectroscopy shows ZTF19acykzsk/AT2019wqj is a SN II,"['GW', 'Optical Transient', 'SN']",3,7,0.42857142857142855,51
 GRB 071025,7001.0,GRB071025: Optical Pre-imaging from Palomar,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,17
 GRB 071025,7005.0,GRB 071025: SARA VRI upper limits,"['GRB', 'Gamma-ray Transient']",2,5,0.4,17
 GRB 071025,6990.0,GRB 071025: Swift XRT refined position,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,17
@@ -3603,7 +3603,7 @@ LIGO/Virgo S190425z,24191.0,LIGO/Virgo S190425z: Candidates from the Zwicky Tran
 LIGO/Virgo S190425z,24309.0,LIGO/Virgo S190425z: ASAS-SN observations,"['GW', 'SN']",2,7,0.2857142857142857,117
 LIGO/Virgo S190425z,24204.0,LIGO/Virgo S190425z: Liverpool Telescope spectroscopy of ZTF19aarykkb,"['GW', 'Optical Transient']",2,7,0.2857142857142857,117
 LIGO/Virgo S190425z,24185.0,LIGO/Virgo S190425z: Fermi GBM Observations,"['GW', 'Gamma-ray Transient']",2,7,0.2857142857142857,117
-LIGO/Virgo S190425z,24173.0,LIGO/VirgoS190425z: HAWC follow-up,['GW'],1,7,0.14285714285714285,117
+LIGO/Virgo S190425z,24173.0,LIGO/VirgoS190425z: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,7,0.2857142857142857,117
 LIGO/Virgo S190425z,24172.0,LIGO/Virgo S190425z: SAGUARO follow-up observations,['GW'],1,7,0.14285714285714285,117
 LIGO/Virgo S190425z,24224.0,LIGO/Virgo S190425z: GOTO observations,['GW'],1,7,0.14285714285714285,117
 LIGO/Virgo S190425z,24178.0,LIGO/Virgo S190425z: further analysis of INTEGRAL data,"['GW', 'Gamma-ray Transient']",2,7,0.2857142857142857,117
@@ -3881,7 +3881,7 @@ GRB 231215A,35366.0,GRB 231215A: Swift/UVOT Detection,"['GRB', 'Gamma-ray Transi
 GRB 231215A,35367.0,GRB 231215A : OHP/T193 optical afterglow detection,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,5,0.8,28
 GRB 231215A,35368.0,GRB 231215A: CALET Gamma-Ray Burst Monitor detection,"['GRB', 'Gamma-ray Transient']",2,5,0.4,28
 LIGO/Virgo S191205ah,26382.0,LIGO/Virgo S191205ah: MASTER OT 1.5m OSN imaging and 10.4m GTC spectroscopy,"['GW', 'Optical Transient']",2,4,0.5,31
-LIGO/Virgo S191205ah,26354.0,LIGO/Virgo S191205ah: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,31
+LIGO/Virgo S191205ah,26354.0,LIGO/Virgo S191205ah: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,31
 LIGO/Virgo S191205ah,26353.0,LIGO/Virgo S191205ah: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,4,0.5,31
 LIGO/Virgo S191205ah,26349.0,LIGO/Virgo S191205ah: Upper limits from IceCube neutrino searches,"['GW', 'Neutrino']",2,4,0.5,31
 LIGO/Virgo S191205ah,26405.0,LIGO/Virgo S191205ah:  AT2019wfa 10.4m GTC spectroscopy,"['GW', 'Optical Transient']",2,4,0.5,31
@@ -3918,7 +3918,7 @@ LIGO/Virgo G268556,20553.0,LIGO/Virgo G268556: FLOYDS Spectrum of iPTF17cf/PS17f
 LIGO/Virgo G268556,21159.0,LIGO/Virgo G268556: BSA radio observations at 110 MHz,['GW'],1,7,0.14285714285714285,64
 LIGO/Virgo G268556,20409.0,LIGO/Virgo G268556/GW170104: 10.4m GTC spectroscopic observations of iPTF17fs,['GW'],1,7,0.14285714285714285,64
 LIGO/Virgo G268556,20369.0,LIGO/Virgo G268556: observation regions by Project Mini-GWAC of SVOM,"['GW', 'Gamma-ray Transient']",2,7,0.2857142857142857,64
-LIGO/Virgo G268556,20384.0,LIGO/Virgo G268556: HAWC follow-up of northern sky,['GW'],1,7,0.14285714285714285,64
+LIGO/Virgo G268556,20384.0,LIGO/Virgo G268556: HAWC follow-up of northern sky,"['GW', 'Gamma-ray Transient']",2,7,0.2857142857142857,64
 LIGO/Virgo G268556,20421.0,LIGO/Virgo G268556: Lijiang Observatory GMG Telescope Upper Limit on ATLAS17aeu,['GW'],1,7,0.14285714285714285,64
 LIGO/Virgo G268556,20459.0,LIGO/Virgo G268556:  spectra of two nuclear transients PS17fr and PS17er,['GW'],1,7,0.14285714285714285,64
 LIGO/Virgo G268556,20413.0,LIGO/Virgo G268556: ATLAS17aeu position is consistent with GRB170105A,"['GRB', 'GW', 'Gamma-ray Transient']",3,7,0.42857142857142855,64
@@ -4541,7 +4541,7 @@ LIGO/Virgo S190510g,24495.0,LIGO/Virgo S190510g: CALET Observations,['GW'],1,6,0
 LIGO/Virgo S190510g,24541.0,LIGO/Virgo S190510g: Swift-XRT observations and results,"['GW', 'X-ray Transient']",2,6,0.3333333333333333,52
 LIGO/Virgo S190510g,24493.0,LIGO/Virgo S190510g: KMTNet observation of DECam-GROWTH and DESGW candidates,['GW'],1,6,0.16666666666666666,52
 LIGO/Virgo S190510g,24487.0,LIGO/Virgo S190510g: Non-detection of the OT in PGC 094244,"['GW', 'Optical Transient']",2,6,0.3333333333333333,52
-LIGO/Virgo S190510g,24441.0,LIGO/Virgo S190510g: HAWC follow-up,['GW'],1,6,0.16666666666666666,52
+LIGO/Virgo S190510g,24441.0,LIGO/Virgo S190510g: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,52
 LIGO/Virgo S190510g,24467.0,LIGO/Virgo S190510g: Optical Counterpart Candidates from DECam-GROWTH,"['GW', 'Optical Transient']",2,6,0.3333333333333333,52
 LIGO/Virgo S190510g,24468.0,LIGO/Virgo S190510g: SOAR/Goodman follow-up observations,['GW'],1,6,0.16666666666666666,52
 LIGO/Virgo S190510g,24453.0,LIGO/Virgo S190510g: CLU/NED Galaxies in the Localization Volume,['GW'],1,6,0.16666666666666666,52
@@ -4885,7 +4885,7 @@ IceCube-201114A,28910.0,IceCube-201114A: Upper limits from a search for addition
 IceCube-201114A,28955.0,IceCube-201114A: Updated photometry for three DECam candidate optical counterparts,"['Neutrino', 'Optical Transient']",2,4,0.5,11
 IceCube-201114A,28918.0,Fermi-LAT Gamma-ray Observations of IceCube-201114A,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,11
 IceCube-201114A,28894.0,IceCube-201114A: Upper limits from Fermi GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,11
-IceCube-201114A,28908.0,IceCube-201114A: No significant detection in HAWC,['Neutrino'],1,4,0.25,11
+IceCube-201114A,28908.0,IceCube-201114A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,11
 GRB 180202A,22400.0,GRB 180202A: Insight-HXMT/HE detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 EP251130a,42940.0,EP251130a: SVOM/VT optical observation,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,18
 EP251130a,42922.0,EP251130a: Mondy optical observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,18
@@ -5568,7 +5568,7 @@ IceCube-210922A,30937.0,IceCube-210922A: Hard X-ray flux limit for JCMT/SCUBA2 s
 IceCube-210922A,30891.0,IceCube-210922A: SMA observation for the JCMT candidate,['Neutrino'],1,3,0.3333333333333333,12
 IceCube-210922A,30923.0,IceCube-210922A: DESI Observations,['Neutrino'],1,3,0.3333333333333333,12
 IceCube-210922A,30871.0,IceCube-210922A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,12
-IceCube-210922A,30876.0,IceCube-210922A: No significant detection in HAWC,['Neutrino'],1,3,0.3333333333333333,12
+IceCube-210922A,30876.0,IceCube-210922A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,12
 GRB 011211,1311.0,GRB011211: HST Observations of Optical Afterglow and Host Galaxy,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,5,0.8,17
 GRB 011211,1203.0,GRB 011211: TNG Spectroscopic Observations,"['GRB', 'Gamma-ray Transient']",2,5,0.4,17
 GRB 011211,1303.0,GRB011211 revised BVRI field photometry,"['GRB', 'Gamma-ray Transient']",2,5,0.4,17
@@ -5816,7 +5816,7 @@ LIGO/Virgo S190521g,24646.0,LIGO/Virgo S190521g: Swift/BAT Counterpart Search,"[
 LIGO/Virgo S190521g,24670.0,LIGO/Virgo S190521g: AstroSat CZTI upper limits,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S190521g,24657.0,LIGO/Virgo S190521g: No optical counterpart from SVOM/GWAC observations.,"['GW', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,18
 LIGO/Virgo S190521g,24639.0,LIGO/Virgo S190521g: No candidate counterpart in Fermi-LAT observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
-LIGO/Virgo S190521g,24622.0,LIGO/Virgo S190521g: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,18
+LIGO/Virgo S190521g,24622.0,LIGO/Virgo S190521g: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S190521g,24651.0,LIGO/Virgo S190521g: Upper limits from Insight-HXMT/HE observations,['GW'],1,4,0.25,18
 LIGO/Virgo S190521g,24648.0,LIGO/Virgo S190521g: Upper limits from CALET observations,['GW'],1,4,0.25,18
 LIGO/Virgo S190521g,24640.0,LIGO/Virgo S190521g: Updated sky localization,['GW'],1,4,0.25,18
@@ -6012,7 +6012,7 @@ LIGO/Virgo G211117,18843.0,LIGO/Virgo G211117: Pi of the Sky observations,['GW']
 LIGO/Virgo G211117,18824.0,LIGO/Virgo G211117: Summary of Pan-STARRS transients,"['GW', 'Optical Transient']",2,5,0.4,70
 LIGO/Virgo G211117,18780.0,LIGO/Virgo G211117: VLA follow-up,['GW'],1,5,0.2,70
 LIGO/Virgo G211117,18822.0,LIGO/Virgo G211117: INAF TNG follow-up of Kanata telescope candidate,['GW'],1,5,0.2,70
-LIGO/Virgo G211117,19156.0,LIGO/Virgo G211117: HAWC follow-up of northern sky,['GW'],1,5,0.2,70
+LIGO/Virgo G211117,19156.0,LIGO/Virgo G211117: HAWC follow-up of northern sky,"['GW', 'Gamma-ray Transient']",2,5,0.4,70
 LIGO/Virgo G211117,18889.0,LIGO/Virgo G211117: Refined localization from CBC parameter estimation,['GW'],1,5,0.2,70
 LIGO/Virgo G211117,18762.0,LIGO/Virgo G211117: iPTF Optical Transient Candidates,"['GW', 'Optical Transient']",2,5,0.4,70
 LIGO/Virgo G211117,18775.0,LIGO/Virgo G211117: INAF TNG follow-up of MASTER OT J020906.21+013800.1,"['GW', 'Optical Transient']",2,5,0.4,70
@@ -6223,7 +6223,7 @@ EP250702a,40919.0,GRBs 250702B/C/D/E / EP250702a: Swift XRT localization,"['GRB'
 EP250702a,40983.0,"EP250702a/GRB 250702B,C,D,E: Archival radio observations from ASKAP VAST","['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,23
 LIGO/Virgo S200105ae,26642.0,LIGO/Virgo S200105ae: We have issued GCN Notices to support automated processing,['GW'],1,4,0.25,25
 LIGO/Virgo S200105ae,26686.0,LIGO/Virgo S200105ae: Gaia Photometric Alerts transient candidate,['GW'],1,4,0.25,25
-LIGO/Virgo S200105ae,26650.0,LIGO/Virgo S200105ae: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,25
+LIGO/Virgo S200105ae,26650.0,LIGO/Virgo S200105ae: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,25
 LIGO/Virgo S200105ae,26810.0,LIGO/Virgo S200105ae: More candidates from the Zwicky Transient Facility,['GW'],1,4,0.25,25
 LIGO/Virgo S200105ae,26644.0,LIGO/Virgo S200105ae: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['GW', 'Gamma-ray Transient']",2,4,0.5,25
 LIGO/Virgo S200105ae,26640.0,LIGO/Virgo S200105ae: A subthreshold GW compact binary merger candidate,['GW'],1,4,0.25,25
@@ -6435,7 +6435,7 @@ LIGO/Virgo G299232,21962.0,LIGO/Virgo G299232: LOFAR follow-up,['GW'],1,6,0.1666
 LIGO/Virgo G299232,21749.0,LIGO/Virgo G299232/PGWB170825.55: early MASTER observations of the Swift UVOT source position,"['GW', 'Gamma-ray Transient', 'Optical Transient']",3,6,0.5,55
 LIGO/Virgo G299232,21769.0,LIGO/Virgo G299232 ANTARES search (2),"['GW', 'Neutrino']",2,6,0.3333333333333333,55
 LIGO/Virgo G299232,21819.0,LIGO/Virgo G299232: Lulin Observations of Possible OTs,['GW'],1,6,0.16666666666666666,55
-LIGO/Virgo G299232,21759.0,LIGO/Virgo G299232: HAWC follow-up,['GW'],1,6,0.16666666666666666,55
+LIGO/Virgo G299232,21759.0,LIGO/Virgo G299232: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,55
 LIGO/Virgo G299232,22651.0,LIGO/Virgo G299232: LOFAR follow-up,['GW'],1,6,0.16666666666666666,55
 LIGO/Virgo G299232,21745.0,LIGO/Virgo G299232: GRAWITA Asiago/Copernico Telescope observations,['GW'],1,6,0.16666666666666666,55
 LIGO/Virgo G299232,21780.0,LIGO/Virgo G299232: XSNAOC spectral observation of MASTER OTJ033744.97+723159.0,"['GW', 'Optical Transient']",2,6,0.3333333333333333,55
@@ -6609,7 +6609,7 @@ GRB 050713B,3600.0,GRB 050713B:  Swift-BAT Refined Analysis,"['GRB', 'Gamma-ray 
 GRB 050713B,3593.0,GRB 050713b : Lulin R-band observations,"['GRB', 'Gamma-ray Transient']",2,4,0.5,8
 GRB 050713B,3701.0,GRB050713b: Maidanak optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,8
 GRB 050713B,3603.0,GRB050713B :Swift/UVOT observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,8
-LIGO/Virgo S191216ap,26479.0,LIGO/Virgo S191216ap: CORRECTED list of galaxies coincident with LIGO/Virgo and HAWC positions,['GW'],1,5,0.2,38
+LIGO/Virgo S191216ap,26479.0,LIGO/Virgo S191216ap: CORRECTED list of galaxies coincident with LIGO/Virgo and HAWC positions,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
 LIGO/Virgo S191216ap,26835.0,LIGO/Virgo S191216ap: Upper limits from Konus-Wind observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
 LIGO/Virgo S191216ap,26454.0,LIGO/Virgo S191216ap: Identification of a GW compact binary merger candidate,['GW'],1,5,0.2,38
 LIGO/Virgo S191216ap,26460.0,LIGO/Virgo S191216ap: 1 counterpart neutrino candidate from IceCube neutrino searches,"['GW', 'Neutrino']",2,5,0.4,38
@@ -6621,28 +6621,28 @@ LIGO/Virgo S191216ap,26456.0,LIGO/Virgo S191216ap: no INTEGRAL observation,"['GW
 LIGO/Virgo S191216ap,26569.0,LIGO/Virgo S191216ap: Upper limits from Insight-HXMT/HE observations,['GW'],1,5,0.2,38
 LIGO/Virgo S191216ap,26529.0,LIGO/Virgo S191216ap:  MASTER optical observation,"['GW', 'Optical Transient']",2,5,0.4,38
 LIGO/Virgo S191216ap,26489.0,LIGO/Virgo S191216ap: Correction to GCN 26488 (NOWT observations),['GW'],1,5,0.2,38
-LIGO/Virgo S191216ap,26531.0,LIGO/Virgo S191216ap: VLA/JAGWAR radio monitoring of the 1-sigma HAWC region,['GW'],1,5,0.2,38
-LIGO/Virgo S191216ap,26476.0,LIGO/Virgo S191216ap: galaxies consistent with GW + Neutrino + HAWC position,"['GW', 'Neutrino']",2,5,0.4,38
-LIGO/Virgo S191216ap,26509.0,LIGO/Virgo S191216ap: Subaru/Hyper Suprime-Cam observations of GW+IceCube+HAWC error region,"['GW', 'Neutrino']",2,5,0.4,38
-LIGO/Virgo S191216ap,26455.0,LIGO/Virgo S191216ap: No counterpart candidates in HAWC observations,['GW'],1,5,0.2,38
+LIGO/Virgo S191216ap,26531.0,LIGO/Virgo S191216ap: VLA/JAGWAR radio monitoring of the 1-sigma HAWC region,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
+LIGO/Virgo S191216ap,26476.0,LIGO/Virgo S191216ap: galaxies consistent with GW + Neutrino + HAWC position,"['GW', 'Gamma-ray Transient', 'Neutrino']",3,5,0.6,38
+LIGO/Virgo S191216ap,26509.0,LIGO/Virgo S191216ap: Subaru/Hyper Suprime-Cam observations of GW+IceCube+HAWC error region,"['GW', 'Gamma-ray Transient', 'Neutrino']",3,5,0.6,38
+LIGO/Virgo S191216ap,26455.0,LIGO/Virgo S191216ap: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
 LIGO/Virgo S191216ap,26466.0,LIGO/Virgo S191216ap: no counterpart candidates in the Swift/BAT observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
-LIGO/Virgo S191216ap,26483.0,LIGO/Virgo S191216ap: GRAWITA Loiano observations of HAWC error region,['GW'],1,5,0.2,38
+LIGO/Virgo S191216ap,26483.0,LIGO/Virgo S191216ap: GRAWITA Loiano observations of HAWC error region,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
 LIGO/Virgo S191216ap,26475.0,LIGO/Virgo S191216ap and IceCube neutrino: Swift XRT sources,"['GW', 'Gamma-ray Transient', 'Neutrino', 'X-ray Transient']",4,5,0.8,38
 LIGO/Virgo S191216ap,26457.0,LIGO/Virgo S191216ap: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,5,0.4,38
 LIGO/Virgo S191216ap,26473.0,LIGO/Virgo S191216ap: No significant counterpart candidates in SAGUARO observations,['GW'],1,5,0.2,38
 LIGO/Virgo S191216ap,26528.0,LIGO/Virgo S191216ap : No significant candidates in FRAM-TAROT-GRANDMA observations,['GW'],1,5,0.2,38
-LIGO/Virgo S191216ap,26496.0,LIGO/Virgo S191216ap: No candidates found in J-GEM follow-up observations of HAWC error region,['GW'],1,5,0.2,38
+LIGO/Virgo S191216ap,26496.0,LIGO/Virgo S191216ap: No candidates found in J-GEM follow-up observations of HAWC error region,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
 LIGO/Virgo S191216ap,26505.0,LIGO/Virgo S191216ap: Updated Sky Localization,['GW'],1,5,0.2,38
 LIGO/Virgo S191216ap,26474.0,LIGO/Virgo S191216ap: IceCube event:   MASTER OF detection in GW and Neutrino  error field,"['GW', 'Neutrino', 'Optical Transient']",3,5,0.6,38
 LIGO/Virgo S191216ap,26605.0,LIGO/Virgo S191216ap: Two candidate counterparts from UKIRT/WFCAM z-band observations,['GW'],1,5,0.2,38
 LIGO/Virgo S191216ap,26478.0,LIGO/Virgo S191216ap: Nanshan follow-up observations,['GW'],1,5,0.2,38
 LIGO/Virgo S191216ap,26458.0,LIGO/Virgo S191216ap : no neutrino counterpart candidate in ANTARES search,"['GW', 'Neutrino']",2,5,0.4,38
 LIGO/Virgo S191216ap,26463.0,LIGO/Virgo S191216ap: Correction to GCN 26460 (IceCube event coincident with GW event),"['GW', 'Neutrino']",2,5,0.4,38
-LIGO/Virgo S191216ap,26472.0,LIGO/Virgo S191216ap: HAWC gamma-ray sub-threshold event coincident with LIGO/Virgo and IceCube localizations,"['GW', 'Neutrino']",2,5,0.4,38
+LIGO/Virgo S191216ap,26472.0,LIGO/Virgo S191216ap: HAWC gamma-ray sub-threshold event coincident with LIGO/Virgo and IceCube localizations,"['GW', 'Gamma-ray Transient', 'Neutrino']",3,5,0.6,38
 LIGO/Virgo S191216ap,26486.0,LIGO/Virgo S191216ap and IceCube neutrino: no counterpart candidates from AGILE-GRID observations,"['GW', 'Neutrino']",2,5,0.4,38
 LIGO/Virgo S191216ap,26464.0,LIGO/Virgo S191216ap: No Candidates from the Zwicky Transient Facility,['GW'],1,5,0.2,38
-LIGO/Virgo S191216ap,26487.0,LIGO/Virgo S191216ap: No candidates found in CHES observations of HAWC error region,['GW'],1,5,0.2,38
-LIGO/Virgo S191216ap,26507.0,LIGO/Virgo S191216ap: UPDATED list of galaxies coincident with LIGO/Virgo LALInference skymap and HAWC positions,['GW'],1,5,0.2,38
+LIGO/Virgo S191216ap,26487.0,LIGO/Virgo S191216ap: No candidates found in CHES observations of HAWC error region,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
+LIGO/Virgo S191216ap,26507.0,LIGO/Virgo S191216ap: UPDATED list of galaxies coincident with LIGO/Virgo LALInference skymap and HAWC positions,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
 LIGO/Virgo S191216ap,26511.0,LIGO/Virgo S191216ap: AstroSat CZTI upper limits,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
 LIGO/Virgo S191216ap,26461.0,LIGO/Virgo S191216ap: Upper limits from Fermi-GBM Observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
 LIGO/Virgo S191216ap,26498.0,"LIGO/Virgo S191216ap, Swift XRT observations: 16 X-ray sources in the HAWC error region search","['GW', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,38
@@ -7572,7 +7572,7 @@ LIGO/Virgo S190930t,25880.0,LIGO/Virgo S190930t: No counterpart candidates in IN
 LIGO/Virgo S190930t,25892.0,LIGO/Virgo S190930t: Upper limits from CALET observations.,['GW'],1,6,0.16666666666666666,36
 LIGO/Virgo S190930t,25966.0,"LIGO/Virgo S190930t: Swift XRT observations, no secure afterglow found","['Afterglow', 'GW', 'Gamma-ray Transient', 'X-ray Transient']",4,6,0.6666666666666666,36
 LIGO/Virgo S190930t,25922.0,LIGO/Virgo S190930t: Candidates from ATLAS observations and constraints on AT2019rpr and AT2019rpn,"['GW', 'Optical Transient']",2,6,0.3333333333333333,36
-LIGO/Virgo S190930t,25885.0,LIGO/Virgo S190930t: No counterpart candidates in HAWC observations,['GW'],1,6,0.16666666666666666,36
+LIGO/Virgo S190930t,25885.0,LIGO/Virgo S190930t: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,36
 LIGO/Virgo S190930t,25875.0,LIGO/Virgo S190930t: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,6,0.3333333333333333,36
 LIGO/Virgo S190930t,25897.0,LIGO/Virgo S190930t and S190930s: MASTER optical observation and optical transient,"['GW', 'Optical Transient']",2,6,0.3333333333333333,36
 LIGO/Virgo S190930t,25888.0,LIGO/Virgo S190930t: no counterpart candidates in the Swift/BAT observations,"['GW', 'Gamma-ray Transient']",2,6,0.3333333333333333,36
@@ -7783,7 +7783,7 @@ LIGO/Virgo S190421ar,24375.0,LIGO/Virgo S190421ar: Updated localization and clas
 LIGO/Virgo S190421ar,24156.0,LIGO/Virgo S190421ar/G330308: ANTARES neutrino search,"['GW', 'Neutrino']",2,4,0.5,12
 LIGO/Virgo S190421ar,24158.0,LIGO/Virgo S190421ar: Swift/BAT Counterpart Search,"['GW', 'Gamma-ray Transient']",2,4,0.5,12
 LIGO/Virgo S190421ar,24146.0,LIGO/Virgo S190421ar: Fermi-GBM Observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,12
-LIGO/Virgo S190421ar,24144.0,LIGO/Virgo S190421ar: HAWC follow-up,['GW'],1,4,0.25,12
+LIGO/Virgo S190421ar,24144.0,LIGO/Virgo S190421ar: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,4,0.5,12
 LIGO/Virgo S190421ar,24160.0,LIGO/Virgo S190421ar: Lick/KAIT Follow-Up Observations,['GW'],1,4,0.25,12
 LIGO/Virgo S190421ar,24153.0,LIGO/Virgo S190421ar: MAXI/GSC Observations,['GW'],1,4,0.25,12
 GRB 230414B,33614.0,Swift GRB 230414B: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,23
@@ -7989,7 +7989,7 @@ GRB 071122,7129.0,GRB 071122: MASTER optical observation,"['GRB', 'Gamma-ray Tra
 GRB 071122,7131.0,GRB071122: Swift/UVOT Observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,11
 GRB 240514E,36485.0,GRB 240514E: MAXI/GSC detection of a probable afterglow ,"['Afterglow', 'GRB', 'Gamma-ray Transient']",3,3,1.0,2
 GRB 240514E,36501.0,GRB 240514E: A possible candidate BD-21 1074,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,2
-IceCube-211208A,31199.0,IceCube-211208A: No significant detection in HAWC,['Neutrino'],1,3,0.3333333333333333,7
+IceCube-211208A,31199.0,IceCube-211208A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 IceCube-211208A,31225.0,IceCube-211208A: No neutrino counterpart detected with ANTARES,['Neutrino'],1,3,0.3333333333333333,7
 IceCube-211208A,31191.0,IceCube-211208A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,3,0.3333333333333333,7
 IceCube-211208A,31193.0,IceCube-211208A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
@@ -8290,7 +8290,7 @@ LIGO/Virgo S190910h,25735.0,LIGO/Virgo S190910h: Upper limits from CALET observa
 LIGO/Virgo S190910h,25710.0,LIGO/Virgo S190910h: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,22
 LIGO/Virgo S190910h,25732.0,LIGO/Virgo S190910h and S190910d: WHT photometry of ZTF candidates,"['GW', 'Optical Transient']",2,4,0.5,22
 LIGO/Virgo S190910h,25733.0,LIGO/Virgo S190910h: WHT spectroscopy of AT2019pyz/PS19fbi,"['GW', 'Optical Transient']",2,4,0.5,22
-LIGO/Virgo S190910h,25715.0,LIGO/Virgo S190910h: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,22
+LIGO/Virgo S190910h,25715.0,LIGO/Virgo S190910h: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,22
 LIGO/Virgo S190910h,25740.0,LIGO/Virgo S190910h: Gaia Photometric Alerts transient candidates,['GW'],1,4,0.25,22
 LIGO/Virgo S190910h,25709.0,LIGO/Virgo S190910h: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['GW', 'Gamma-ray Transient']",2,4,0.5,22
 LIGO/Virgo S190910h,25707.0,LIGO/Virgo S190910h: Identification of a GW compact binary merger candidate,['GW'],1,4,0.25,22
@@ -8805,7 +8805,7 @@ LIGO/Virgo S191129u,26303.0,LIGO/Virgo S191129u: Identification of a GW compact 
 LIGO/Virgo S191129u,26304.0,LIGO/Virgo S191129u: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,4,0.5,17
 LIGO/Virgo S191129u,26824.0,LIGO/Virgo S191129u: Upper limits from Konus-Wind observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S191129u,26383.0,LIGO/Virgo S191129u: Updated Sky Localization,['GW'],1,4,0.25,17
-LIGO/Virgo S191129u,26310.0,LIGO/Virgo S191129u: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,17
+LIGO/Virgo S191129u,26310.0,LIGO/Virgo S191129u: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S191129u,26314.0,LIGO/Virgo S191129u: not observable by Fermi-GBM,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S191129u,26305.0,LIGO/Virgo S191129u: Upper limits from IceCube neutrino searches,"['GW', 'Neutrino']",2,4,0.5,17
 LIGO/Virgo S191129u,26307.0,LIGO/Virgo S191129u : no neutrino counterpart candidate in ANTARES search,"['GW', 'Neutrino']",2,4,0.5,17
@@ -8856,7 +8856,7 @@ IceCube-180908A,23222.0,Fermi-LAT Gamma-ray Observations of IceCube-180908A,"['G
 IceCube-180908A,23224.0,IceCube-180908A: CALET Gamma-Ray Burst Monitor upper limits,"['GRB', 'Gamma-ray Transient', 'Neutrino']",3,3,1.0,7
 IceCube-180908A,23218.0,Search for counterpart to IceCube-180908A with ANTARES,['Neutrino'],1,3,0.3333333333333333,7
 IceCube-180908A,23214.0,IceCube-180908A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,3,0.3333333333333333,7
-IceCube-180908A,23219.0,IceCube-180908A: HAWC follow-up,['Neutrino'],1,3,0.3333333333333333,7
+IceCube-180908A,23219.0,IceCube-180908A: HAWC follow-up,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 IceCube-180908A,23221.0,INTEGRAL observation of IceCube-180908A,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 GRB 100117A,10345.0,GRB 100117A: Fermi GBM detection,"['GRB', 'Gamma-ray Transient']",2,5,0.4,12
 GRB 100117A,10340.0,GRB 100117A: Magellan IMACS imaging,"['GRB', 'Gamma-ray Transient']",2,5,0.4,12
@@ -9447,7 +9447,7 @@ IceCube-201007A,28609.0,IceCube-201007A: No candidate counterparts from the Zwic
 IceCube-201007A,28576.0,IceCube-201007A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-201007A,28582.0,Fermi-LAT Gamma-ray Observations of IceCube-201007A,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-201007A,28575.0,IceCube-201007A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,3,0.3333333333333333,8
-IceCube-201007A,28592.0,IceCube-201007A: No significant detection in HAWC,['Neutrino'],1,3,0.3333333333333333,8
+IceCube-201007A,28592.0,IceCube-201007A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-201007A,28590.0,IceCube-201007A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,8
 IceCube-201007A,28579.0,Swift-XRT observations of IceCube 201007A,"['Neutrino', 'X-ray Transient']",2,3,0.6666666666666666,8
 GRB 220724A,32424.0,Fermi GRB 220724A: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
@@ -9501,7 +9501,7 @@ LIGO/Virgo S200128d,26925.0,LIGO/Virgo S200128d: No counterpart candidates in Fe
 LIGO/Virgo S200128d,26908.0,LIGO/Virgo S200128d: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
 LIGO/Virgo S200128d,26916.0,LIGO/Virgo S200128d: Upper limits from Fermi-GBM Observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
 LIGO/Virgo S200128d,26923.0,LIGO/Virgo S200128d: No counterpart candidates in KAIT observations,['GW'],1,4,0.25,16
-LIGO/Virgo S200128d,26907.0,LIGO/Virgo S200128d: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,16
+LIGO/Virgo S200128d,26907.0,LIGO/Virgo S200128d: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
 LIGO/Virgo S200128d,26934.0,LIGO/Virgo S200128d: upper limits from AGILE/GRID observations,['GW'],1,4,0.25,16
 LIGO/Virgo S200128d,26910.0,LIGO/Virgo S200128d: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,16
 GRB 140818B,16714.0,GRB 140818B: Fermi GBM detection,"['GRB', 'Gamma-ray Transient']",2,5,0.4,13
@@ -9586,13 +9586,13 @@ LIGO/Virgo/KAGRA S231001aq,34792.0,LIGO/Virgo/KAGRA S231001aq: Upper limits from
 LIGO/Virgo/KAGRA S231001aq,34788.0,LIGO/Virgo/KAGRA S231001aq: Updated Sky localization,['GW'],1,2,0.5,4
 LIGO/Virgo/KAGRA S231001aq,34811.0,LIGO/Virgo/KAGRA S231001aq: Updated Sky localization,['GW'],1,2,0.5,4
 LIGO/Virgo/KAGRA S231001aq,34785.0, LIGO/Virgo/KAGRA S231001aq: Identification of a GW compact binary merger candidate,['GW'],1,2,0.5,4
-HAWC-190916A,25774.0,HAWC-190916A: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,['Gamma-ray Transient'],1,4,0.25,7
-HAWC-190916A,25776.0,HAWC-190916A: Upper limits from Insight-HXMT/HE observations,['Misc'],1,4,0.25,7
-HAWC-190916A,25775.0,HAWC-190916A: IceCube neutrino search,['Neutrino'],1,4,0.25,7
-HAWC-190916A,25772.0,HAWC-190916A: Upper limits from Fermi-GBM Observations,['Gamma-ray Transient'],1,4,0.25,7
-HAWC-190916A,25768.0,Correction on the Trigger Date HAWC-190916A --> HAWC-190917A,['Misc'],1,4,0.25,7
-HAWC-190916A,25769.0,HAWC-190916A: DDOTI Optical Observations,['Optical Transient'],1,4,0.25,7
-HAWC-190916A,25779.0,Correction on name for HAWC-190916A to HAWC-190917A,['Misc'],1,4,0.25,7
+HAWC-190916A,25774.0,HAWC-190916A: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,['Gamma-ray Transient'],1,3,0.3333333333333333,7
+HAWC-190916A,25776.0,HAWC-190916A: Upper limits from Insight-HXMT/HE observations,['Gamma-ray Transient'],1,3,0.3333333333333333,7
+HAWC-190916A,25775.0,HAWC-190916A: IceCube neutrino search,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
+HAWC-190916A,25772.0,HAWC-190916A: Upper limits from Fermi-GBM Observations,['Gamma-ray Transient'],1,3,0.3333333333333333,7
+HAWC-190916A,25768.0,Correction on the Trigger Date HAWC-190916A --> HAWC-190917A,['Gamma-ray Transient'],1,3,0.3333333333333333,7
+HAWC-190916A,25769.0,HAWC-190916A: DDOTI Optical Observations,"['Gamma-ray Transient', 'Optical Transient']",2,3,0.6666666666666666,7
+HAWC-190916A,25779.0,Correction on name for HAWC-190916A to HAWC-190917A,['Gamma-ray Transient'],1,3,0.3333333333333333,7
 GRB 211216A,31239.0,GRB 211216A: BALROG localization (Fermi Trigger 661329957 / GRB 211216282),"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
 GRB 211216A,31240.0,GRB 211216A: GECAM detection,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
 GRB 211216A,31237.0,GRB 211216A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
@@ -9945,7 +9945,7 @@ LIGO/Virgo S200115j,26775.0,LIGO/Virgo S200115j: No counterpart candidates in Fe
 LIGO/Virgo S200115j,26769.0,LIGO/Virgo S200115j: upper limits from AGILE/GRID observations,['GW'],1,5,0.2,31
 LIGO/Virgo S200115j,26794.0,LIGO/Virgo S200115j: No notable candidates in GOTO imaging,['GW'],1,5,0.2,31
 LIGO/Virgo S200115j,26849.0,LIGO/Virgo S200115j: Upper limits from Konus-Wind observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,31
-LIGO/Virgo S200115j,26758.0,LIGO/Virgo S200115j: No counterpart candidates in HAWC observations,['GW'],1,5,0.2,31
+LIGO/Virgo S200115j,26758.0,LIGO/Virgo S200115j: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,31
 LIGO/Virgo S200115j,26779.0,LIGO/Virgo S200115j: no counterpart candidates in the Swift/BAT observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,31
 LIGO/Virgo S200115j,26798.0,LIGO/Virgo S200115j: Swift-XRT sources,"['GW', 'X-ray Transient']",2,5,0.4,31
 LIGO/Virgo S200115j,26863.0,LIGO/Virgo S200115j: Zwicky Transient Facility search for optical counterparts to Swift X-ray sources,"['GW', 'Gamma-ray Transient', 'Optical Transient', 'X-ray Transient']",4,5,0.8,31
@@ -10079,7 +10079,7 @@ EP241206a,38457.0,EP241206a: EP detection of a fast X-ray transient,['X-ray Tran
 EP241206a,38466.0,EP241206a: BOOTES Global Network optical limits,"['Optical Transient', 'X-ray Transient']",2,2,1.0,4
 IceCube-190922A,25832.0,IceCube-190922A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,6
 IceCube-190922A,25827.0,Fermi-LAT Gamma-ray Observations of IceCube-190922A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
-IceCube-190922A,25805.0,IceCube-190922A - HAWC follow-up,['Neutrino'],1,2,0.5,6
+IceCube-190922A,25805.0,IceCube-190922A - HAWC follow-up,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 IceCube-190922A,25807.0,IceCube-190922A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 IceCube-190922A,25803.0,IceCube-190922A: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 IceCube-190922A,25802.0,IceCube-190922A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,2,0.5,6
@@ -10369,7 +10369,7 @@ LIGO/Virgo G296853,21439.0,LIGO/Virgo G296853: Fermi-LAT search for high-energy 
 LIGO/Virgo G296853,21435.0,LIGO/Virgo G296853: MASTER follow up observations,"['GW', 'Optical Transient']",2,5,0.4,21
 LIGO/Virgo G296853,21440.0,LIGO/Virgo G296853: no INTEGRAL data at the time of the event,"['GW', 'Gamma-ray Transient']",2,5,0.4,21
 LIGO/Virgo G296853,21437.0,LIGO/Virgo G296853: AGILE GRID observations,['GW'],1,5,0.2,21
-LIGO/Virgo G296853,21448.0,LIGO/Virgo G296853: HAWC follow-up,['GW'],1,5,0.2,21
+LIGO/Virgo G296853,21448.0,LIGO/Virgo G296853: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,5,0.4,21
 LIGO/Virgo G296853,21446.0,LIGO/Virgo G296853: Super-AGILE observations,['GW'],1,5,0.2,21
 LIGO/Virgo G296853,21436.0,LIGO/Virgo G296853: Swift/BAT data search,"['GW', 'Gamma-ray Transient']",2,5,0.4,21
 LIGO/Virgo G296853,21433.0,LIGO/Virgo G296853 ANTARES search,"['GW', 'Neutrino']",2,5,0.4,21
@@ -11053,7 +11053,7 @@ LIGO/Virgo S190630ag,24938.0,LIGO/Virgo S190630ag: No counterpart candidates in 
 LIGO/Virgo S190630ag,24922.0,LIGO/Virgo S190630ag: Identification of a GW compact binary merger candidate,['GW'],1,4,0.25,18
 LIGO/Virgo S190630ag,24925.0,LIGO/Virgo S190630ag: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S190630ag,24921.0,LIGO/Virgo S190630ag Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,4,0.5,18
-LIGO/Virgo S190630ag,24923.0,LIGO/Virgo S190630ag: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,18
+LIGO/Virgo S190630ag,24923.0,LIGO/Virgo S190630ag: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S190630ag,24926.0,LIGO/Virgo S190630ag: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,18
 LIGO/Virgo S190630ag,24920.0,LIGO/Virgo S190630ag: Upper limits from IceCube neutrino searches,"['GW', 'Neutrino']",2,4,0.5,18
 LIGO/Virgo S190630ag,24932.0,LIGO/Virgo S190630ag: No counterpart candidates in Fermi-LAT observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
@@ -12074,7 +12074,7 @@ IceCube-231004A,34851.0,IceCube-231004A: Upper limits from Fermi-GBM Observation
 IceCube-231004A,34797.0,IceCube-231004A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,2,0.5,7
 IceCube-231004A,34810.0,IceCube-231004A: One Candidate Counterpart from the Zwicky Transient Facility,['Neutrino'],1,2,0.5,7
 IceCube-231004A,34803.0,Fermi-LAT gamma-ray observations of IceCube-231004A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
-IceCube-231004A,34805.0,IceCube-231004A: No significant detection in HAWC,['Neutrino'],1,2,0.5,7
+IceCube-231004A,34805.0,IceCube-231004A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-231004A,34806.0,IceCube-231004A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,7
 IceCube-231004A,34798.0,Update of IceCube-231004A - Corrected direciton,['Neutrino'],1,2,0.5,7
 FRB 20250316A,39909.0,FRB 20250316A: FTW optical observations,"['FRB', 'Optical Transient']",2,3,0.6666666666666666,7
@@ -13704,7 +13704,7 @@ LIGO/Virgo S200208q,27018.0,LIGO/Virgo S200208q: Global MASTER-Net observations 
 LIGO/Virgo S200208q,27054.0,LIGO/Virgo S200208q : No significant candidates in TAROT - FRAM - GRANDMA observations,['GW'],1,4,0.25,18
 LIGO/Virgo S200208q,27223.0,LIGO/Virgo S200208q: Upper limits from Konus-Wind observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S200208q,27019.0,LIGO/Virgo S200208q: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
-LIGO/Virgo S200208q,27017.0,LIGO/Virgo S200208q: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,18
+LIGO/Virgo S200208q,27017.0,LIGO/Virgo S200208q: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S200208q,27024.0,LIGO/Virgo S200208q: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,18
 LIGO/Virgo S200208q,27053.0,LIGO/Virgo S200208q: no counterpart candidate in  SVOM/C-GFT observations,"['GW', 'Optical Transient']",2,4,0.5,18
 LIGO/Virgo S200208q,27028.0,LIGO/Virgo S200208q: No counterpart candidates in Fermi-LAT observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
@@ -13805,7 +13805,7 @@ LIGO/Virgo G270580,20491.0,LIGO/Virgo G270580:  Pan-STARRS and ATLAS observation
 LIGO/Virgo G270580,20512.0,"LIGO/Virgo G270580:  Pan-STARRS coverage and bright, rising transient PS17yt","['GW', 'Optical Transient']",2,5,0.4,37
 LIGO/Virgo G270580,20648.0,LIGO/Virgo G270580: AstroSat CZTI upper limits,"['GW', 'Gamma-ray Transient']",2,5,0.4,37
 LIGO/Virgo G270580,21281.0,LIGO/Virgo G270580: Candidate retracted due to H1 data quality,['GW'],1,5,0.2,37
-LIGO/Virgo G270580,20542.0,LIGO/Virgo G270580: HAWC follow-up observations,['GW'],1,5,0.2,37
+LIGO/Virgo G270580,20542.0,LIGO/Virgo G270580: HAWC follow-up observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,37
 LIGO/Virgo G270580,20519.0,LIGO/Virgo G270580: Liverpool Telescope classification of EM candidates,['GW'],1,5,0.2,37
 LIGO/Virgo G270580,20669.0,LIGO/Virgo G270580: DLT40 follow-up observation,['GW'],1,5,0.2,37
 LIGO/Virgo G270580,20520.0,LIGO/Virgo G270580: No change to estimate of LIGO false alarm probability,['GW'],1,5,0.2,37
@@ -14082,7 +14082,7 @@ IceCube-220822A,32475.0,IceCube-220822A - IceCube observation of a high-energy n
 IceCube-220822A,32478.0,"Fermi-LAT gamma-ray observations of IceCube-220822A and detection of a new gamma-ray source, Fermi J1810.1+2154","['Gamma-ray Transient', 'Neutrino']",2,4,0.5,6
 IceCube-220822A,32481.0,IceCube-220822A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,4,0.25,6
 IceCube-220822A,32498.0,IceCube-220822A: Classification of AT2022saw as a Type Ia supernova,"['Neutrino', 'Optical Transient', 'SN']",3,4,0.75,6
-IceCube-220822A,32504.0,IceCube-220822A: No significant detection in HAWC,['Neutrino'],1,4,0.25,6
+IceCube-220822A,32504.0,IceCube-220822A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,6
 IceCube-220822A,32480.0,IceCube-220822A: One Candidate Counterpart from the Zwicky Transient Facility,['Neutrino'],1,4,0.25,6
 GRB 060213,4763.0,Konus-Wind observation of bright hard GRB 060213,"['GRB', 'Gamma-ray Transient']",2,5,0.4,9
 GRB 060213,4773.0,Swift UVOT observations of GRB060213,"['GRB', 'Gamma-ray Transient']",2,5,0.4,9
@@ -14789,7 +14789,7 @@ LIGO/Virgo S190910d,25729.0,LIGO/Virgo S190910d and S190910h: No counterpart can
 LIGO/Virgo S190910d,25704.0,LIGO/Virgo S190910d: no counterpart candidates in the Swift/BAT Observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,25
 LIGO/Virgo S190910d,25749.0,LIGO/Virgo S190910d : No significant candidates in TAROT-GRANDMA observations,['GW'],1,4,0.25,25
 LIGO/Virgo S190910d,25720.0,LIGO/Virgo S190910d: Liverpool Telescope spectroscopy of ZTF19abyfazm,"['GW', 'Optical Transient']",2,4,0.5,25
-LIGO/Virgo S190910d,25696.0,LIGO/Virgo S190910d: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,25
+LIGO/Virgo S190910d,25696.0,LIGO/Virgo S190910d: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,25
 GRB 120327A,13123.0,GRB 120327A: Swift detection of a burst with an optical counterpart,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,23
 GRB 120327A,13144.0,GRB 120327A afterglow detection,"['Afterglow', 'GRB', 'Gamma-ray Transient']",3,5,0.6,23
 GRB 120327A,13124.0,GRB 120327A: TAROT La Silla observatory optical detection,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,23
@@ -14881,7 +14881,7 @@ GRB 161014A,20039.0,GRB 161014A: Kanata optical observation,"['GRB', 'Gamma-ray 
 GRB 161014A,20049.0,GRB 161014A: Swift-BAT refined analysis,"['GRB', 'Gamma-ray Transient']",2,5,0.4,22
 GRB 161014A,20051.0,GRB 161014A: Fermi GBM observation,"['GRB', 'Gamma-ray Transient']",2,5,0.4,22
 LIGO/Virgo G274296,20707.0,LIGO/Virgo G274296: Fermi-LAT search for a high-energy gamma-ray counterpart,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
-LIGO/Virgo G274296,20727.0,LIGO/Virgo G274296: HAWC follow-up,['GW'],1,5,0.2,38
+LIGO/Virgo G274296,20727.0,LIGO/Virgo G274296: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,5,0.4,38
 LIGO/Virgo G274296,20730.0,LIGO/Virgo G274296: CALET Observations,['GW'],1,5,0.2,38
 LIGO/Virgo G274296,20708.0,LIGO/Virgo G274296:  PESSTO classification of 9 Pan-STARRS transients,"['GW', 'Optical Transient']",2,5,0.4,38
 LIGO/Virgo G274296,20736.0,LIGO/Virgo G274296: GRAWITA-Campo Imperatore observation,['GW'],1,5,0.2,38
@@ -15360,7 +15360,7 @@ GRB 050309,3085.0,"GRB 050309, Early optical limits from RAPTOR","['GRB', 'Gamma
 GRB 050309,3090.0,GRB050309: CONCAM pre-trigger and trigger coincident optical,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,5
 GRB 050309,3082.0,Swift-BAT trigger 107873 (GRB050309): possible X-ray counterparts,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,5
 IceCube-210516A,30026.0,IceCube-210516A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,2,0.5,5
-IceCube-210516A,30041.0,IceCube-210516A: No significant detection in HAWC,['Neutrino'],1,2,0.5,5
+IceCube-210516A,30041.0,IceCube-210516A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,5
 IceCube-210516A,30038.0,IceCube-210516A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,5
 IceCube-210516A,30046.0,Fermi-LAT Gamma-ray Observations of IceCube-210516A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,5
 IceCube-210516A,30377.0,IceCube-210516A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,5
@@ -15826,7 +15826,7 @@ IceCube-201222A,29155.0,Swift-XRT observations of Icecube 201222A,"['Neutrino', 
 IceCube-201222A,29136.0,Fermi-LAT Gamma-ray Observations of IceCube-201222A,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-201222A,29154.0,IceCube-201222A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,8
 IceCube-201222A,29172.0,IceCube-201222A: No Candidate Counterparts from the Zwicky Transient Facility,['Neutrino'],1,3,0.3333333333333333,8
-IceCube-201222A,29152.0,IceCube-201222A: No significant detection in HAWC,['Neutrino'],1,3,0.3333333333333333,8
+IceCube-201222A,29152.0,IceCube-201222A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-201222A,29134.0,IceCube-201222A: not observable by Fermi-GBM,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-201222A,29131.0,IceCube-201222A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-201222A,29120.0,IceCube-201222A: IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,3,0.3333333333333333,8
@@ -15946,7 +15946,7 @@ GRB 080503,7680.0,GRB 080503: No further optical rebrightening,"['GRB', 'Gamma-r
 GRB 080503,7703.0,GRB 080503: Hubble Space Telescope Imaging,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,6,0.5,22
 GRB 080503,7667.0,GRB 080503: New candidate afterglow/host in Gemini imaging,"['Afterglow', 'GRB', 'Gamma-ray Transient']",3,6,0.5,22
 IceCube-190730A,25241.0,IceCube-190730A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,8
-IceCube-190730A,25238.0,IceCube-190730A - HAWC follow-up,['Neutrino'],1,3,0.3333333333333333,8
+IceCube-190730A,25238.0,IceCube-190730A - HAWC follow-up,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-190730A,25255.0,IceCube 190730A: No counterpart candidates or blazar activity in GOTO observations,['Neutrino'],1,3,0.3333333333333333,8
 IceCube-190730A,25231.0,IceCube-190730A: MASTER optical observation,"['Neutrino', 'Optical Transient']",2,3,0.6666666666666666,8
 IceCube-190730A,25232.0,"IceCube 190730A: one weakly associated counterpart candidates in INTEGRAL SPI-ACS, and IBIS prompt observation","['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
@@ -16179,7 +16179,7 @@ LIGO/Virgo S200114f,27073.0,"LIGO/Virgo S200114f: Gemini Spectra of AT 2020vu, A
 LIGO/Virgo S200114f,26738.0,LIGO/Virgo S200114f: Coverage and upper limits from MAXI/GSC observations,['GW'],1,5,0.2,31
 LIGO/Virgo S200114f,26750.0,LIGO/Virgo S200114f: SAGUARO previous detection of ZTF candidate ZTF20aafeaqk (AT2020vx),"['GW', 'Optical Transient']",2,5,0.4,31
 LIGO/Virgo S200114f,26866.0,LIGO/Virgo S200114f: AstroSat CZTI upper limits,"['GW', 'Gamma-ray Transient']",2,5,0.4,31
-LIGO/Virgo S200114f,26733.0,LIGO/Virgo S200114f: No counterpart candidates in HAWC observations,['GW'],1,5,0.2,31
+LIGO/Virgo S200114f,26733.0,LIGO/Virgo S200114f: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,31
 LIGO/Virgo S200114f,26768.0,LIGO/Virgo S200114f: No counterpart in targeted WHT/ACAM imaging,['GW'],1,5,0.2,31
 LIGO/Virgo S200114f,26743.0,LIGO/Virgo S200114f: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['GW', 'Gamma-ray Transient']",2,5,0.4,31
 LIGO/Virgo S200114f,26761.0,LIGO/Virgo S200114f: Upper limits from CALET observations.,['GW'],1,5,0.2,31
@@ -16751,7 +16751,7 @@ LIGO/Virgo S200112r,26730.0,LIGO/Virgo S200112r: Upper limits from Insight-HXMT/
 LIGO/Virgo S200112r,26720.0,LIGO/Virgo S200112r: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,17
 LIGO/Virgo S200112r,26725.0,LIGO/Virgo S200112r: not observable by Fermi-GBM,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S200112r,26726.0,LIGO/Virgo S200112r: not observable by Fermi-GBM,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
-LIGO/Virgo S200112r,26719.0,LIGO/Virgo S200112r: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,17
+LIGO/Virgo S200112r,26719.0,LIGO/Virgo S200112r: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S200112r,26847.0,LIGO/Virgo S200112r: Upper limits from Konus-Wind observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S200112r,26716.0,LIGO/Virgo S200112r: Upper limits from IceCube neutrino searches,"['GW', 'Neutrino']",2,4,0.5,17
 LIGO/Virgo S200112r,26724.0,LIGO/Virgo S200112r: upper limits from AGILE/GRID observations,['GW'],1,4,0.25,17
@@ -16895,7 +16895,7 @@ LIGO/Virgo S190707q,25048.0,LIGO/Virgo S190707q: Updated sky localization,['GW']
 LIGO/Virgo S190707q,25046.0,LIGO/Virgo S190707q: MASTER OT seach result,"['GW', 'Optical Transient']",2,4,0.5,17
 LIGO/Virgo S190707q,25045.0,LIGO/Virgo S190707q: No counterpart candidates in the CNEOST,['GW'],1,4,0.25,17
 LIGO/Virgo S190707q,25230.0,LIGO/Virgo S190707q: AstroSat CZTI upper limits,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
-LIGO/Virgo S190707q,25017.0,LIGO/Virgo S190707q: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,17
+LIGO/Virgo S190707q,25017.0,LIGO/Virgo S190707q: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S190707q,25014.0,LIGO/Virgo S190707q: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,17
 LIGO/Virgo S190707q,25013.0,LIGO/Virgo S190707q : No neutrino counterpart candidates in ANTARES search,"['GW', 'Neutrino']",2,4,0.5,17
 LIGO/Virgo S190707q,25011.0,LIGO/Virgo S190707q: Upper limits from IceCube neutrino searches,"['GW', 'Neutrino']",2,4,0.5,17
@@ -17060,7 +17060,7 @@ LIGO/Virgo S190901ap,25618.0,LIGO/Virgo S190901ap : GRAWITA spectroscopic observ
 LIGO/Virgo S190901ap,25620.0,LIGO/Virgo S190901ap: Hobby-Eberly Telescope VIRUS observations of target galaxy; no obvious optical counterpart.,"['GW', 'Optical Transient']",2,5,0.4,44
 LIGO/Virgo S190901ap,25640.0,LIGO/Virgo S190901ap : SVOM/GWAC-F60A observation of transient ZTFabvizsw,"['GW', 'Gamma-ray Transient']",2,5,0.4,44
 LIGO/Virgo S190901ap,25616.0,LIGO/Virgo S190901ap: Candidates from the Zwicky Transient Facility,['GW'],1,5,0.2,44
-LIGO/Virgo S190901ap,25607.0,LIGO/Virgo S190901ap: No counterpart candidates in HAWC observations,['GW'],1,5,0.2,44
+LIGO/Virgo S190901ap,25607.0,LIGO/Virgo S190901ap: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,44
 LIGO/Virgo S190901ap,25663.0,LIGO/Virgo S190901ap: No counterpart candidates in KAIT observations,['GW'],1,5,0.2,44
 LIGO/Virgo S190901ap,25659.0,LIGO/Virgo S190901ap: Dabancheng-0.5m optical observations of AT2019pjv,"['GW', 'Optical Transient']",2,5,0.4,44
 LIGO/Virgo S190901ap,25604.0,LIGO/Virgo S190901ap: Upper limits from IceCube neutrino searches,"['GW', 'Neutrino']",2,5,0.4,44
@@ -17247,7 +17247,7 @@ LIGO/Virgo S190915ak,25753.0,LIGO/Virgo S190915ak: Identification of a GW compac
 LIGO/Virgo S190915ak,25754.0,LIGO/Virgo S190915ak: Upper limits from IceCube neutrino searches,"['GW', 'Neutrino']",2,4,0.5,14
 LIGO/Virgo S190915ak,25770.0,LIGO/Virgo S190915ak: No transient candidates in CALET observations,['GW'],1,4,0.25,14
 LIGO/Virgo S190915ak,25755.0,LIGO/Virgo S190915ak: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['GW', 'Gamma-ray Transient']",2,4,0.5,14
-LIGO/Virgo S190412m,24102.0,LIGO/Virgo S190412m: HAWC follow-up,['GW'],1,4,0.25,16
+LIGO/Virgo S190412m,24102.0,LIGO/Virgo S190412m: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
 LIGO/Virgo S190412m,24105.0,LIGO/Virgo S190412m/G329483: ANTARES neutrino search,"['GW', 'Neutrino']",2,4,0.5,16
 LIGO/Virgo S190412m,24099.0,LIGO/Virgo S190412m: MASTER early alert observation,"['GW', 'Optical Transient']",2,4,0.5,16
 LIGO/Virgo S190412m,24104.0,LIGO/Virgo S190412m: Hobby-Eberly Telescope VIRUS observations of target galaxies.,['GW'],1,4,0.25,16
@@ -17352,7 +17352,7 @@ GRB 140219A,15878.0,GRB 140219A: iPTF optical observations,"['GRB', 'Gamma-ray T
 GRB 140219A,15865.0,GRB 140219A Tiled Swift observations,"['GRB', 'Gamma-ray Transient']",2,6,0.3333333333333333,18
 IceCube-181023A,23381.0,IceCube-181023A:  MASTER Net optical alert and follow up observations,"['Neutrino', 'Optical Transient']",2,3,0.6666666666666666,5
 IceCube-181023A,23380.0,Search for counterparts to IceCube-181023A with IceCube,['Neutrino'],1,3,0.3333333333333333,5
-IceCube-181023A,23382.0,IceCube-181023A: HAWC follow-up,['Neutrino'],1,3,0.3333333333333333,5
+IceCube-181023A,23382.0,IceCube-181023A: HAWC follow-up,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,5
 IceCube-181023A,23378.0,Fermi-LAT Gamma-ray Observations of IceCube-181023A,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,5
 IceCube-181023A,23375.0,IceCube-181023A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,3,0.3333333333333333,5
 GRB 160829A,19879.0,GRB 160829A: Fermi-LAT detection of a short GRB,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,4
@@ -17544,7 +17544,7 @@ GRB 181110A,23420.0,"GRB 181110A, Swift-BAT refined analysis","['GRB', 'Gamma-ra
 IceCube-201221A,29153.0,IceCube-201221A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,7
 IceCube-201221A,29102.0,IceCube-201221A: IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,2,0.5,7
 IceCube-201221A,29103.0,IceCube-201221A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
-IceCube-201221A,29151.0,IceCube-201221A: No significant detection in HAWC,['Neutrino'],1,2,0.5,7
+IceCube-201221A,29151.0,IceCube-201221A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-201221A,29135.0,Fermi-LAT Gamma-ray Observations of IceCube-201221A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-201221A,29146.0,IceCube-201221A: Upper limits from Insight-HXMT/HE observations,['Neutrino'],1,2,0.5,7
 IceCube-201221A,29104.0,IceCube-201221A: not observable by Fermi-GBM,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
@@ -17831,7 +17831,7 @@ LIGO/Virgo G298936,21656.0,LIGO/Virgo G298936: Identification of a GW Binary Bla
 LIGO/Virgo G298936,21657.0,LIGO/Virgo G298936: IceCube neutrino observations,"['GW', 'Neutrino']",2,5,0.4,21
 LIGO/Virgo G298936,21751.0,LIGO/Virgo G298936: Updated localization from parameter estimation on LIGO and Virgo data,['GW'],1,5,0.2,21
 LIGO/Virgo G298936,21871.0,LIGO/Virgo G298936: Konus-Wind observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,21
-LIGO/Virgo G298936,21732.0,LIGO/Virgo G298936: HAWC follow-up,['GW'],1,5,0.2,21
+LIGO/Virgo G298936,21732.0,LIGO/Virgo G298936: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,5,0.4,21
 LIGO/Virgo G298936,21937.0,LIGO/Virgo G298936/GW170823: serendipitous XMM-Newton slew observations,"['GW', 'X-ray Transient']",2,5,0.4,21
 LIGO/Virgo G298936,21770.0,LIGO/Virgo G298936: PIRATE observations,['GW'],1,5,0.2,21
 LIGO/Virgo G298936,21659.0,LIGO/Virgo G298936 ANTARES search,"['GW', 'Neutrino']",2,5,0.4,21
@@ -18434,7 +18434,7 @@ GRB 251003A,42126.0, GRB 251003A: LAST optical observations,"['GRB', 'Gamma-ray 
 GRB 251003A,42069.0,GRB 251003A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,5,0.4,20
 GRB 251003A,42103.0,GRB 251003A: Swift-BAT refined analysis,"['GRB', 'Gamma-ray Transient']",2,5,0.4,20
 IceCube-220306A,31706.0,Fermi-LAT Gamma-ray Observations of IceCube-220306A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,4
-IceCube-220306A,31722.0,IceCube-220306A: No significant detection in HAWC,['Neutrino'],1,2,0.5,4
+IceCube-220306A,31722.0,IceCube-220306A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,4
 IceCube-220306A,31692.0,IceCube-220306A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,2,0.5,4
 IceCube-220306A,31709.0,IceCube-220306A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,4
 GRB 131002A,15294.0,GRB 131002A: Swift/UVOT Detection,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,8
@@ -18554,7 +18554,7 @@ IceCube-201130A,28969.0,IceCube-201130A: IceCube observation of a high-energy ne
 IceCube-201130A,29008.0,IceCube-201130A: Optical and NIR Imaging Follow-up by Kanata Telescope,"['Neutrino', 'Optical Transient']",2,4,0.5,11
 IceCube-201130A,28983.0,IceCube-201130A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,4,0.25,11
 IceCube-201130A,28979.0,Swift observations of the Fermi-LAT source 4FGL J0206.4-1151 in the error region of IceCube-201130A,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,11
-IceCube-201130A,28984.0,IceCube-201130A: No significant detection in HAWC,['Neutrino'],1,4,0.25,11
+IceCube-201130A,28984.0,IceCube-201130A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,11
 IceCube-201130A,28989.0,IceCube-201130A: No Candidate Counterparts from the Zwicky Transient Facility,['Neutrino'],1,4,0.25,11
 GRB 061006,5723.0,GRB 061006: astrometry-corrected XRT position,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,11
 GRB 061006,5717.0,GRB 061006 : Suzaku/WAM observation of the prompt emission,"['GRB', 'Gamma-ray Transient']",2,5,0.4,11
@@ -18714,7 +18714,7 @@ IceCube-190922B,25824.0,IceCube-190922B: Identification of a Candidate Supernova
 IceCube-190922B,25809.0,IceCube-190922B: INTEGRAL was inactive at the time of the event,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 IceCube-190922B,25806.0,IceCube-190922B - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,3,0.3333333333333333,7
 IceCube-190922B,25808.0,IceCube-190922B: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
-IceCube-190922B,25826.0,IceCube-190922B - HAWC follow-up,['Neutrino'],1,3,0.3333333333333333,7
+IceCube-190922B,25826.0,IceCube-190922B - HAWC follow-up,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 GRB 220211B,31579.0,Fermi GRB 220211B: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
 GRB 220211B,31578.0,GRB 220211B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,2
 GRB 240607A,36637.0,GRB 240607A: Fermi GBM detection of a very bright burst,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,9
@@ -18838,7 +18838,7 @@ LIGO/Virgo S190828j,25513.0,LIGO/Virgo S190828j: Upper limits from IceCube neutr
 LIGO/Virgo S190828j,25522.0,LIGO/Virgo S190828j: Upper limits from Fermi-GBM Observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S190828j,25531.0,LIGO/Virgo S190828j: No counterpart candidates in KAIT observations,['GW'],1,4,0.25,18
 LIGO/Virgo S190828j,25508.0,LIGO/Virgo S190828j : no neutrino counterpart candidate in ANTARES search,"['GW', 'Neutrino']",2,4,0.5,18
-LIGO/Virgo S190828j,25499.0,LIGO/Virgo S190828j: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,18
+LIGO/Virgo S190828j,25499.0,LIGO/Virgo S190828j: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S190828j,25504.0,LIGO/Virgo S190828j: Updated Sky Localization,['GW'],1,4,0.25,18
 LIGO/Virgo S190828j,25500.0,LIGO/Virgo S190828j: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S190828j,25532.0,LIGO/Virgo S190828j: no counterpart candidates in the Swift/BAT Observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
@@ -18905,7 +18905,7 @@ LIGO/Virgo S190828l,25510.0,LIGO/Virgo S190828l: No counterpart candidates in AG
 LIGO/Virgo S190828l,25593.0,LIGO/Virgo S190828l: No significant candidates in TAROT-GRANDMA observations,['GW'],1,4,0.25,18
 LIGO/Virgo S190828l,25515.0,LIGO/Virgo S190828l: Upper limits from AGILE-GRID observations,['GW'],1,4,0.25,18
 LIGO/Virgo S190828l,25782.0,LIGO/Virgo S190828l: Updated Sky Localization,['GW'],1,4,0.25,18
-LIGO/Virgo S190828l,25501.0,LIGO/Virgo S190828l: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,18
+LIGO/Virgo S190828l,25501.0,LIGO/Virgo S190828l: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S190828l,25507.0,LIGO/Virgo S190828l : no neutrino counterpart candidate in ANTARES search,"['GW', 'Neutrino']",2,4,0.5,18
 LIGO/Virgo S190828l,25511.0,LIGO/Virgo S190828l: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,18
 LIGO/Virgo S190828l,25538.0,LIGO/Virgo S190828l: No counterpart candidates in Fermi-LAT observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
@@ -19178,7 +19178,7 @@ GRB 160705B,19738.0,GRB 160705B: 15 GHz upper limits from AMI,"['GRB', 'Gamma-ra
 GRB 160705B,19659.0,GRB 160705B: Enhanced Swift-XRT position,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,9
 LIGO/Virgo S190602aq,24734.0,LIGO/Virgo S190602aq: Upper limits from Insight-HXMT/HE observations,['GW'],1,4,0.25,16
 LIGO/Virgo S190602aq,24736.0,LIGO/Virgo S190602aq: AstroSat CZTI upper limits,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
-LIGO/Virgo S190602aq,24718.0,LIGO/Virgo S190602aq: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,16
+LIGO/Virgo S190602aq,24718.0,LIGO/Virgo S190602aq: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
 LIGO/Virgo S190602aq,24722.0,LIGO/Virgo S190602aq: No counterpart candidate in AGILE-MCAL observations,['GW'],1,4,0.25,16
 LIGO/Virgo S190602aq,24725.0,LIGO/Virgo S190602aq: No counterpart candidates in the Swift/BAT Observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
 LIGO/Virgo S190602aq,24724.0,LIGO/Virgo S190602aq: Upper limits from Fermi-GBM Observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
@@ -19556,7 +19556,7 @@ LIGO/Virgo S190720a,25114.0,LIGO/Virgo S190720a Global MASTER-Net observations r
 LIGO/Virgo S190720a,25227.0,LIGO/Virgo S190720a: AstroSat CZTI upper limits,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S190720a,25147.0,LIGO/Virgo S190720a: Thacher Observatory follow-up observations,['GW'],1,4,0.25,18
 LIGO/Virgo S190720a,25133.0,LIGO/Virgo S190720a: No counterpart candidates in KAIT observations,['GW'],1,4,0.25,18
-LIGO/Virgo S190720a,25113.0,LIGO/Virgo S190720a: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,18
+LIGO/Virgo S190720a,25113.0,LIGO/Virgo S190720a: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S190720a,25116.0,LIGO/Virgo S190720a: AGILE-MCAL observations,['GW'],1,4,0.25,18
 LIGO/Virgo S190720a,25127.0,LIGO/Virgo S190720a: No counterpart candidates in the Swift/BAT Observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S190720a,25115.0,LIGO/Virgo S190720a: Identification of a GW compact binary merger candidate,['GW'],1,4,0.25,18
@@ -19849,7 +19849,7 @@ GRB 191125B,26293.0,GRB 191125B: Fermi GBM Final Real-time Localization,"['GRB',
 GRB 180720A,22974.0,GRB 180720A: Fermi GBM observation,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 GRB 180720A,22970.0,AGILE/MCAL detection of GRB 180720A,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 LIGO/Virgo S190727h,25163.0,LIGO/Virgo S190727h Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,4,0.5,17
-LIGO/Virgo S190727h,25169.0,LIGO/Virgo S190727h: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,17
+LIGO/Virgo S190727h,25169.0,LIGO/Virgo S190727h: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S190727h,25167.0,LIGO/Virgo S190727h: No counterpart candidates in AGILE-MCAL observations,['GW'],1,4,0.25,17
 LIGO/Virgo S190727h,25179.0,LIGO/Virgo S190727h: No counterpart candidates in KAIT observations,['GW'],1,4,0.25,17
 LIGO/Virgo S190727h,25165.0,LIGO/Virgo S190727h: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,17
@@ -20722,7 +20722,7 @@ IceCube-200614A,27941.0,IceCube-200614A - IceCube observation of a high-energy n
 IceCube-200614A,27956.0,IceCube-200614A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,6
 IceCube-200614A,27966.0,"Fermi-LAT Gamma-ray Observations of IceCube-200614A and detection of a new gamma-ray source, Fermi J0202.8+3132","['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 IceCube-200614A,27955.0,IceCube-200614A: not observable by Fermi-GBM,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
-IceCube-200614A,27969.0,IceCube-200614A: No significant detection in HAWC,['Neutrino'],1,2,0.5,6
+IceCube-200614A,27969.0,IceCube-200614A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 GRB 190512A,24501.0,GRB 190512A: Swift detection of a burst,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
 GRB 190512A,24510.0,GRB 190512A: Fermi GBM observation,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
 GRB 190512A,24500.0,GRB 190512A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
@@ -20754,9 +20754,9 @@ GRB 110801A,12229.0,GRB 110801A: ROTSE-III Detection of re-brightening from OT,"
 GRB 110801A,12241.0,GRB 110801A: SAO RAS optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,16
 GRB 110801A,12230.0,GRB 110801A: TLS Optical afterglow confirmation,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,5,0.8,16
 GRB 110801A,12246.0,GRB 110801A: optical observations in CrAO,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,16
-GRB 230918B,34738.0,GRB 230918B: GOTO detection of a fast-rising transient in the GBM localisation region,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
-GRB 230918B,34753.0,GRB 230918B: VLT/X-shooter classification of AT 2023tbf (GOTO23aky) as a dwarf nova,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
-GRB 230918B,34734.0,GRB 230918B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
+GRB 230918B,34738.0,GRB 230918B: GOTO detection of a fast-rising transient in the GBM localisation region,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,3
+GRB 230918B,34753.0,GRB 230918B: VLT/X-shooter classification of AT 2023tbf (GOTO23aky) as a dwarf nova,"['GRB', 'Gamma-ray Transient', 'Nova']",3,3,1.0,3
+GRB 230918B,34734.0,GRB 230918B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,3
 GRB 180510A,22730.0,GRB 180510A: MITSuME Ishigakijima optical upper limits,"['GRB', 'Gamma-ray Transient']",2,4,0.5,5
 GRB 180510A,22722.0,Konus-Wind observation of GRB 180510A,"['GRB', 'Gamma-ray Transient']",2,4,0.5,5
 GRB 180510A,22709.0,GRB 180510A: Swift/UVOT followup observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,5
@@ -20885,7 +20885,7 @@ LIGO/Virgo S191222n,26868.0,LIGO/Virgo S191222n: AstroSat CZTI upper limits,"['G
 LIGO/Virgo S191222n,26575.0,LIGO/Virgo S191222n : No significant candidates in FRAM-TAROT-GRANDMA observations,['GW'],1,4,0.25,18
 LIGO/Virgo S191222n,26554.0,LIGO/Virgo S191222n: not observable by Fermi-GBM,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S191222n,26547.0,LIGO/Virgo S191222n: upper limits from AGILE/MCAL observations,['GW'],1,4,0.25,18
-LIGO/Virgo S191222n,26544.0,LIGO/Virgo S191222n: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,18
+LIGO/Virgo S191222n,26544.0,LIGO/Virgo S191222n: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S191222n,26546.0,LIGO/Virgo S191222n: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,18
 LIGO/Virgo S191222n,26542.0,LIGO/Virgo S191222n: Upper limits from IceCube neutrino searches,"['GW', 'Neutrino']",2,4,0.5,18
 LIGO/Virgo S191222n,26557.0,LIGO/Virgo S191222n: no counterpart candidates in the Swift/BAT observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
@@ -21002,7 +21002,7 @@ GRB 220222A,31657.0,Konus-Wind detection of GRB 220222A,"['GRB', 'Gamma-ray Tran
 GRB 120811A,13633.0,GRB 120811A: Swift-BAT refined analysis,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,3
 GRB 120811A,13641.0,GRB 120811A: Swift/XRT-UVOT Obseravations,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,3,1.0,3
 GRB 120811A,13618.0,Swift Trigger 530581: GRB 120811A or a galactic transient,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,3
-IceCube-191204A,26369.0,IceCube-191204A: No significant detection in HAWC,['Neutrino'],1,2,0.5,6
+IceCube-191204A,26369.0,IceCube-191204A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 IceCube-191204A,26339.0,IceCube-191204A: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 IceCube-191204A,26341.0,IceCube-191204A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,2,0.5,6
 IceCube-191204A,26374.0,IceCube-191204A : Upper limits from Insight-HXMT/HE observations,['Neutrino'],1,2,0.5,6
@@ -21102,7 +21102,7 @@ GRB 080916C,8261.0,GRB 080916C: Swift XRT refined analysis,"['GRB', 'Gamma-ray T
 IceCube-200916A,28453.0,"IceCube-200916A: AbAO observations of optical candidates ZTF20acaapwk/AT2020tno, ZTF20acaapwo/AT2020tnp","['Neutrino', 'Optical Transient']",2,5,0.4,11
 IceCube-200916A,28465.0,IceCube-200916A - ZTF20acaapwk/SN2020tno classified as SN Ia,"['Neutrino', 'Optical Transient', 'SN']",3,5,0.6,11
 IceCube-200916A,28443.0,IceCube-200916A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,5,0.4,11
-IceCube-200916A,28448.0,IceCube-200916A: No significant detection in HAWC,['Neutrino'],1,5,0.2,11
+IceCube-200916A,28448.0,IceCube-200916A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,5,0.4,11
 IceCube-200916A,28439.0,IceCube-200916A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,5,0.4,11
 IceCube-200916A,28433.0,IceCube-200916A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,5,0.2,11
 IceCube-200916A,28446.0,IceCube-200916A: No neutrino counterpart candidates in ANTARES search,['Neutrino'],1,5,0.2,11
@@ -21236,7 +21236,7 @@ LIGO/Virgo S190923y,25834.0,LIGO/Virgo S190923y: No counterpart candidates in Fe
 LIGO/Virgo S190923y,25847.0,LIGO/Virgo S190923y: No significant candidates in TAROT-GRANDMA observations,['GW'],1,4,0.25,18
 LIGO/Virgo S190923y,25812.0,LIGO/Virgo S190923y: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,4,0.5,18
 LIGO/Virgo S190923y,25816.0,LIGO/Virgo S190923y : no neutrino counterpart candidate in ANTARES search,"['GW', 'Neutrino']",2,4,0.5,18
-LIGO/Virgo S190923y,25813.0,LIGO/Virgo S190923y: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,18
+LIGO/Virgo S190923y,25813.0,LIGO/Virgo S190923y: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,18
 LIGO/Virgo S190923y,25817.0,LIGO/Virgo S190923y: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,18
 LIGO/Virgo S190923y,25821.0,LIGO/Virgo S190923y: Upper limits from AGILE-GRID observations,['GW'],1,4,0.25,18
 LIGO/Virgo S190923y,25842.0,LIGO/Virgo S190923y: No neutrino candidates at Pierre Auger Observatory,"['GW', 'Neutrino']",2,4,0.5,18
@@ -21965,7 +21965,7 @@ GRB 110402A,11870.0,GRB 110402A: Spectral lag indicates short hard burst,"['GRB'
 GRB 110402A,11892.0,Redshift of GRB 110402A theoretically estimated (revised),"['GRB', 'Gamma-ray Transient']",2,5,0.4,23
 IceCube-200615A,27968.0,IceCube-200615A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,4,0.25,8
 IceCube-200615A,27973.0,Swift-XRT observations of IceCube 200615A,"['Neutrino', 'X-ray Transient']",2,4,0.5,8
-IceCube-200615A,27972.0,IceCube-200615A: No significant detection in HAWC,['Neutrino'],1,4,0.25,8
+IceCube-200615A,27972.0,IceCube-200615A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,8
 IceCube-200615A,27979.0,Swift/UVOT Observations of IceCube 200615A,"['Neutrino', 'Optical Transient']",2,4,0.5,8
 IceCube-200615A,27954.0,IceCube-200615A: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,8
 IceCube-200615A,27950.0,IceCube-200615A: IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,4,0.25,8
@@ -22196,7 +22196,7 @@ IceCube-191122A,26290.0,Fermi-LAT Gamma-ray Observations of IceCube-191122A,"['G
 IceCube-191122A,26295.0,IceCube-191122A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,7
 IceCube-191122A,26276.0,IceCube-191122A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,3,0.3333333333333333,7
 IceCube-191122A,26296.0,IceCube-191122A: Not observable by Fermi-GBM,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
-IceCube-191122A,26298.0,IceCube-191122A: No significant detection in HAWC,['Neutrino'],1,3,0.3333333333333333,7
+IceCube-191122A,26298.0,IceCube-191122A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 IceCube-191122A,26280.0,IceCube-191122A: Global MASTER-Net observations report,"['Neutrino', 'Optical Transient']",2,3,0.6666666666666666,7
 IceCube-191122A,26281.0,IceCube-191122A: INTEGRAL was inactive at the time of the event,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 GRB 160417A,19316.0,GRB 160417A: Swift detection of a burst with an optical counterpart,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,11
@@ -22321,7 +22321,7 @@ LIGO/Virgo S190519bj,24598.0,LIGO/Virgo S190519bj: Identification of a GW compac
 LIGO/Virgo S190519bj,24627.0,LIGO/Virgo S190519bj: Fermi-LAT search for a high-energy gamma-ray counterpart,"['GW', 'Gamma-ray Transient']",2,4,0.5,13
 LIGO/Virgo S190519bj,24605.0,LIGO/Virgo S190519bj: Fermi GBM Observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,13
 LIGO/Virgo S190519bj,24607.0,LIGO/Virgo S190519bj Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,4,0.5,13
-LIGO/Virgo S190519bj,24601.0,LIGO/Virgo S190519bj: HAWC follow-up,['GW'],1,4,0.25,13
+LIGO/Virgo S190519bj,24601.0,LIGO/Virgo S190519bj: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,4,0.5,13
 LIGO/Virgo S190519bj,24599.0,LIGO/Virgo S190519bj: IceCube Neutrino Search,"['GW', 'Neutrino']",2,4,0.5,13
 GRB 251203A,42968.0,GRB 251203A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
 GRB 251203A,42991.0,GRB 251203A: AstroSat CZTI detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
@@ -22881,7 +22881,7 @@ GRB 160821B,19843.0,GRB 160821B: Fermi GBM Detection,"['GRB', 'Gamma-ray Transie
 GRB 160821B,19844.0,GRB 160821B: Swift-BAT refined analysis,"['GRB', 'Gamma-ray Transient']",2,5,0.4,13
 GRB 160821B,19838.0,Short GRB 160821B: MASTER early  optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,13
 IceCube-200620A,28005.0,IceCube-200620A: One Candidate Counterpart from the Zwicky Transient Facility,['Neutrino'],1,3,0.3333333333333333,9
-IceCube-200620A,28014.0,IceCube-200620A: No significant detection in HAWC,['Neutrino'],1,3,0.3333333333333333,9
+IceCube-200620A,28014.0,IceCube-200620A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,9
 IceCube-200620A,28002.0,IceCube-200620A: No ANTARES neutrino counterpart,['Neutrino'],1,3,0.3333333333333333,9
 IceCube-200620A,28004.0,Fermi-LAT Gamma-ray Observations of IceCube-200620A,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,9
 IceCube-200620A,28009.0,IceCube-200620A: INTEGRAL was inactive at the time of the event,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,9
@@ -23153,7 +23153,7 @@ GRB 080916,8238.0,GRB 080916: REM candidate afterglow,"['Afterglow', 'GRB', 'Gam
 GRB 080916,8237.0,GRB 080916: Swift detection of a burst with optical afterglow,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,4,1.0,3
 GRB 080916,8239.0,GRB 080916: REM detection of the NIR afterglow,"['Afterglow', 'GRB', 'Gamma-ray Transient']",3,4,0.75,3
 LIGO/Virgo G284239,21063.0,LIGO/Virgo G284239: INTEGRAL search for a prompt gamma-ray counterpart,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
-LIGO/Virgo G284239,21071.0,LIGO/Virgo G284239: HAWC follow-up,['GW'],1,4,0.25,16
+LIGO/Virgo G284239,21071.0,LIGO/Virgo G284239: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
 LIGO/Virgo G284239,21068.0,LIGO/Virgo G284239: TZAC TAROT network observations with TRE/TCA/TCH,['GW'],1,4,0.25,16
 LIGO/Virgo G284239,21116.0,LIGO/Virgo G284239: DLT40 follow-up observation,['GW'],1,4,0.25,16
 LIGO/Virgo G284239,21064.0,LIGO/Virgo G284239: AGILE GRID observations,['GW'],1,4,0.25,16
@@ -23179,7 +23179,7 @@ GRB 200120A,26857.0,Konus-Wind observation of GRB 200120A,"['GRB', 'Gamma-ray Tr
 IceCube-191119A,26262.0,IceCube-191119A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,7
 IceCube-191119A,26258.0,IceCube-191119A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,2,0.5,7
 IceCube-191119A,26261.0,Fermi-LAT Gamma-ray Observations of IceCube-191119A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
-IceCube-191119A,26267.0,IceCube-191119A: No significant detection in HAWC,['Neutrino'],1,2,0.5,7
+IceCube-191119A,26267.0,IceCube-191119A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-191119A,26260.0,IceCube-191119A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-191119A,26259.0,IceCube-191119A - No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-191119A,26266.0,IceCube-191119A: No neutrino counterpart candidates in ANTARES search,['Neutrino'],1,2,0.5,7
@@ -23741,7 +23741,7 @@ IceCube-170922A,21917.0,INTEGRAL SPI-ACS observation of AMON IceCube-170922A,"['
 IceCube-170922A,21923.0,Search for counterpart to IceCube-170922A with ANTARES,['Neutrino'],1,4,0.25,8
 IceCube-170922A,22281.0,IceCube-170922A: Konus-Wind upper limits,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,8
 IceCube-170922A,22942.0,IceCube-170922A: First Optical observations of the  Neutrino Trigger by  MASTER Global Net  and 25 IceCube alerts inspection.,"['Neutrino', 'Optical Transient']",2,4,0.5,8
-IceCube-170922A,21924.0,IceCube-170922A: HAWC follow-up,['Neutrino'],1,4,0.25,8
+IceCube-170922A,21924.0,IceCube-170922A: HAWC follow-up,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,8
 IceCube-170922A,21941.0,Further Swift-XRT observations of IceCube 170922A,"['Neutrino', 'X-ray Transient']",2,4,0.5,8
 IceCube-170922A,21930.0,IceCube-170922A: Swift-XRT observations,"['Neutrino', 'X-ray Transient']",2,4,0.5,8
 IceCube-170922A,21916.0,IceCube-170922A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,4,0.25,8
@@ -23863,7 +23863,7 @@ GRB 180624A,22838.0,GRB 180624A: MITSuME Okayama optical upper limits,"['GRB', '
 IceCube-200911A,28411.0,IceCube-200911A: IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,3,0.3333333333333333,8
 IceCube-200911A,28421.0,"Fermi-LAT Gamma-ray Observations of IceCube-200911A and detection of a new gamma-ray source, Fermi J0330.1+3743","['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-200911A,28434.0,Swift-XRT observations of IceCube 200911A,"['Neutrino', 'X-ray Transient']",2,3,0.6666666666666666,8
-IceCube-200911A,28422.0,IceCube-200911A: No significant detection in HAWC,['Neutrino'],1,3,0.3333333333333333,8
+IceCube-200911A,28422.0,IceCube-200911A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-200911A,28412.0,IceCube-200911A: not observable by Fermi-GBM,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-200911A,28413.0,IceCube-200911A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-200911A,28416.0,IceCube-200911A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,8
@@ -23883,7 +23883,7 @@ GRB 120909A,13735.0,GRB 120909A: Swift/UVOT Detection,"['GRB', 'Gamma-ray Transi
 LIGO/Virgo G288732,21224.0,LIGO/Virgo G288732: AGILE MCAL Observations,['GW'],1,5,0.2,23
 LIGO/Virgo G288732,21227.0,LIGO/Virgo G288732: Fermi-LAT detection of a weak candidate,"['GW', 'Gamma-ray Transient']",2,5,0.4,23
 LIGO/Virgo G288732,21253.0,LIGO/Virgo G288732: VLA imaging of the possible Fermi/LAT counterpart,"['GW', 'Gamma-ray Transient']",2,5,0.4,23
-LIGO/Virgo G288732,21248.0,LIGO/Virgo G288732: HAWC follow-up,['GW'],1,5,0.2,23
+LIGO/Virgo G288732,21248.0,LIGO/Virgo G288732: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,5,0.4,23
 LIGO/Virgo G288732,21233.0,LIGO/Virgo G288732: Swift-XRT follow up of the putative LAT counterpart,"['GW', 'X-ray Transient']",2,5,0.4,23
 LIGO/Virgo G288732,21229.0,LIGO/Virgo G288732:SVOM/Mini-GWAC observations of the initial skymap,"['GW', 'Gamma-ray Transient']",2,5,0.4,23
 LIGO/Virgo G288732,22122.0,LIGO/Virgo G288732/GW170608: updated localization from parameter estimation,['GW'],1,5,0.2,23
@@ -24165,7 +24165,7 @@ GRB 120830A,13708.0,GRB 120830A: Fermi GBM observation,"['GRB', 'Gamma-ray Trans
 LIGO/Virgo S191215w,26452.0,LIGO/Virgo S191215w: No counterpart candidates in Fermi-LAT observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S191215w,26442.0,LIGO/Virgo S191215w: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S191215w,26448.0,LIGO/Virgo S191215w: upper limits from AGILE-GRID observations,['GW'],1,4,0.25,17
-LIGO/Virgo S191215w,26445.0,LIGO/Virgo S191215w: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,17
+LIGO/Virgo S191215w,26445.0,LIGO/Virgo S191215w: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,17
 LIGO/Virgo S191215w,26444.0,LIGO/Virgo S191215w: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,17
 LIGO/Virgo S191215w,26443.0,LIGO/Virgo S191215w : no neutrino counterpart candidate in ANTARES search,"['GW', 'Neutrino']",2,4,0.5,17
 LIGO/Virgo S191215w,26518.0,LIGO/Virgo S191215w: Updated Sky Localization,['GW'],1,4,0.25,17
@@ -24269,7 +24269,7 @@ IceCube-201120A,28942.0,IceCube-201120A: No counterpart candidates in INTEGRAL S
 IceCube-201120A,28931.0,IceCube-201120A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 IceCube-201120A,28946.0,IceCube-201120A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,7
 IceCube-201120A,28940.0,IceCube-201120A: Swift-XRT non-detection of 4FGL J2028.6+4110e,"['Neutrino', 'X-ray Transient']",2,3,0.6666666666666666,7
-IceCube-201120A,28952.0,IceCube-201120A in the Cygnus region: No enhanced TeV gamma-ray flux detected by HAWC,['Neutrino'],1,3,0.3333333333333333,7
+IceCube-201120A,28952.0,IceCube-201120A in the Cygnus region: No enhanced TeV gamma-ray flux detected by HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 IceCube-201120A,28943.0,Fermi-LAT Gamma-ray Observations of IceCube-201120A,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 GRB 210413A,29813.0,GRB 210413A: GECAM detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 190530A,24751.0,GRB 190530A: optical follow-up observations at Konkoly,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,29
@@ -24451,7 +24451,7 @@ IceCube-191001A,25914.0,IceCube-191001A: No counterpart candidates in INTEGRAL S
 IceCube-191001A,25927.0,IceCube-191001A: Not observable by Fermi-GBM,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-191001A,25913.0,IceCube-191001A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,2,0.5,7
 IceCube-191001A,25932.0,Fermi-LAT Gamma-ray Observations of IceCube-191001A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
-IceCube-191001A,25936.0,IceCube-191001A: HAWC follow-up,['Neutrino'],1,2,0.5,7
+IceCube-191001A,25936.0,IceCube-191001A: HAWC follow-up,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-191001A,25946.0,FACT follow-up of IceCube-191001A,['Neutrino'],1,2,0.5,7
 GRB 211223B,31287.0,GRB 211223B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,2
 GRB 211223B,31292.0,Fermi GRB 211223B: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
@@ -25173,7 +25173,7 @@ GRB 250926A,41994.0,Fermi GRB 250926A: Global MASTER-Net observations report,"['
 GRB 250926A,41993.0,GRB 250926A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,8
 GRB 250926A,42515.0,GRB 250926A: VZLUSAT-2 detection,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,8
 GRB 190407B,24121.0,GRB 190407B: AstroSat CZTI detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
-HAWC-190917A,25766.0,Alert from the HAWC Burst Monitor HAWC-190917A,['Misc'],1,1,1.0,1
+HAWC-190917A,25766.0,Alert from the HAWC Burst Monitor HAWC-190917A,['Gamma-ray Transient'],1,1,1.0,1
 GRB 080319D,7455.0,GRB 080319D: MASTER-VWF-Kislovodsk optical observation,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,8
 GRB 080319D,7498.0,"GRB 080319D, Swift-BAT refined analysis","['GRB', 'Gamma-ray Transient']",2,5,0.4,8
 GRB 080319D,7458.0,GRB 080319D: Swift/UVOT Refined Analysis of the Fading Optical Afterglow Candidate,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,5,0.8,8
@@ -25385,7 +25385,7 @@ LIGO/Virgo S200219ac,27135.0,LIGO/Virgo S200219ac : no neutrino counterpart cand
 LIGO/Virgo S200219ac,27132.0,LIGO/Virgo S200219ac: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,21
 LIGO/Virgo S200219ac,27169.0,LIGO/Virgo S200219ac: no counterpart candidate in SVOM/GWAC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,21
 LIGO/Virgo S200219ac,27196.0,LIGO/Virgo S200219ac: No counterpart candidates from Nanshan/NEXT observations,['GW'],1,4,0.25,21
-LIGO/Virgo S200219ac,27133.0,LIGO/Virgo S200219ac: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,21
+LIGO/Virgo S200219ac,27133.0,LIGO/Virgo S200219ac: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,21
 LIGO/Virgo S200219ac,27281.0,LIGO/Virgo S200219ac: AstroSat CZTI upper limits,"['GW', 'Gamma-ray Transient']",2,4,0.5,21
 LIGO/Virgo S200219ac,27168.0,LIGO/Virgo S200219ac : No significant candidates in TAROT - FRAM - GRANDMA observations.,['GW'],1,4,0.25,21
 LIGO/Virgo S200219ac,27141.0,LIGO/Virgo S200219ac: upper limits from AGILE/GRID observations,['GW'],1,4,0.25,21
@@ -25821,7 +25821,7 @@ GRB 251106B,42649.0,GRB 251106B: Glowbug gamma-ray detection of a likely short�
 LIGO/Virgo S200302c,27285.0,LIGO/Virgo S200302c: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['GW', 'Gamma-ray Transient']",2,4,0.5,19
 LIGO/Virgo S200302c,27330.0,LIGO/Virgo S200302c: No notable candidates in GOTO imaging,['GW'],1,4,0.25,19
 LIGO/Virgo S200302c,27283.0,LIGO/Virgo S200302c: upper limits from AGILE/MCAL observations,['GW'],1,4,0.25,19
-LIGO/Virgo S200302c,27287.0,LIGO/Virgo S200302c: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,19
+LIGO/Virgo S200302c,27287.0,LIGO/Virgo S200302c: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,19
 LIGO/Virgo S200302c,27291.0,LIGO/Virgo S200302c: No significant counterpart candidates in Fermi-LAT observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,19
 LIGO/Virgo S200302c,27292.0,LIGO/Virgo S200302c: Updated Sky Localization,['GW'],1,4,0.25,19
 LIGO/Virgo S200302c,27299.0,LIGO/Virgo S200302c: No transient candidates in CALET observations,['GW'],1,4,0.25,19
@@ -26006,7 +26006,7 @@ GRB 241201B,38412.0,GRB241201B: Fermi GBM Final Localization,"['GRB', 'Gamma-ray
 IceCube-211216A,31241.0,IceCube-211216A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,2,0.5,7
 IceCube-211216A,31254.0,IceCube-211216A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,7
 IceCube-211216A,31243.0,IceCube-211216A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
-IceCube-211216A,31271.0,IceCube-211216A: No significant detection in HAWC,['Neutrino'],1,2,0.5,7
+IceCube-211216A,31271.0,IceCube-211216A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-211216A,31252.0,IceCube-211216A: No neutrino counterpart candidates in ANTARES search,['Neutrino'],1,2,0.5,7
 IceCube-211216A,31255.0,IceCube-211216A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-211216A,31257.0,Fermi-LAT Gamma-ray Observations of IceCube-211216A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
@@ -26544,9 +26544,9 @@ GRB 110210A,11738.0,Swift/UVOT observations of GRB110210a.,"['GRB', 'Gamma-ray T
 GRB 110210A,11689.0,GRB 110210A: Enhanced Swift-XRT position,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,8
 GRB 110210A,11687.0,GRB 110210A: Swift detection of a burst,"['GRB', 'Gamma-ray Transient']",2,4,0.5,8
 GRB 110210A,11737.0,GRB 110210A: optical upper limit,"['GRB', 'Gamma-ray Transient']",2,4,0.5,8
-HAWC-201019A,28729.0,HAWC-201019A: No Neutrino Counterpart detected with ANTARES,['Neutrino'],1,3,0.3333333333333333,3
-HAWC-201019A,28734.0,HAWC-201019A: not observable by Fermi-GBM,['Gamma-ray Transient'],1,3,0.3333333333333333,3
-HAWC-201019A,28709.0,Alert from the HAWC Burst Monitor HAWC-201019A,['Misc'],1,3,0.3333333333333333,3
+HAWC-201019A,28729.0,HAWC-201019A: No Neutrino Counterpart detected with ANTARES,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,3
+HAWC-201019A,28734.0,HAWC-201019A: not observable by Fermi-GBM,['Gamma-ray Transient'],1,2,0.5,3
+HAWC-201019A,28709.0,Alert from the HAWC Burst Monitor HAWC-201019A,['Gamma-ray Transient'],1,2,0.5,3
 GRB 250221.15,39394.0,Swift GRB250221.15: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
 GRB 250221.15,39395.0,Swift GRB250221.15: Global MASTER-Net OT detection,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
 GRB 120212A,12949.0,GRB 120212A: GMG optical observation,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,15
@@ -26961,7 +26961,7 @@ IceCube-200926B,28509.0,IceCube-200926B: IceCube observation of a high-energy ne
 IceCube-200926B,28553.0,IceCube-200926B: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-200926B,28531.0,IceCube-200926B: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-200926B,28519.0,Fermi-LAT Gamma-ray Observations of IceCube-200926B,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
-IceCube-200926B,28534.0,IceCube-200926B: No significant detection in HAWC,['Neutrino'],1,2,0.5,7
+IceCube-200926B,28534.0,IceCube-200926B: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 GRB 190901A,25602.0,GRB 190901A: BALROG localization (Fermi Trigger 589065714 / GRB 190901890),"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
 GRB 190901A,25601.0,GRB 190901A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
 GRB 190901A,25646.0,GRB 190901A: Insight-HXMT/HE detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
@@ -27114,13 +27114,13 @@ GRB 100213B,10419.0,GRB 100213B: PAIRITEL NIR Upper Limits,"['GRB', 'Gamma-ray T
 GRB 100213B,10421.0,GRB 100213B: Swift/UVOT Upper Limits,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,11
 GRB 100213B,10417.0,GRB 100213B: Swift-BAT refined analysis,"['GRB', 'Gamma-ray Transient']",2,5,0.4,11
 GRB 100213B,10913.0,GRB 100213B: Detection of Fading Optical Afterglow,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,5,0.8,11
-LIGO/Virgo S190808ae,25299.0,LIGO/Virgo S190808ae: CLU/NED Galaxies in the 50% Localization Volume,['GW'],1,4,0.25,7
-LIGO/Virgo S190808ae,25297.0,LIGO/Virgo S190808ae: One Coincident Neutrino Candidate from IceCube Search,"['GW', 'Neutrino']",2,4,0.5,7
-LIGO/Virgo S190808ae,25300.0,LIGO/Virgo S190808ae: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,7
-LIGO/Virgo S190808ae,25295.0,LIGO/Virgo S190808ae Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,4,0.5,7
-LIGO/Virgo S190808ae,25301.0,LIGO/Virgo S190808ae: Retraction of GW compact binary merger candidate,['Retraction'],1,4,0.25,7
-LIGO/Virgo S190808ae,25298.0,LIGO/Virgo S190808ae: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,7
-LIGO/Virgo S190808ae,25296.0,LIGO/Virgo S190808ae: Identification of a GW compact binary merger candidate,['GW'],1,4,0.25,7
+LIGO/Virgo S190808ae,25299.0,LIGO/Virgo S190808ae: CLU/NED Galaxies in the 50% Localization Volume,['GW'],1,5,0.2,7
+LIGO/Virgo S190808ae,25297.0,LIGO/Virgo S190808ae: One Coincident Neutrino Candidate from IceCube Search,"['GW', 'Neutrino']",2,5,0.4,7
+LIGO/Virgo S190808ae,25300.0,LIGO/Virgo S190808ae: Coverage and upper limits from MAXI/GSC observations,['GW'],1,5,0.2,7
+LIGO/Virgo S190808ae,25295.0,LIGO/Virgo S190808ae Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,5,0.4,7
+LIGO/Virgo S190808ae,25301.0,LIGO/Virgo S190808ae: Retraction of GW compact binary merger candidate,['Retraction'],1,5,0.2,7
+LIGO/Virgo S190808ae,25298.0,LIGO/Virgo S190808ae: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,5,0.4,7
+LIGO/Virgo S190808ae,25296.0,LIGO/Virgo S190808ae: Identification of a GW compact binary merger candidate,['GW'],1,5,0.2,7
 GRB 250201A,39112.0,GRB 250201A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
 GRB 250201A,39151.0,IPN triangulation of GRB 250201A,"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
 GRB 250201A,39117.0,GRB 250201A: INTEGRAL SPI/ACS detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
@@ -27797,7 +27797,7 @@ GRB 150206A,17424.0,GRB 150206A: Swift/UVOT Detection,"['GRB', 'Gamma-ray Transi
 GRB 150206A,17423.0,GRB 150206A: Swift-XRT refined Analysis,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,9
 GRB 150206A,17419.0,GRB 150206A: GROND afterglow observations,"['Afterglow', 'GRB', 'Gamma-ray Transient']",3,5,0.6,9
 GRB 150206A,17426.0,GRB 150206A: Swift-BAT refined analysis,"['GRB', 'Gamma-ray Transient']",2,5,0.4,9
-IceCube-191231A,26628.0,IceCube-191231A: No significant detection in HAWC,['Neutrino'],1,2,0.5,7
+IceCube-191231A,26628.0,IceCube-191231A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-191231A,26631.0,IceCube-191231A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,7
 IceCube-191231A,26633.0,Fermi-LAT Gamma-ray Observations of IceCube-191231A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-191231A,26621.0,IceCube-191231A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
@@ -27931,7 +27931,7 @@ GRB 240504A,36401.0,GRB 240504A: Swift/BAT-GUANO detection of a burst outside th
 GRB 240504A,36520.0,GRB 240504A: VZLUSAT-2 detection,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,7
 IceCube-200410A,27562.0,IceCube-200410A : Upper limits from Insight-HXMT/HE observations,['Neutrino'],1,2,0.5,7
 IceCube-200410A,27552.0,IceCube-200410A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,7
-IceCube-200410A,27569.0,IceCube-200410A: No significant detection in HAWC,['Neutrino'],1,2,0.5,7
+IceCube-200410A,27569.0,IceCube-200410A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-200410A,27534.0,IceCube-200410A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,2,0.5,7
 IceCube-200410A,27537.0,IceCube-200410A: Possible associated excess in INTEGRAL SPI-ACS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-200410A,27544.0,Fermi-LAT Gamma-ray Observations of IceCube-200410A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
@@ -28172,7 +28172,7 @@ IceCube-171106A,22105.0,IceCube-171106A - IceCube observation of a high-energy n
 IceCube-171106A,22945.0,IceCube-171106A: MASTER optical observation,"['Neutrino', 'Optical Transient']",2,4,0.5,10
 IceCube-171106A,22283.0,IceCube-171106A: Konus-Wind upper limits,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,10
 IceCube-171106A,22132.0,Fermi-LAT Gamma-ray Observations of IceCube-171106A,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,10
-IceCube-171106A,22114.0,HAWC follow-up of IceCube-171106A,['Neutrino'],1,4,0.25,10
+IceCube-171106A,22114.0,HAWC follow-up of IceCube-171106A,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,10
 IceCube-171106A,22167.0,INTEGRAL pointed follow-up of IceCube-171106A,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,10
 IceCube-171106A,22109.0,INTEGRAL observation of IceCube-171106A,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,10
 GRB 031111B,2453.0,GRB 031111B (= H2925) : Kyoto Optical Observation,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
@@ -28362,7 +28362,7 @@ IceCube-201115A,28899.0,Fermi-LAT Gamma-ray Observations of IceCube-201115A,"['G
 IceCube-201115A,28901.0,IceCube-201115A: No neutrino counterpart candidates in ANTARES search,['Neutrino'],1,2,0.5,8
 IceCube-201115A,28904.0,IceCube-201115A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,8
 IceCube-201115A,28896.0,IceCube-201115A: not observable by Fermi-GBM,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,8
-IceCube-201115A,28909.0,IceCube-201115A: No significant detection in HAWC,['Neutrino'],1,2,0.5,8
+IceCube-201115A,28909.0,IceCube-201115A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,8
 GRB 080520,7755.0,GRB 080520: Enhanced Swift-XRT position,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,9
 GRB 080520,7757.0,GRB 080520: VLT redshift,"['GRB', 'Gamma-ray Transient']",2,5,0.4,9
 GRB 080520,7771.0,GRB 080520: VLT host detection,"['GRB', 'Gamma-ray Transient']",2,5,0.4,9
@@ -28666,7 +28666,7 @@ GRB 070521,6433.0,GRB070521: Bright SDSS Galaxy Near XRT Error Circle,"['GRB', '
 GRB 070521,6440.0,"GRB 070521, Swift-BAT refined analysis","['GRB', 'Gamma-ray Transient']",2,4,0.5,22
 GRB 070521,6432.0,GRB070521 - SDSS Pre-Burst Observations,"['GRB', 'Gamma-ray Transient']",2,4,0.5,22
 LIGO/Virgo G298389,21600.0,LIGO/Virgo G298389: Identification of a GW Burst Candidate,['GW'],1,3,0.3333333333333333,14
-LIGO/Virgo G298389,21709.0,LIGO/Virgo G298389: HAWC follow-up,['GW'],1,3,0.3333333333333333,14
+LIGO/Virgo G298389,21709.0,LIGO/Virgo G298389: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,3,0.6666666666666666,14
 LIGO/Virgo G298389,21604.0,LIGO/Virgo G298389: AGILE GRID observations,['GW'],1,3,0.3333333333333333,14
 LIGO/Virgo G298389,21668.0,LIGO/Virgo G298389: CALET Observations,['GW'],1,3,0.3333333333333333,14
 LIGO/Virgo G298389,21622.0,LIGO/Virgo G298389: Swift/BAT data search,"['GW', 'Gamma-ray Transient']",2,3,0.6666666666666666,14
@@ -28746,7 +28746,7 @@ LIGO/Virgo S190521r,24659.0,LIGO/Virgo S190521r: No optical counterpart from SVO
 LIGO/Virgo S190521r,24638.0,LIGO/Virgo S190521r: Upper limits from AGILE-GRID observations,['GW'],1,4,0.25,22
 LIGO/Virgo S190521r,24661.0,LIGO/Virgo S190521r: Kanata optical/NIR follow-up observations of the CNEOST Transient,"['GW', 'Optical Transient']",2,4,0.5,22
 LIGO/Virgo S190521r,24635.0,LIGO/Virgo S190521r: Coverage and upper limits from MAXI/GSC observations,['GW'],1,4,0.25,22
-LIGO/Virgo S190521r,24630.0,LIGO/Virgo S190521r: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,22
+LIGO/Virgo S190521r,24630.0,LIGO/Virgo S190521r: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,22
 LIGO/Virgo S190521r,24650.0,LIGO/Virgo S190521r: RATIR Optical and NIR Observations of the CNEOST Transient,"['GW', 'Optical Transient']",2,4,0.5,22
 LIGO/Virgo S190521r,24672.0,LIGO/Virgo S190521r : Gaia Photometric Alerts transient candidate,['GW'],1,4,0.25,22
 LIGO/Virgo S190521r,24643.0,LIGO/Virgo S190521r: Coverage and upper limits from Fermi-LAT observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,22
@@ -28979,7 +28979,7 @@ IceCube-220907A,32536.0,IceCube-220907A: One Candidate Counterpart from the Zwic
 IceCube-220907A,32523.0,IceCube-220907A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,4,0.25,6
 IceCube-220907A,32538.0,IceCube-220907A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,4,0.25,6
 IceCube-220907A,32528.0,Fermi-LAT Gamma-ray Observations of IceCube-220907A,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,6
-IceCube-220907A,32560.0,IceCube-220907A: No significant detection in HAWC,['Neutrino'],1,4,0.25,6
+IceCube-220907A,32560.0,IceCube-220907A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,6
 IceCube-220907A,32573.0,IceCube-220907A: Classification of AT2022oyn as a Type Ia supernova,"['Neutrino', 'Optical Transient', 'SN']",3,4,0.75,6
 IceCube-241224A,38680.0,IceCube-241224A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,5
 IceCube-241224A,38707.0,IceCube-241224A: No transient candidates from the Zwicky Transient Facility,['Neutrino'],1,3,0.3333333333333333,5
@@ -29830,7 +29830,7 @@ IceCube-200530A,27879.0,Fermi-LAT Gamma-ray Observations of IceCube-200530A,"['G
 IceCube-200530A,27910.0,IceCube-200530A - SN2020lam classified as SN II without evidence of CSM interaction,"['Neutrino', 'SN']",2,3,0.6666666666666666,10
 IceCube-200530A,27875.0,IceCube-200530A: not observable by Fermi-GBM,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,10
 IceCube-200530A,27865.0,IceCube-200530A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,3,0.3333333333333333,10
-IceCube-200530A,27873.0,IceCube-200530A: No significant detection in HAWC,['Neutrino'],1,3,0.3333333333333333,10
+IceCube-200530A,27873.0,IceCube-200530A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,10
 IceCube-200530A,27866.0,IceCube-200530A: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,10
 ZTF22aaajecb,31626.0,"ZTF22aaajecb/AT 2022cmc: CAHA 2.2m/CAFOS detection, luminous transient",['Optical Transient'],1,1,1.0,2
 ZTF22aaajecb,31627.0,ZTF22aaajecb/AT2022cmc: Submillimeter Array detection,['Optical Transient'],1,1,1.0,2
@@ -29923,7 +29923,7 @@ GRB 000730B,760.0,IPN localization of GRB000730B,"['GRB', 'Gamma-ray Transient']
 GRB 000730B,759.0,IPN localization of GRB000730B,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 GRB 030817,2352.0,GRB 030817 = H2808 TAROT optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 IceCube-190819A,25404.0,IceCube-190819A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
-IceCube-190819A,25411.0,IceCube-190819A - HAWC follow-up,['Neutrino'],1,3,0.3333333333333333,7
+IceCube-190819A,25411.0,IceCube-190819A - HAWC follow-up,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 IceCube-190819A,25420.0,Fermi-LAT Gamma-ray Observations of IceCube-190819A,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 IceCube-190819A,25413.0,IceCube-190819A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,7
 IceCube-190819A,25403.0,IceCube-190819A: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
@@ -31214,7 +31214,7 @@ GRB 090418C,9184.0,GRB 090418C: Fermi GBM Detection,"['GRB', 'Gamma-ray Transien
 IceCube-200926A,28523.0,IceCube-200926A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,11
 IceCube-200926A,28530.0,IceCube-200926A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,11
 IceCube-200926A,28554.0,IceCube-200926A: No usable INTEGRAL data,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,11
-IceCube-200926A,28528.0,IceCube-200926A: No significant detection in HAWC,['Neutrino'],1,3,0.3333333333333333,11
+IceCube-200926A,28528.0,IceCube-200926A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,11
 IceCube-200926A,28515.0,Swift-XRT observations of IceCube 200926A,"['Neutrino', 'X-ray Transient']",2,3,0.6666666666666666,11
 IceCube-200926A,28513.0,Fermi-LAT Gamma-ray Observations of IceCube-200926A,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,11
 IceCube-200926A,28586.0,IceCube-200926A: Upper limits from Insight-HXMT Observations,['Neutrino'],1,3,0.3333333333333333,11
@@ -31510,12 +31510,12 @@ GRB 150720A,18039.0,GRB 150720A: Swift-XRT refined Analysis,"['GRB', 'Gamma-ray 
 GRB 150720A,18045.0,GRB 150720A: Swift/UVOT Upper Limits,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,4
 GRB 220719A,32463.0,GRB 220719A: Detection by VZLUSAT-2,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 GRB 220719A,32415.0,GRB 220719A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
-IceCube-200806A,28210.0,IceCube-200806A: IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,3,0.3333333333333333,6
-IceCube-200806A,28213.0,IceCube-200806A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,6
-IceCube-200806A,28225.0,IceCube-200806A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,6
-IceCube-200806A,28220.0,Fermi-LAT Gamma-ray Observations of IceCube-200806A,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,6
-IceCube-200806A,28247.0,IceCube200806A: No significant detection in HAWC,['Misc'],1,3,0.3333333333333333,6
-IceCube-200806A,28279.0,IceCube-200806A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,6
+IceCube-200806A,28210.0,IceCube-200806A: IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,2,0.5,6
+IceCube-200806A,28213.0,IceCube-200806A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
+IceCube-200806A,28225.0,IceCube-200806A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,6
+IceCube-200806A,28220.0,Fermi-LAT Gamma-ray Observations of IceCube-200806A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
+IceCube-200806A,28247.0,IceCube200806A: No significant detection in HAWC,['Gamma-ray Transient'],1,2,0.5,6
+IceCube-200806A,28279.0,IceCube-200806A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 EP241103a,38051.0,EP241103a: an X-ray transient detected by Einstein Probe,['X-ray Transient'],1,3,0.3333333333333333,8
 EP241103a,38059.0,EP241103a: Gemini optical limits,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,8
 EP241103a,38058.0,EP241103a: EP observation update,['X-ray Transient'],1,3,0.3333333333333333,8
@@ -31920,7 +31920,7 @@ GRB 160225B,19095.0,IPN Triangulation of GRB 160225B,"['GRB', 'Gamma-ray Transie
 GRB 160225B,19096.0,GRB 160225B: Fermi GBM detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 IceCube-200425A,27654.0,Fermi-LAT Gamma-ray Observations of IceCube-200425A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 IceCube-200425A,27652.0,IceCube-200425A: No counterpart candidates in INTEGRAL SPI-ACS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
-IceCube-200425A,27658.0,IceCube-200425A: No significant detection in HAWC,['Neutrino'],1,2,0.5,6
+IceCube-200425A,27658.0,IceCube-200425A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 IceCube-200425A,27651.0,IceCube-200425A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,2,0.5,6
 IceCube-200425A,27655.0,IceCube-200425A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 IceCube-200425A,27656.0,IceCube-200425A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,6
@@ -31943,7 +31943,7 @@ GRB 180821A,23163.0,GRB 180821A: LCO Siding Springs observations,"['GRB', 'Gamma
 GRB 180821A,23168.0,GRB 180821A: VLT observations,"['GRB', 'Gamma-ray Transient']",2,6,0.3333333333333333,10
 GRB 180821A,23160.0,GRB 180821A: iTelescope optical afterglow detection,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,6,0.6666666666666666,10
 GRB 180723.13,23027.0,GRB 180723.13: MASTER optical observation of the short  Fermi GBM trigger number 554008254,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
-HAWC-200814A,28248.0,Alert from the HAWC Burst Monitor HAWC-200814A,['Misc'],1,2,0.5,2
+HAWC-200814A,28248.0,Alert from the HAWC Burst Monitor HAWC-200814A,['Gamma-ray Transient'],1,2,0.5,2
 HAWC-200814A,28257.0,HAWC-200814A: Retraction of burst alert,['Retraction'],1,2,0.5,2
 GRB 230220B,33362.0,Fermi GRB 230220B: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
 GRB 230220B,33357.0,GRB 230220B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,2
@@ -32147,7 +32147,7 @@ LIGO/Virgo/KAGRA S231029y,34904.0,LIGO/Virgo/KAGRA S231029y: Identification of a
 LIGO/Virgo/KAGRA S231029y,34906.0,LIGO/Virgo/KAGRA S231029y: One counterpart neutrino candidate from IceCube neutrino searches,"['GW', 'Neutrino']",2,3,0.6666666666666666,3
 IceCube-200421A,27615.0,IceCube-200421A: not observable by Fermi-GBM,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-200421A,27620.0,Fermi-LAT Gamma-ray Observations of IceCube-200421A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
-IceCube-200421A,27617.0,IceCube-200421A: No significant detection in HAWC,['Neutrino'],1,2,0.5,7
+IceCube-200421A,27617.0,IceCube-200421A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-200421A,27624.0,IceCube-200421A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,7
 IceCube-200421A,27612.0,IceCube-200421A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,2,0.5,7
 IceCube-200421A,27613.0,IceCube-200421A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
@@ -32544,7 +32544,7 @@ IceCube-190619A,24858.0,IceCube-190619A: No counterpart candidates in INTEGRAL S
 IceCube-190619A,24879.0,IceCube-190619A: prompt emission upper limits from AstroSat-CZTI,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,8
 IceCube-190619A,24866.0,IceCube-190619A: No counterpart candidates in ANTARES data,['Neutrino'],1,2,0.5,8
 IceCube-190619A,24854.0,IceCube-190619A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,2,0.5,8
-IceCube-190619A,24864.0,IceCube-190619A - HAWC follow-up,['Neutrino'],1,2,0.5,8
+IceCube-190619A,24864.0,IceCube-190619A - HAWC follow-up,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,8
 IceCube-190619A,24867.0,Fermi-LAT Gamma-ray Observations of IceCube-190619A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,8
 IceCube-190619A,24865.0,IceCube-190619A: IceCube additional correlated neutrino search: upper limits,['Neutrino'],1,2,0.5,8
 IceCube-190619A,24856.0,IceCube-190619A: not observable by Fermi-GBM,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,8
@@ -32779,7 +32779,7 @@ EP240416a,36138.0,EP240416a: EP-WXT detection of a fast X-ray transient,['X-ray 
 EP240416a,36139.0,EP240416a: Kinder optical counterpart candidate ,"['Optical Transient', 'X-ray Transient']",2,2,1.0,5
 EP240416a,36144.0,EP 240416a: Xinglong and NOT decaying optical counterpart,"['Optical Transient', 'X-ray Transient']",2,2,1.0,5
 EP240416a,36172.0,EP240416a: J-band observations with WINTER,['X-ray Transient'],1,2,0.5,5
-HAWC-221123A,32975.0,Alert from the HAWC Burst Monitor HAWC-221123A,['Misc'],1,1,1.0,1
+HAWC-221123A,32975.0,Alert from the HAWC Burst Monitor HAWC-221123A,['Gamma-ray Transient'],1,1,1.0,1
 GRB 061202,5892.0,GRB061202: FRAM early follow-up limit,"['GRB', 'Gamma-ray Transient']",2,4,0.5,9
 GRB 061202,5888.0,GRB061202: Swift/UVOT Upper Limits,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,9
 GRB 061202,5897.0,GRB 061202: TORTOREM optical upper limits,"['GRB', 'Gamma-ray Transient']",2,4,0.5,9
@@ -32800,7 +32800,7 @@ GRB 190610A,24834.0,GRB 190610A: Swift/UVOT Upper Limits,"['GRB', 'Gamma-ray Tra
 GRB 190610A,24833.0,GRB 190610A: Swift-XRT observations,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,9
 GRB 240605A,36615.0,GRB 240605A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,2
 GRB 240605A,36623.0,Fermi GRB 240605A: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
-HAWC-200709A,28076.0,Update of alert from the HAWC Burst Monitor HAWC-200709A,['Misc'],1,1,1.0,1
+HAWC-200709A,28076.0,Update of alert from the HAWC Burst Monitor HAWC-200709A,['Gamma-ray Transient'],1,1,1.0,1
 GRB 240801B,37011.0,GRB 240801B: AstroSat CZTI Updated classification - likely a solar flare,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 GRB 240801B,36996.0,GRB 240801B: AstroSat CZTI detection of a bright long burst,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 GRB 150407A,17684.0,GRB 150407A: Swift-XRT observations,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,4
@@ -33079,7 +33079,7 @@ LIGO/Virgo/KAGRA S241231bg,38737.0,LIGO/Virgo/KAGRA S241231bg: Identification of
 LIGO/Virgo/KAGRA S241231bg,38742.0,LIGO/Virgo/KAGRA S241231bg: NED Galaxies in the Localization Volume,['GW'],1,1,1.0,4
 LIGO/Virgo/KAGRA S241231bg,38744.0,LIGO/Virgo/KAGRA S241231bg: Updated Sky localization and EM Bright Classification,['GW'],1,1,1.0,4
 IceCube-200109A,26696.0,IceCube-200109A: IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,3,0.3333333333333333,8
-IceCube-200109A,26709.0,IceCube 200109A: No significant detection in HAWC,['Neutrino'],1,3,0.3333333333333333,8
+IceCube-200109A,26709.0,IceCube 200109A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-200109A,26697.0,IceCube-200109A: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 IceCube-200109A,26700.0,IceCube-200109A: Swift-XRT and UVoT Follow-up Observations,"['Neutrino', 'X-ray Transient']",2,3,0.6666666666666666,8
 IceCube-200109A,26698.0,IceCube-200109A: INTEGRAL was inactive at the time of the event,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
@@ -33138,7 +33138,7 @@ GRB 251028A,42527.0,Konus-Wind detection of GRB 251028A,"['GRB', 'Gamma-ray Tran
 GRB 251028A,42580.0,GRB 251028A: Insight-HXMT/HE detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,9
 GRB 251028A,42497.0,GRB 251028A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,9
 IceCube-200921A,28470.0,IceCube-200921A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
-IceCube-200921A,28480.0,IceCube-200921A: no significant detection in HAWC observations,['Neutrino'],1,2,0.5,6
+IceCube-200921A,28480.0,IceCube-200921A: no significant detection in HAWC observations,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 IceCube-200921A,28485.0,IceCube-200921A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,6
 IceCube-200921A,28468.0,IceCube-200921A: IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,2,0.5,6
 IceCube-200921A,28481.0,"Fermi-LAT Gamma-ray Observations of IceCube-200921A and detection of a new gamma-ray source, Fermi J1256.9+2630","['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
@@ -33408,7 +33408,7 @@ LIGO/Virgo S190706ai,25049.0,LIGO/Virgo S190706ai: Updated sky localization,['GW
 LIGO/Virgo S190706ai,24998.0,LIGO/Virgo S190706ai: Identification of a GW compact binary merger candidate,['GW'],1,4,0.25,16
 LIGO/Virgo S190706ai,25027.0,LIGO/Virgo S190706ai: No transient candidates from CALET observations,['GW'],1,4,0.25,16
 LIGO/Virgo S190706ai,25025.0,LIGO/Virgo S190706ai: No counterpart candidates in the Swift/BAT Observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
-LIGO/Virgo S190706ai,25004.0,LIGO/Virgo S190706ai: No counterpart candidates in HAWC observations,['GW'],1,4,0.25,16
+LIGO/Virgo S190706ai,25004.0,LIGO/Virgo S190706ai: No counterpart candidates in HAWC observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
 LIGO/Virgo S190706ai,25010.0,LIGO/Virgo S190706ai: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observations,"['GW', 'Gamma-ray Transient']",2,4,0.5,16
 GRB 160530B,19487.0,GRB 160530B CALET Gamma-Ray Burst Monitor detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 GRB 160530B,19474.0,GRB 160530B: Fermi GBM Detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
@@ -33802,7 +33802,7 @@ GRB 111210A,12652.0,GRB 111210A: Enhanced Swift-XRT position,"['GRB', 'Gamma-ray
 GRB 111210A,12659.0,GRB 111210A: MITSuME Okayama Optical upper limits,"['GRB', 'Gamma-ray Transient']",2,4,0.5,13
 GRB 111210A,12650.0,GRB 111210A: Swift detection of a burst,"['GRB', 'Gamma-ray Transient']",2,4,0.5,13
 GRB 111210A,12653.0,GRB 111210A:  Spectral lag analysis,"['GRB', 'Gamma-ray Transient']",2,4,0.5,13
-IceCube-211125A,31153.0,IceCube-211125A: No significant detection in HAWC,['Neutrino'],1,2,0.5,6
+IceCube-211125A,31153.0,IceCube-211125A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 IceCube-211125A,31128.0,IceCube-211125A: No neutrino counterpart detected with ANTARES,['Neutrino'],1,2,0.5,6
 IceCube-211125A,31132.0,Fermi-LAT Gamma-ray Observations of IceCube-211125A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,6
 IceCube-211125A,31143.0,IceCube-211125A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,6
@@ -34404,7 +34404,7 @@ IceCube-201021A,28735.0,IceCube-201021A: Upper limits from Fermi-GBM Observation
 IceCube-201021A,28756.0,IceCube-201021A: Optical counterpart of WISEA J172314.13+142101.5,"['Neutrino', 'Optical Transient']",2,4,0.5,12
 IceCube-201021A,28757.0,IceCube-201021A: One candidate counterpart from the Zwicky Transient Facility,['Neutrino'],1,4,0.25,12
 IceCube-201021A,28746.0,IceCube-201021A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,4,0.25,12
-IceCube-201021A,28758.0,IceCube-201021A: No significant detection in HAWC,['Neutrino'],1,4,0.25,12
+IceCube-201021A,28758.0,IceCube-201021A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,12
 IceCube-201021A,28724.0,Swift-XRT observations of IceCube 201021A,"['Neutrino', 'X-ray Transient']",2,4,0.5,12
 IceCube-201021A,28732.0,IceCube-201021A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,12
 IceCube-201021A,28749.0,Swift-XRT observations of IceCube 201021A (2),"['Neutrino', 'X-ray Transient']",2,4,0.5,12
@@ -34644,7 +34644,7 @@ GRB 210102.01,29219.0,Swift GRB210102.01: Global MASTER-Net observations report,
 GRB 130919A,15234.0,"GRB 130919A, Swift-BAT refined analysis","['GRB', 'Gamma-ray Transient']",2,2,1.0,3
 GRB 130919A,15235.0,GRB 130919A: Skynet PROMPT-CTIO optical upper limits,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
 GRB 130919A,15232.0,GRB 130919A: Swift detection of a burst,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
-IceCube-220629A,32300.0,IceCube-220629A: No significant detection in HAWC,['Neutrino'],1,2,0.5,4
+IceCube-220629A,32300.0,IceCube-220629A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,4
 IceCube-220629A,32299.0,IceCube-220629A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,2,0.5,4
 IceCube-220629A,32305.0,Fermi-LAT Gamma-ray Observations of IceCube-220629A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,4
 IceCube-220629A,32312.0,IceCube-220629A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,4
@@ -34661,7 +34661,7 @@ GRB 080120,7195.0,GRB080120: Swift XRT position,"['GRB', 'Gamma-ray Transient', 
 IceCube-211216B,31256.0,IceCube-211216B: Upper limits from Fermi-GBM Observations,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,5
 IceCube-211216B,31249.0,IceCube-211216B - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,2,0.5,5
 IceCube-211216B,31262.0,IceCube-211216B: No neutrino counterpart candidates in ANTARES search,['Neutrino'],1,2,0.5,5
-IceCube-211216B,31272.0,IceCube-211216B: No significant detection in HAWC,['Neutrino'],1,2,0.5,5
+IceCube-211216B,31272.0,IceCube-211216B: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,5
 IceCube-211216B,31258.0,Fermi-LAT Gamma-ray Observations of IceCube-211216B,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,5
 GRB 200423A,27647.0,IPN triangulation of GRB 200423A (short),"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,3
 GRB 200423A,27633.0,Fermi GRB 200423A: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,3
@@ -35335,7 +35335,7 @@ IceCube-200107A,26666.0,IceCube-200107A: No counterpart candidates in INTEGRAL S
 IceCube-200107A,26655.0,IceCube-200107A: IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,3,0.3333333333333333,8
 IceCube-200107A,26667.0,IceCube-200107A: No candidates from the Zwicky Transient Facility,['Neutrino'],1,3,0.3333333333333333,8
 IceCube-200107A,26704.0,IceCube-200107A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,8
-IceCube-200107A,26668.0,IceCube-200107A: No significant detection in HAWC,['Neutrino'],1,3,0.3333333333333333,8
+IceCube-200107A,26668.0,IceCube-200107A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,8
 GRB 050825,3882.0,Possible GRB050825:MASTER optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 GRB 231222B,35418.0,GRB 231222B: Fermi GBM Detection,"['GRB', 'Gamma-ray Transient']",2,4,0.5,4
 GRB 231222B,35425.0,GRB 231222B: GRBAlpha detection,"['GRB', 'Gamma-ray Transient']",2,4,0.5,4
@@ -35592,7 +35592,7 @@ GRB 190504.68,24397.0,Fermi GRB190504.68 Global MASTER-Net observations report,"
 GRB 090902,9865.0,GRB 090902: Fermi GBM detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 200919B,28459.0,Fermi GRB 200919B: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
 GRB 200919B,28457.0,GRB 200919B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,2
-IceCube-220509A,32031.0,IceCube-220509A: No significant detection in HAWC,['Neutrino'],1,2,0.5,4
+IceCube-220509A,32031.0,IceCube-220509A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,4
 IceCube-220509A,32013.0,IceCube-220509A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,2,0.5,4
 IceCube-220509A,32016.0,Fermi-LAT Gamma-ray Observations of IceCube-220509A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,4
 IceCube-220509A,32020.0,IceCube-220509A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,4
@@ -35944,7 +35944,7 @@ GRB 241008A,37741.0,GRB 241008A: BALROG localization (Fermi Trigger 750117609 / 
 GRB 241008A,37747.0,GRB 241008A: Fermi-LAT detection,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,5
 GRB 241008A,37740.0,GRB 241008A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,5
 GRB 241008A,37748.0,GRB 241008A: Fermi GBM Observation,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,5
-IceCube-220303A,31721.0,IceCube-220303A: No significant detection in HAWC,['Neutrino'],1,4,0.25,6
+IceCube-220303A,31721.0,IceCube-220303A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,6
 IceCube-220303A,31670.0,IceCube-220303A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,4,0.25,6
 IceCube-220303A,31681.0,IceCube-220303A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,4,0.25,6
 IceCube-220303A,31680.0,Fermi-LAT Gamma-ray Observations of IceCube-220303A,"['Gamma-ray Transient', 'Neutrino']",2,4,0.5,6
@@ -36195,10 +36195,10 @@ GRB 170826B,21753.0,IPN Triangulation of GRB 170826B,"['GRB', 'Gamma-ray Transie
 GRB 170826B,21739.0,GRB 170826B: Insight-HXMT detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
 GRB 220915A,32629.0,GRB 220915A: Detection by GRBAlpha,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 201011A,28606.0,GRB 201011A: Fermi GBM detection of a likely Long GRB in the direction of SGR 1830-0645,"['GRB', 'Gamma-ray Transient', 'SGR']",3,3,1.0,1
-HAWC-190806A,25309.0,HAWC-190806A: upper limits from INTEGRAL SPI-ACS and IBIS prompt observation,['Gamma-ray Transient'],1,3,0.3333333333333333,4
-HAWC-190806A,25315.0,HAWC-190806A: Upper limits from Insight-HXMT/HE observations,['Misc'],1,3,0.3333333333333333,4
-HAWC-190806A,25308.0,HAWC-190806A: Upper limits from Fermi-GBM Observations,['Gamma-ray Transient'],1,3,0.3333333333333333,4
-HAWC-190806A,25307.0,HAWC-190806A: Swift-XRT observations,['X-ray Transient'],1,3,0.3333333333333333,4
+HAWC-190806A,25309.0,HAWC-190806A: upper limits from INTEGRAL SPI-ACS and IBIS prompt observation,['Gamma-ray Transient'],1,2,0.5,4
+HAWC-190806A,25315.0,HAWC-190806A: Upper limits from Insight-HXMT/HE observations,['Gamma-ray Transient'],1,2,0.5,4
+HAWC-190806A,25308.0,HAWC-190806A: Upper limits from Fermi-GBM Observations,['Gamma-ray Transient'],1,2,0.5,4
+HAWC-190806A,25307.0,HAWC-190806A: Swift-XRT observations,"['Gamma-ray Transient', 'X-ray Transient']",2,2,1.0,4
 GRB 221215.15,33056.0,Swift GRB221215.15: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 GRB 210619.99,30260.0,Swift GRB210619.99: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,3
 GRB 210619.99,30259.0,Swift GRB210619.99: Global MASTER-Net OT detection,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,3
@@ -36240,7 +36240,7 @@ GRB 170309A,20845.0,GRB 170309A: POLAR Observation,"['GRB', 'Gamma-ray Transient
 IceCube-220624A,32293.0,IceCube-220624A: One Candidate Counterpart from Swift/XRT follow up observations,"['Neutrino', 'X-ray Transient']",2,5,0.4,8
 IceCube-220624A,32290.0,Swift XRT observations of WISEA J145820.77+412101.9 / IceCube 220624A,"['Gamma-ray Transient', 'Neutrino', 'X-ray Transient']",3,5,0.6,8
 IceCube-220624A,32260.0,IceCube-220624A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,5,0.2,8
-IceCube-220624A,32274.0,IceCube-220624A: No significant detection in HAWC,['Neutrino'],1,5,0.2,8
+IceCube-220624A,32274.0,IceCube-220624A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,5,0.4,8
 IceCube-220624A,32270.0,IceCube-220624A: No Candidate Counterparts from the Zwicky Transient Facility,['Neutrino'],1,5,0.2,8
 IceCube-220624A,32285.0,"Fermi-LAT Gamma-ray Observations of IceCube-220624A and and detection of a new gamma-ray source, Fermi J1458.0+4119","['Gamma-ray Transient', 'Neutrino']",2,5,0.4,8
 IceCube-220624A,32357.0,IceCube-220624A: Classification of AT2022nit as a type Ia supernova and AT2021bei as an AGN,"['Neutrino', 'Optical Transient', 'SN']",3,5,0.6,8
@@ -36562,7 +36562,7 @@ GRB 140706A,16539.0,GRB 140706A: Swift-BAT refined analysis,"['GRB', 'Gamma-ray 
 GRB 140706A,16537.0,GRB 140706A: Fermi GBM detection,"['GRB', 'Gamma-ray Transient']",2,5,0.4,7
 GRB 140706A,16531.0,GRB 140706A: Swift detection of a burst with an optical counterpart,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,7
 GRB 140706A,16534.0,GRB140706A: GROND detection of the Optical/NIR afterglow,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,5,0.8,7
-IceCube-201014A,28657.0,IceCube-201014A: No significant detection in HAWC,['Neutrino'],1,2,0.5,7
+IceCube-201014A,28657.0,IceCube-201014A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-201014A,28619.0,IceCube-201014A: Not observable by GBM,['Neutrino'],1,2,0.5,7
 IceCube-201014A,28622.0,Fermi-LAT Gamma-ray Observations of IceCube-201014A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,7
 IceCube-201014A,28616.0,IceCube-201014A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,2,0.5,7
@@ -36938,7 +36938,7 @@ GRB 251129B,42960.0,IPN triangulation of GRB 251129B (short/hard),"['GRB', 'Gamm
 GRB 251129B,42984.0,GRB 251129B: GECAM-B observation of a burst,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
 GRB 251129B,42992.0,GRB 251129B: Glowbug gamma-ray detection of a short burst,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
 GRB 251129B,42958.0,GRB 251129B: AstroSat CZTI detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
-HAWC-200907A,28074.0,HAWC-200907A: No Neutrino Counterpart detected with ANTARES,['Neutrino'],1,1,1.0,1
+HAWC-200907A,28074.0,HAWC-200907A: No Neutrino Counterpart detected with ANTARES,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,1
 GRB 251108A,42626.0,GRB 251108A: Fermi GBM Final Localization Correction,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 220324A,31788.0,GRB 220324A: AstroSat CZTI detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 EP250908a,41751.0,EP#01709240652 (possibly EP250908a): FTW optical and NIR observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,2
@@ -36998,10 +36998,10 @@ LIGO/Virgo/KAGRA S250827fo,41571.0,LIGO/Virgo/KAGRA S250827fo: Identification of
 LIGO/Virgo/KAGRA S250827fo,41578.0,LIGO/Virgo/KAGRA S250827fo: Updated Sky localization,['GW'],1,1,1.0,2
 GRB 260117.82,43444.0,SVOM GRB260117.82: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 GRB 200320A,27417.0,GRB 200320A: Fermi GBM Final Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
-HAWC-211123A,31115.0,HAWC-211123A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,['Gamma-ray Transient'],1,3,0.3333333333333333,4
-HAWC-211123A,31106.0,Alert from the HAWC Burst Monitor HAWC-211123A,['Misc'],1,3,0.3333333333333333,4
-HAWC-211123A,31111.0,HAWC-211123A: No neutrino counterpart detected with ANTARES,['Neutrino'],1,3,0.3333333333333333,4
-HAWC-211123A,31114.0,HAWC-211123A: not observable by Fermi-GBM,['Gamma-ray Transient'],1,3,0.3333333333333333,4
+HAWC-211123A,31115.0,HAWC-211123A: No counterpart candidates in INTEGRAL SPI-ACS and IBIS prompt observation,['Gamma-ray Transient'],1,2,0.5,4
+HAWC-211123A,31106.0,Alert from the HAWC Burst Monitor HAWC-211123A,['Gamma-ray Transient'],1,2,0.5,4
+HAWC-211123A,31111.0,HAWC-211123A: No neutrino counterpart detected with ANTARES,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,4
+HAWC-211123A,31114.0,HAWC-211123A: not observable by Fermi-GBM,['Gamma-ray Transient'],1,2,0.5,4
 GRB 260113.43,43392.0,Swift GRB260113.43: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 LIGO/Virgo/KAGRA S241111bn,38166.0,LIGO/Virgo/KAGRA S241111bn: Identification of a GW compact binary merger candidate,['GW'],1,1,1.0,2
 LIGO/Virgo/KAGRA S241111bn,38190.0,LIGO/Virgo/KAGRA S241111bn: Updated Sky localization,['GW'],1,1,1.0,2
@@ -37238,7 +37238,7 @@ GRB 180605A,22764.0,IPN Triangulation of GRB 180605A (long),"['GRB', 'Gamma-ray 
 IceCube-220513A,32050.0,Fermi-LAT Gamma-ray Observations of IceCube-220513A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,5
 IceCube-220513A,32040.0,IceCube-220513A: No Candidate Counterparts from the Zwicky Transient Facility,['Neutrino'],1,2,0.5,5
 IceCube-220513A,32037.0,IceCube-220513A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,2,0.5,5
-IceCube-220513A,32047.0,IceCube-220513A: No significant detection in HAWC,['Neutrino'],1,2,0.5,5
+IceCube-220513A,32047.0,IceCube-220513A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,5
 IceCube-220513A,32049.0,IceCube-220513A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,5
 EP250111a,38910.0,EP250111a: Swift/XRT detection and fading,['X-ray Transient'],1,2,0.5,7
 EP250111a,38911.0,EP250111a: Global MASTER-Net observations report,"['Optical Transient', 'X-ray Transient']",2,2,1.0,7
@@ -37809,10 +37809,10 @@ GRB 150103A,17279.0,GRB 150103A: MASTER optical observations,"['GRB', 'Gamma-ray
 GRB 150103A,17274.0,GRB 150103A: Swift-BAT refined analysis,"['GRB', 'Gamma-ray Transient']",2,4,0.5,8
 GRB 150103A,17270.0,GRB 150103A: Prompt enhanced Swift-XRT position,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,8
 GRB 150103A,17269.0,GRB 150103A: Swift detection of a burst,"['GRB', 'Gamma-ray Transient']",2,4,0.5,8
-LIGO-Virgo S190408an,24080.0,LIGO-Virgo S190408an: further AGILE GRID observations after T0,['GW'],1,1,1.0,4
-LIGO-Virgo S190408an,24071.0,LIGO-Virgo S190408an: AGILE GRID observations,['GW'],1,1,1.0,4
-LIGO-Virgo S190408an,24063.0,LIGO-Virgo S190408an: AGILE MCAL observations,['GW'],1,1,1.0,4
-LIGO-Virgo S190408an,24067.0,LIGO-Virgo S190408an: HAWC follow-up,['GW'],1,1,1.0,4
+LIGO-Virgo S190408an,24080.0,LIGO-Virgo S190408an: further AGILE GRID observations after T0,['GW'],1,2,0.5,4
+LIGO-Virgo S190408an,24071.0,LIGO-Virgo S190408an: AGILE GRID observations,['GW'],1,2,0.5,4
+LIGO-Virgo S190408an,24063.0,LIGO-Virgo S190408an: AGILE MCAL observations,['GW'],1,2,0.5,4
+LIGO-Virgo S190408an,24067.0,LIGO-Virgo S190408an: HAWC follow-up,"['GW', 'Gamma-ray Transient']",2,2,1.0,4
 GRB 210607B,30159.0,GRB 210607B: Insight-HXMT/HE detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 LIGO/Virgo/KAGRA S240813c,37169.0,LIGO/Virgo/KAGRA S240813c: Updated Sky localization,['GW'],1,1,1.0,2
 LIGO/Virgo/KAGRA S240813c,37168.0,LIGO/Virgo/KAGRA S240813c: Identification of a GW compact binary merger candidate,['GW'],1,1,1.0,2
@@ -37846,7 +37846,7 @@ GRB 091104,10136.0,GRB 091104: Swift-BAT refined analysis,"['GRB', 'Gamma-ray Tr
 GRB 091104,10134.0,GRB 091104: Swift/UVOT Upper Limits,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,5
 GRB 091104,10130.0,GRB 091104: Swift detection of a burst,"['GRB', 'Gamma-ray Transient']",2,4,0.5,5
 GRB 100223A,10448.0,GRB 100223A: Fermi GBM detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
-HAWC-220702A,32319.0,Alert from the HAWC Burst Monitor HAWC-220702A,['Misc'],1,1,1.0,1
+HAWC-220702A,32319.0,Alert from the HAWC Burst Monitor HAWC-220702A,['Gamma-ray Transient'],1,1,1.0,1
 GRB 190612A,24787.0,GRB 190612A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 LIGO/Virgo S230615k,33970.0,LIGO/Virgo S230615k: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,2,1.0,1
 LIGO/Virgo/KAGRA S250904cv,41700.0,LIGO/Virgo/KAGRA S250904cv: Identification of a GW compact binary merger candidate,['GW'],1,1,1.0,2
@@ -38239,7 +38239,7 @@ GRB 100415A,10596.0,GRB 100415A: MAXI/GSC detection of a probable GRB,"['GRB', '
 GRB 151231B,18788.0,GRB 151231B: Fermi GBM observation,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 050727,3689.0,GRB050727: KAIT optical limit,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
 GRB 050727,3691.0,GRB 050727: RTT150 optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
-IceCube-220627A,32298.0,IceCube-220627A: No significant detection in HAWC,['Neutrino'],1,2,0.5,4
+IceCube-220627A,32298.0,IceCube-220627A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,4
 IceCube-220627A,32301.0,Fermi-LAT Gamma-ray Observations of IceCube-220627A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,4
 IceCube-220627A,32292.0,IceCube-220627A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,4
 IceCube-220627A,32277.0,IceCube-220627A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,2,0.5,4
@@ -38480,8 +38480,8 @@ GRB 230815B,34448.0,GRB 230815B: GECAM-B and GECAM-C detection of a burst,"['GRB
 GRB 230815B,34454.0,IPN triangulation of GRB 230815B,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
 LIGO/Virgo S230615ax,33971.0,LIGO/Virgo S230615ax: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,2,1.0,1
 HAWC-191019A,26052.0,HAWC-191019A: Retraction of burst alert,['Retraction'],1,3,0.3333333333333333,3
-HAWC-191019A,26049.0,HAWC-191019A: No Neutrino Counterpart detected with ANTARES,['Neutrino'],1,3,0.3333333333333333,3
-HAWC-191019A,26037.0,Alert from the HAWC Burst Monitor HAWC-191019A,['Misc'],1,3,0.3333333333333333,3
+HAWC-191019A,26049.0,HAWC-191019A: No Neutrino Counterpart detected with ANTARES,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,3
+HAWC-191019A,26037.0,Alert from the HAWC Burst Monitor HAWC-191019A,['Gamma-ray Transient'],1,3,0.3333333333333333,3
 EP241126a,38378.0,EP241126a: SVOM/VT observations,"['Optical Transient', 'X-ray Transient']",2,2,1.0,10
 EP241126a,38409.0,EP241126a: SOAR observations of the optical counterpart,"['Optical Transient', 'X-ray Transient']",2,2,1.0,10
 EP241126a,38337.0,EP241126a: TRT optical counterpart detection,"['Optical Transient', 'X-ray Transient']",2,2,1.0,10
@@ -38576,7 +38576,7 @@ GRB 101008,11322.0,GRB 101008: Swift/UVOT Upper Limits,"['GRB', 'Gamma-ray Trans
 GRB 081207,8665.0,GRB 081207: Fermi GBM detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 210222.94,29544.0,Swift GRB210222.94: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 LIGO/Virgo S230619as,34027.0,LIGO/Virgo S230619as: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,2,1.0,1
-IceCube-190704A,24996.0,IceCube-190704A - HAWC follow-up,['Neutrino'],1,3,0.3333333333333333,7
+IceCube-190704A,24996.0,IceCube-190704A - HAWC follow-up,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 IceCube-190704A,24981.0,IceCube-190704A - IceCube observation of a high-energy neutrino candidate event,['Neutrino'],1,3,0.3333333333333333,7
 IceCube-190704A,24984.0,IceCube-190704A: not observable by Fermi-GBM,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,7
 IceCube-190704A,24985.0,LIGO/Virgo IceCube-190704A: No counterpart candidates in INTEGRAL SPI- ACS and IBIS prompt observation,"['GW', 'Gamma-ray Transient', 'Neutrino']",3,3,1.0,7
@@ -38880,8 +38880,8 @@ GRB 171216A,22259.0,GRB 171216A: Swift-BAT refined analysis,"['GRB', 'Gamma-ray 
 GRB 171216A,22256.0,GRB 171216A: Swift detection of a burst,"['GRB', 'Gamma-ray Transient']",2,4,0.5,5
 GRB 171216A,22260.0,GRB 171216A: Swift-XRT refined Analysis,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,5
 GRB 171216A,22257.0,GRB 171216A: Enhanced Swift-XRT position,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,5
-HAWC-210507A,29958.0,Alert from the HAWC Burst Monitor HAWC-210507A,['Misc'],1,2,0.5,2
-HAWC-210507A,29967.0,HAWC-210507A:  No neutrino counterpart candidates in ANTARES search,['Neutrino'],1,2,0.5,2
+HAWC-210507A,29958.0,Alert from the HAWC Burst Monitor HAWC-210507A,['Gamma-ray Transient'],1,2,0.5,2
+HAWC-210507A,29967.0,HAWC-210507A:  No neutrino counterpart candidates in ANTARES search,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,2
 GRB 220523A,32092.0,GRB 220523A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,2
 GRB 220523A,32093.0,Fermi GRB 220523A: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
 GRB 100718A,10965.0,GRB 100718A: MASTER-Net  optical prompt and alert observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
@@ -38983,7 +38983,7 @@ GRB 240612B,36663.0,GRB 240612B: Fermi GBM Final Real-time Localization,"['GRB',
 GRB 240612B,36665.0,Fermi GRB 240612B: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
 GRB 260121.06,43485.0,SVOM GRB260121.06: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 GRB 090513,9390.0,GRB090513: Fermi GBM detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
-HAWC-221128A,32988.0,Alert from the HAWC Burst Monitor HAWC-221128A,['Misc'],1,1,1.0,1
+HAWC-221128A,32988.0,Alert from the HAWC Burst Monitor HAWC-221128A,['Gamma-ray Transient'],1,1,1.0,1
 GRB 070721,6639.0,GRB 070721: Swift detection of a possible burst,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 140320D,16043.0,GRB 140320D: MASTER optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,4
 GRB 140320D,16025.0,Konus-Wind observation of GRB 140320D,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,4
@@ -39392,7 +39392,7 @@ GRB 230218A,33344.0,GRB 230218A: Fermi GBM Final Real-time Localization,"['GRB',
 GRB 131110A,15483.0,GRB 131110A found in ground analysis of BAT slew event data,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,3
 GRB 131110A,15487.0,GRB 131110A BAT refined analysis,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,3
 GRB 131110A,15488.0,GRB 131110A: Swift-XRT and UVOT upper limits,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,3,1.0,3
-HAWC-230527A,33886.0,Alert from the HAWC Burst Monitor HAWC-230527A,['Misc'],1,1,1.0,1
+HAWC-230527A,33886.0,Alert from the HAWC Burst Monitor HAWC-230527A,['Gamma-ray Transient'],1,1,1.0,1
 GRB 220404B,31831.0,GRB 220404B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 241120.25,38283.0,Integral GRB241120.25: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 Baksan Neutrino Observatory Alert 200410.82,27530.0,Baksan Neutrino Observatory Alert 200410.82: Global MASTER-Net observations report,"['Neutrino', 'Optical Transient']",2,2,1.0,1
@@ -39521,7 +39521,7 @@ GRB 000315,614.0,GRB000315 [IPN Positions],"['GRB', 'Gamma-ray Transient']",2,2,
 GRB 000315,615.0,Single error box for GRB000315,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 GRB 190404.29,24058.0,Hard Fermi GRB190404.29/TriggNum576054086: MASTER optical counterpart discovery near PGC020455,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 LIGO/Virgo S230615az,33972.0,LIGO/Virgo S230615az: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,2,1.0,1
-HAWC-230311A,33454.0,Alert from the HAWC Burst Monitor HAWC-230311A,['Misc'],1,1,1.0,1
+HAWC-230311A,33454.0,Alert from the HAWC Burst Monitor HAWC-230311A,['Gamma-ray Transient'],1,1,1.0,1
 ZTF23aamxeqf,33939.0,ZTF23aamxeqf/AT2023jxk: 1.3m DFOT Optical upper limit,['Optical Transient'],1,1,1.0,1
 GRB 221009.59,32634.0,Swift GRB221009.59: Global MASTER-Net OT detection,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 GRB 220131A,31532.0,GRB 220131A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,2
@@ -40227,7 +40227,7 @@ GRB 210228A,29588.0,GRB 210228A: GECAM detection,"['GRB', 'Gamma-ray Transient']
 GRB 171013B,22050.0,GRB 171013B CALET Gamma-Ray Burst Monitor detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 LIGO/VIRGO G275697,20767.0,LIGO/VIRGO G275697: Fermi GBM Observations,"['GW', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 001025A,866.0,"GRB 001025A, optical observation","['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
-HAWC-220103A,31374.0,Alert from the HAWC Burst Monitor HAWC-220103A,['Misc'],1,1,1.0,1
+HAWC-220103A,31374.0,Alert from the HAWC Burst Monitor HAWC-220103A,['Gamma-ray Transient'],1,1,1.0,1
 LIGO/Virgo S250223dk,39485.0,"LIGO/Virgo S250223dk: Swift XRT observations, 7 X-ray sources","['GW', 'Gamma-ray Transient', 'X-ray Transient']",3,3,1.0,1
 GRB 100414B,10597.0,Konus-Wind observation of GRB 100414B,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 190517,24586.0,Fermi Trigger 579814215 / GRB 190517813 / GRB190517A: BALROG localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
@@ -40275,7 +40275,7 @@ GRB 210518.889,30051.0,GRB 210518.889: DDOTI Upper Limits on the Afterglow,"['Af
 GRB 151221A,18711.0,GRB 151221A: INTEGRAL detection of a short burst or possible SGR,"['GRB', 'Gamma-ray Transient', 'SGR']",3,3,1.0,1
 GRB 100910A,11276.0,GRB 100910A: Fermi GBM detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 260311B,43964.0,GRB 260311B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
-HAWC-200216A,27242.0,HAWC-200216A: No Neutrino Counterpart in ANTARES Search,['Neutrino'],1,1,1.0,1
+HAWC-200216A,27242.0,HAWC-200216A: No Neutrino Counterpart in ANTARES Search,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,1
 GRB 131224B,15654.0,GRB 131224B detected in ground analysis of Swift-BAT data,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 110119,11587.0,GRB110119: Swift/UVOT Detection,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 GRB 021021,1649.0,GRB021021(=XRF 021021): An X-ray Flash Localized by HETE,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,3,1.0,1
