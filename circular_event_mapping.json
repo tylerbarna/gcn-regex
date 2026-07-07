@@ -4868,10 +4868,10 @@
     "33709": {
         "subject": "Duplicate of GCN 33369",
         "events": [
-            "Misc"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Retraction"
         ]
     },
     "23901": {
@@ -14568,10 +14568,10 @@
     "33678": {
         "subject": "Erroneous submission",
         "events": [
-            "Misc"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Retraction"
         ]
     },
     "31300": {
@@ -54859,10 +54859,10 @@
     "42351": {
         "subject": "IceCube-251018A - IceCube observation of a high-energy neutrino candidate track-like event (duplicate submission)",
         "events": [
-            "Neutrino"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "Neutrino"
+            "Retraction"
         ]
     },
     "42219": {
@@ -86926,12 +86926,10 @@
     "36740": {
         "subject": "GRB 240619A: J-band detection with WINTER (duplicate submission of GCN 36739)",
         "events": [
-            "GRB",
-            "Gamma-ray Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GRB",
-            "Gamma-ray Transient"
+            "Retraction"
         ]
     },
     "2760": {
@@ -138531,14 +138529,10 @@
     "37452": {
         "subject": "GRB 240905E:  SVOM/VT optical observations (duplicate submission of GCN 37453)",
         "events": [
-            "GRB",
-            "Gamma-ray Transient",
-            "Optical Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GRB",
-            "Gamma-ray Transient",
-            "Optical Transient"
+            "Retraction"
         ]
     },
     "24870": {
@@ -152891,10 +152885,10 @@
     "33669": {
         "subject": "Duplicate of GCN 33668",
         "events": [
-            "Misc"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Retraction"
         ]
     },
     "1312": {
@@ -158074,14 +158068,10 @@
     "38024": {
         "subject": "GRB 241030B: NUTTelA-TAO / BSTI Optical Limits (duplicate submission of 38023)",
         "events": [
-            "GRB",
-            "Gamma-ray Transient",
-            "Optical Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GRB",
-            "Gamma-ray Transient",
-            "Optical Transient"
+            "Retraction"
         ]
     },
     "18499": {
@@ -169451,12 +169441,10 @@
     "40414": {
         "subject": "GRB 250507A: J-band observations with WINTER (duplicate submission)",
         "events": [
-            "GRB",
-            "Gamma-ray Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GRB",
-            "Gamma-ray Transient"
+            "Retraction"
         ]
     },
     "30693": {
@@ -178992,10 +178980,10 @@
     "33644": {
         "subject": "Duplicate of GCN 33642",
         "events": [
-            "Misc"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Retraction"
         ]
     },
     "29814": {
@@ -201787,14 +201775,10 @@
     "36860": {
         "subject": "GRB240713A: X-ray follow-up observation with EP-FXT (duplicate submission of GCN 36859)",
         "events": [
-            "GRB",
-            "Gamma-ray Transient",
-            "X-ray Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GRB",
-            "Gamma-ray Transient",
-            "X-ray Transient"
+            "Retraction"
         ]
     },
     "1743": {
@@ -246297,14 +246281,10 @@
     "37564": {
         "subject": "EP240919a is likely a GRB event (duplicate submission of 37563)",
         "events": [
-            "GRB",
-            "Gamma-ray Transient",
-            "X-ray Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GRB",
-            "Gamma-ray Transient",
-            "X-ray Transient"
+            "Retraction"
         ]
     },
     "8849": {
@@ -250593,12 +250573,10 @@
     "38347": {
         "subject": "LIGO/Virgo/KAGRA S241125n: EP-FXT follow-up observations (duplicate submission of 38345)",
         "events": [
-            "GW",
-            "X-ray Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GW",
-            "X-ray Transient"
+            "Retraction"
         ]
     },
     "41515": {
@@ -259088,16 +259066,10 @@
     "42537": {
         "subject": "GRB 251103A: NOT optical afterglow candidate (duplicate submission)",
         "events": [
-            "GRB",
-            "Gamma-ray Transient",
-            "Afterglow",
-            "Optical Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GRB",
-            "Gamma-ray Transient",
-            "Afterglow",
-            "Optical Transient"
+            "Retraction"
         ]
     },
     "13444": {
@@ -278102,10 +278074,10 @@
     "40254": {
         "subject": "IceCube-250426A - IceCube observation of a high-energy neutrino candidate track-like event (duplicate submission)",
         "events": [
-            "Neutrino"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "Neutrino"
+            "Retraction"
         ]
     },
     "13417": {
@@ -278969,12 +278941,10 @@
     "43926": {
         "subject": "GRB 260303A: 1.3m DFOT optical upper limit (duplicate submission)",
         "events": [
-            "GRB",
-            "Gamma-ray Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GRB",
-            "Gamma-ray Transient"
+            "Retraction"
         ]
     },
     "728": {
@@ -279287,14 +279257,10 @@
     "43667": {
         "subject": "GRB 260208A: Mondy optical observations (duplicate submission)",
         "events": [
-            "GRB",
-            "Gamma-ray Transient",
-            "Optical Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GRB",
-            "Gamma-ray Transient",
-            "Optical Transient"
+            "Retraction"
         ]
     },
     "1935": {
@@ -324668,10 +324634,10 @@
     "40868": {
         "subject": " LIGO/Virgo/KAGRA S250628am: Identification of a GW compact binary merger candidate (duplicate submission)",
         "events": [
-            "GW"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GW"
+            "Retraction"
         ]
     },
     "224": {
@@ -328412,12 +328378,10 @@
     "41074": {
         "subject": "EP250711a: COLIBR\u00cd refined photometry and optical confirmation of the candidate (duplicate submission)",
         "events": [
-            "X-ray Transient",
-            "Optical Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "X-ray Transient",
-            "Optical Transient"
+            "Retraction"
         ]
     },
     "34637": {
@@ -352546,12 +352510,10 @@
     "38787": {
         "subject": "GRB 250103A: SVOM detection of a long burst (duplicate submission)",
         "events": [
-            "GRB",
-            "Gamma-ray Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GRB",
-            "Gamma-ray Transient"
+            "Retraction"
         ]
     },
     "4511": {
@@ -368253,10 +368215,10 @@
     "33647": {
         "subject": "Duplicate of GCN 33640",
         "events": [
-            "Misc"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Retraction"
         ]
     },
     "26508": {
@@ -410774,10 +410736,10 @@
     "33646": {
         "subject": "Duplicate of GCN 33640",
         "events": [
-            "Misc"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "Misc"
+            "Retraction"
         ]
     },
     "12331": {
@@ -473109,12 +473071,10 @@
     "38346": {
         "subject": "LIGO/Virgo/KAGRA S241125n: EP-FXT follow-up observations (duplicate submission of 38345).",
         "events": [
-            "GW",
-            "X-ray Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GW",
-            "X-ray Transient"
+            "Retraction"
         ]
     },
     "15324": {
@@ -473654,10 +473614,10 @@
     "41156": {
         "subject": "LIGO/Virgo/KAGRA S250725l: Identification of a GW compact binary merger candidate (duplicate submission)",
         "events": [
-            "GW"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "GW"
+            "Retraction"
         ]
     },
     "13968": {
@@ -487285,10 +487245,10 @@
     "37001": {
         "subject": "EP240708a: Kinder follow-up observations of the candidate counterpart  (duplicate submission of GCN 37002)",
         "events": [
-            "X-ray Transient"
+            "Retraction"
         ],
         "effectiveCategory": [
-            "X-ray Transient"
+            "Retraction"
         ]
     },
     "30182": {
