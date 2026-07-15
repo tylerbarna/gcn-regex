@@ -2107,6 +2107,19 @@
             "Gamma-ray Transient"
         ]
     },
+    "45147": {
+        "subject": "GRB 260708A: GRANDMA Optical Observations ",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ]
+    },
     "9639": {
         "subject": "GRB090709A: High Energy BAT/XRT Analysis Suggests Low to Moderate Redshift",
         "events": [
@@ -13605,6 +13618,19 @@
         "effectiveCategory": [
             "GRB",
             "Gamma-ray Transient"
+        ]
+    },
+    "45151": {
+        "subject": "GRB 260618B:  SVOM/VT optical observations indicate shallow decay and reddening",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
         ]
     },
     "38461": {
@@ -60367,6 +60393,17 @@
             "Optical Transient"
         ]
     },
+    "45167": {
+        "subject": "GRB 260715A: Fermi GBM Final Real-time Localization",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "13707": {
         "subject": "Konus-Wind observation of GRB 120830A",
         "events": [
@@ -70441,6 +70478,17 @@
             "GRB",
             "Gamma-ray Transient",
             "Optical Transient"
+        ]
+    },
+    "45166": {
+        "subject": "EP260703a: SVOM/ECLAIRs Upper Limit",
+        "events": [
+            "Gamma-ray Transient",
+            "X-ray Transient"
+        ],
+        "effectiveCategory": [
+            "Gamma-ray Transient",
+            "X-ray Transient"
         ]
     },
     "9618": {
@@ -117579,6 +117627,19 @@
             "Gamma-ray Transient"
         ]
     },
+    "45150": {
+        "subject": "GRB 260708A: slowly decaying X-ray emission observed by EP/FXT",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient",
+            "X-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient",
+            "X-ray Transient"
+        ]
+    },
     "13730": {
         "subject": "GRB 120909A: X-Shooter redshift 3.93",
         "events": [
@@ -130766,6 +130827,17 @@
         "effectiveCategory": [
             "GRB",
             "Gamma-ray Transient"
+        ]
+    },
+    "45146": {
+        "subject": "Fermi-LAT Gamma-ray Observations of IceCube-260712A",
+        "events": [
+            "Gamma-ray Transient",
+            "Neutrino"
+        ],
+        "effectiveCategory": [
+            "Gamma-ray Transient",
+            "Neutrino"
         ]
     },
     "13726": {
@@ -157420,6 +157492,17 @@
             "Gamma-ray Transient"
         ]
     },
+    "45161": {
+        "subject": "GRB 260714B: Fermi GBM Detection",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "13701": {
         "subject": "GRB 120817A: Swift/UVOT Upper Limits",
         "events": [
@@ -161855,6 +161938,17 @@
             "Gamma-ray Transient"
         ]
     },
+    "45136": {
+        "subject": "GRB 260709A: GECAM-B observation",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "9648": {
         "subject": "GRB 090709A: evidence for a very red afterglow at low z",
         "events": [
@@ -164597,6 +164691,15 @@
         "effectiveCategory": [
             "GRB",
             "Gamma-ray Transient"
+        ]
+    },
+    "45141": {
+        "subject": "IceCube-260712A - IceCube observation of a high-energy neutrino candidate track-like event",
+        "events": [
+            "Neutrino"
+        ],
+        "effectiveCategory": [
+            "Neutrino"
         ]
     },
     "42684": {
@@ -177373,6 +177476,17 @@
         "effectiveCategory": [
             "GRB",
             "Gamma-ray Transient"
+        ]
+    },
+    "45157": {
+        "subject": "IceCube-260712A: LAST optical follow-up observations of the IceCube neutrino candidate",
+        "events": [
+            "Neutrino",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "Neutrino",
+            "Optical Transient"
         ]
     },
     "42692": {
@@ -216943,6 +217057,17 @@
             "Gamma-ray Transient"
         ]
     },
+    "45156": {
+        "subject": "GRB 260706A: ATCA detection of possible radio counterpart",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "13736": {
         "subject": "Konus-Wind observation of GRB 120909A",
         "events": [
@@ -228983,6 +229108,19 @@
             "Gamma-ray Transient"
         ]
     },
+    "45140": {
+        "subject": "GRB 260708A: LCO optical observations",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ]
+    },
     "13720": {
         "subject": "GRB 120907A: Swift-BAT refined analysis",
         "events": [
@@ -230346,6 +230484,17 @@
             "GRB",
             "Gamma-ray Transient",
             "Optical Transient"
+        ]
+    },
+    "45137": {
+        "subject": "GRB 260709A: SVOM/GRM detection",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
         ]
     },
     "13757": {
@@ -233942,6 +234091,17 @@
             "Gamma-ray Transient",
             "Afterglow",
             "Optical Transient"
+        ]
+    },
+    "45160": {
+        "subject": "GRB 260714B: BALROG localization (Fermi Trigger 805746211 / GRB 260714766)",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
         ]
     },
     "40698": {
@@ -262825,6 +262985,17 @@
             "X-ray Transient"
         ]
     },
+    "45134": {
+        "subject": "IceCube-260708A: Observations with the Vera C. Rubin Observatory",
+        "events": [
+            "Neutrino",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "Neutrino",
+            "Optical Transient"
+        ]
+    },
     "13754": {
         "subject": "GRB 120911A: Fermi GBM observation",
         "events": [
@@ -267663,6 +267834,17 @@
         "effectiveCategory": [
             "Gamma-ray Transient",
             "Optical Transient"
+        ]
+    },
+    "45163": {
+        "subject": "GRB 260714B: AstroSat CZTI detection",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
         ]
     },
     "38453": {
@@ -278932,6 +279114,15 @@
             "GRB",
             "Gamma-ray Transient",
             "Optical Transient"
+        ]
+    },
+    "45159": {
+        "subject": " IceCube-260712A: Upper limits from a search for additional neutrino events in IceCube",
+        "events": [
+            "Neutrino"
+        ],
+        "effectiveCategory": [
+            "Neutrino"
         ]
     },
     "9627": {
@@ -298166,6 +298357,17 @@
             "Gamma-ray Transient"
         ]
     },
+    "45138": {
+        "subject": "GRB 260710A: Fermi GBM Detection",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "11765": {
         "subject": "Swift/UVOT observations of GRB110223b",
         "events": [
@@ -312823,6 +313025,17 @@
             "GW"
         ]
     },
+    "45155": {
+        "subject": "GRB 260705A: ATCA radio observations",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "13735": {
         "subject": "GRB 120909A: Swift/UVOT Detection",
         "events": [
@@ -325780,6 +325993,17 @@
             "Gamma-ray Transient"
         ]
     },
+    "45143": {
+        "subject": "Fermi-LAT Gamma-ray Observations of IceCube-260704A",
+        "events": [
+            "Gamma-ray Transient",
+            "Neutrino"
+        ],
+        "effectiveCategory": [
+            "Gamma-ray Transient",
+            "Neutrino"
+        ]
+    },
     "13723": {
         "subject": "GRB 120907A: Spectroscopy from OSIRIS/GTC",
         "events": [
@@ -328028,6 +328252,15 @@
             "GRB",
             "Gamma-ray Transient",
             "X-ray Transient"
+        ]
+    },
+    "45142": {
+        "subject": "IceCube-260708A: Upper limits from a search for additional neutrino events in IceCube",
+        "events": [
+            "Neutrino"
+        ],
+        "effectiveCategory": [
+            "Neutrino"
         ]
     },
     "38472": {
@@ -339818,6 +340051,17 @@
             "GRB",
             "Gamma-ray Transient",
             "X-ray Transient"
+        ]
+    },
+    "45154": {
+        "subject": "GRB 260714A: Fermi GBM Final Real-time Localization",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
         ]
     },
     "38464": {
@@ -357925,6 +358169,15 @@
             "Gamma-ray Transient"
         ]
     },
+    "45139": {
+        "subject": "EP260711a: Einstein Probe detection of an X-ray transient",
+        "events": [
+            "X-ray Transient"
+        ],
+        "effectiveCategory": [
+            "X-ray Transient"
+        ]
+    },
     "13759": {
         "subject": "GRB 120911A: optical upper limit ISON-NM",
         "events": [
@@ -375166,6 +375419,17 @@
             "Optical Transient"
         ]
     },
+    "45158": {
+        "subject": "GRB 260714B: Fermi GBM Final Real-time Localization",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "13738": {
         "subject": "GRB 120909A: Pi of the Sky upper limits",
         "events": [
@@ -388302,6 +388566,17 @@
             "Gamma-ray Transient"
         ]
     },
+    "45162": {
+        "subject": "GRB 260714B: Fermi-LAT detection",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "13702": {
         "subject": "GRB 120819A: Swift/UVOT Upper Limits",
         "events": [
@@ -391613,6 +391888,15 @@
         "effectiveCategory": [
             "GRB",
             "Gamma-ray Transient"
+        ]
+    },
+    "45135": {
+        "subject": "The EP-WXT trigger 01709274666 is likely a new outburst of the CV SS Cyg",
+        "events": [
+            "X-ray Transient"
+        ],
+        "effectiveCategory": [
+            "X-ray Transient"
         ]
     },
     "11768": {
@@ -411569,6 +411853,15 @@
             "Gamma-ray Transient"
         ]
     },
+    "45153": {
+        "subject": "EP260713a: Einstein Probe detection of an X-ray transient",
+        "events": [
+            "X-ray Transient"
+        ],
+        "effectiveCategory": [
+            "X-ray Transient"
+        ]
+    },
     "13733": {
         "subject": "GRB 120909A: Swift-BAT refined analysis",
         "events": [
@@ -424196,6 +424489,17 @@
             "Optical Transient"
         ]
     },
+    "45145": {
+        "subject": "Fermi-LAT Gamma-ray Observations of IceCube-260708A",
+        "events": [
+            "Gamma-ray Transient",
+            "Neutrino"
+        ],
+        "effectiveCategory": [
+            "Gamma-ray Transient",
+            "Neutrino"
+        ]
+    },
     "13725": {
         "subject": "GRB 120907A: Swift/UVOT Detection",
         "events": [
@@ -431095,6 +431399,17 @@
     },
     "13705": {
         "subject": "IPN Triangulation of short GRB 120830A",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
+    "45165": {
+        "subject": "GRB 260710A: AstroSat CZTI detection",
         "events": [
             "GRB",
             "Gamma-ray Transient"
@@ -454648,6 +454963,17 @@
             "Afterglow"
         ]
     },
+    "45149": {
+        "subject": "EP260623a: KAIT optical observations",
+        "events": [
+            "X-ray Transient",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "X-ray Transient",
+            "Optical Transient"
+        ]
+    },
     "11714": {
         "subject": "GRB 110213A, Swift-BAT refined analysis",
         "events": [
@@ -460595,6 +460921,15 @@
         "effectiveCategory": [
             "GRB",
             "Gamma-ray Transient",
+            "X-ray Transient"
+        ]
+    },
+    "45148": {
+        "subject": "EP260711a: EP-FXT follow-up observation",
+        "events": [
+            "X-ray Transient"
+        ],
+        "effectiveCategory": [
             "X-ray Transient"
         ]
     },
@@ -485708,6 +486043,17 @@
             "Gamma-ray Transient"
         ]
     },
+    "45164": {
+        "subject": "GRB 260709A: AstroSat CZTI detection",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "13704": {
         "subject": "GRB 120830A: Fermi-LAT detection of a short burst",
         "events": [
@@ -490831,6 +491177,17 @@
             "GRB",
             "Gamma-ray Transient",
             "X-ray Transient"
+        ]
+    },
+    "45144": {
+        "subject": "GRB 260710A: Insight-HXMT/HE detection",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
         ]
     },
     "11719": {
@@ -503190,6 +503547,19 @@
             "GRB",
             "Gamma-ray Transient",
             "X-ray Transient"
+        ]
+    },
+    "45152": {
+        "subject": "GRB 260619A:   SVOM/VT continuous optical observations",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
         ]
     },
     "42697": {
@@ -516553,6 +516923,17 @@
         "effectiveCategory": [
             "GRB",
             "Gamma-ray Transient"
+        ]
+    },
+    "45168": {
+        "subject": "IceCube-260712A: No candidates with the Zwicky Transient Facility (ZTF)",
+        "events": [
+            "Neutrino",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "Neutrino",
+            "Optical Transient"
         ]
     },
     "11735": {

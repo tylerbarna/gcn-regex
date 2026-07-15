@@ -2604,6 +2604,16 @@ GRB 120909A,13733.0,GRB 120909A: Swift-BAT refined analysis,"['GRB', 'Gamma-ray 
 GRB 120909A,13729.0,GRB 120909A: GROND detection of the afterglow,"['Afterglow', 'GRB', 'Gamma-ray Transient']",3,5,0.6,12
 GRB 120909A,13728.0,Skynet/PROMPT Observations of GRB120909A,"['GRB', 'Gamma-ray Transient']",2,5,0.4,12
 GRB 120909A,13732.0,GRB 120909A: Enhanced Swift-XRT position,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,12
+GRB 260708A,45147.0,GRB 260708A: GRANDMA Optical Observations ,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,10
+GRB 260708A,45126.0,GRB 260708A: GECAM-B observation of a burst,"['GRB', 'Gamma-ray Transient']",2,5,0.4,10
+GRB 260708A,45130.0,GRB 260708A: Glowbug gamma-ray detection,"['GRB', 'Gamma-ray Transient']",2,5,0.4,10
+GRB 260708A,45127.0,GRB 260708A: Kilonova-Catcher optical afterglow detection,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,5,0.8,10
+GRB 260708A,45150.0,GRB 260708A: slowly decaying X-ray emission observed by EP/FXT,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,10
+GRB 260708A,45117.0,GRB 260708A: Fermi-LAT detection,"['GRB', 'Gamma-ray Transient']",2,5,0.4,10
+GRB 260708A,45140.0,GRB 260708A: LCO optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,10
+GRB 260708A,45115.0,GRB 260708A: Fermi-GBM detection,"['GRB', 'Gamma-ray Transient']",2,5,0.4,10
+GRB 260708A,45123.0,Fermi LAT GRB 260708A: MASTER OT J150237.02-435307.7 optical counterpart detection,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,10
+GRB 260708A,45124.0,GRB 260708A: Fermi-GBM observation,"['GRB', 'Gamma-ray Transient']",2,5,0.4,10
 GRB 090709A,9639.0,GRB090709A: High Energy BAT/XRT Analysis Suggests Low to Moderate Redshift,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,26
 GRB 090709A,9654.0,GRB090709A : WSRT Radio observation,"['GRB', 'Gamma-ray Transient']",2,5,0.4,26
 GRB 090709A,9642.0,GRB 090709A: Swift XRT Refined Analysis,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,26
@@ -12520,13 +12530,14 @@ GRB 241209C,38482.0,GRB 241209C: Fermi GBM Final Real-time Localization,"['GRB',
 GRB 241209C,38490.0,GRB 241209C: AstroSat CZTI detection,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,5
 GRB 241209C,38501.0,GRB 241209C: Swift/BAT-GUANO localization skymap of a burst,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,5
 GRB 241209C,38497.0,Fermi GRB 241209C: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,5
-GRB 260618B,45014.0,GRB 260618B: LCO optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,7
-GRB 260618B,45038.0,Konus-Wind detection of GRB 260618B,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
-GRB 260618B,44983.0,GRB 260618B: Fermi-LAT detection,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
-GRB 260618B,45010.0,GRB 260618B: Fermi GBM Observation,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
-GRB 260618B,44979.0,GRB 260618B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
-GRB 260618B,45000.0,GRB 260618B: SVOM/VT optical candidate (duplicate Submission of 45001),"['GRB', 'Gamma-ray Transient', 'Optical Transient', 'Retraction']",4,4,1.0,7
-GRB 260618B,45001.0,GRB 260618B: SVOM/VT optical candidate,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,7
+GRB 260618B,45014.0,GRB 260618B: LCO optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,8
+GRB 260618B,45151.0,GRB 260618B:  SVOM/VT optical observations indicate shallow decay and reddening,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,8
+GRB 260618B,45038.0,Konus-Wind detection of GRB 260618B,"['GRB', 'Gamma-ray Transient']",2,4,0.5,8
+GRB 260618B,44983.0,GRB 260618B: Fermi-LAT detection,"['GRB', 'Gamma-ray Transient']",2,4,0.5,8
+GRB 260618B,45010.0,GRB 260618B: Fermi GBM Observation,"['GRB', 'Gamma-ray Transient']",2,4,0.5,8
+GRB 260618B,44979.0,GRB 260618B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,4,0.5,8
+GRB 260618B,45000.0,GRB 260618B: SVOM/VT optical candidate (duplicate Submission of 45001),"['GRB', 'Gamma-ray Transient', 'Optical Transient', 'Retraction']",4,4,1.0,8
+GRB 260618B,45001.0,GRB 260618B: SVOM/VT optical candidate,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,8
 GRB 120817B,13674.0,Konus-Wind observation of GRB 120817B,"['GRB', 'Gamma-ray Transient']",2,5,0.4,8
 GRB 120817B,13680.0,GRB 120817B: Swift-XRT observations,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,8
 GRB 120817B,13672.0,GRB 120817B: LCO Optical Observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,8
@@ -14497,11 +14508,12 @@ GRB 250617B,40760.0,GRB 250617B: Swift detection of a burst with an optical coun
 GRB 250617B,40776.0,GRB 250617B: VLT/X-shooter spectroscopic redshift z = 1.396,"['GRB', 'Gamma-ray Transient']",2,5,0.4,21
 GRB 250617B,40777.0,GRB 250617B: Kilonova-Catcher optical afterglow detection,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,5,0.8,21
 GRB 250617B,40761.0,GRB 250617B: SAO RAS optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,21
-GRB 260705A,45080.0,Fermi GBM Sub-Threshold Detection of GRB 260705A,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,5
-GRB 260705A,45079.0,GRB 260705A: SVOM detection of a burst,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,5
-GRB 260705A,45090.0,GRB 260705A: SVOM/ECLAIRs refined analysis,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,5
-GRB 260705A,45084.0,GRB 260705A: LCO optical upper limits,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,5
-GRB 260705A,45105.0,GRB 260705A: Candidate Optical Counterpart from SOAR and Gemini-South and Possible Association with GRB 260705B,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,5
+GRB 260705A,45080.0,Fermi GBM Sub-Threshold Detection of GRB 260705A,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
+GRB 260705A,45079.0,GRB 260705A: SVOM detection of a burst,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
+GRB 260705A,45090.0,GRB 260705A: SVOM/ECLAIRs refined analysis,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
+GRB 260705A,45084.0,GRB 260705A: LCO optical upper limits,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
+GRB 260705A,45155.0,GRB 260705A: ATCA radio observations,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
+GRB 260705A,45105.0,GRB 260705A: Candidate Optical Counterpart from SOAR and Gemini-South and Possible Association with GRB 260705B,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,6
 GRB 060105,4436.0,GRB 060105: Mitsume optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,17
 GRB 060105,4441.0,GRB 060105: Radio observations,"['GRB', 'Gamma-ray Transient']",2,5,0.4,17
 GRB 060105,4440.0,GRB 060105: MDM Observation,"['GRB', 'Gamma-ray Transient']",2,5,0.4,17
@@ -27812,13 +27824,6 @@ GRB 120911A,13744.0,GRB 120911A: Swift detection of a burst,"['GRB', 'Gamma-ray 
 GRB 120911A,13745.0,GRB 120911A: ROTSE-III Optical Limits,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,13
 GRB 120911A,13753.0,GRB120911A: MITSuME Okayama Optical upper limits,"['GRB', 'Gamma-ray Transient']",2,4,0.5,13
 GRB 120911A,13749.0,GRB 120911A: Swift-BAT refined analysis,"['GRB', 'Gamma-ray Transient']",2,4,0.5,13
-GRB 260708A,45126.0,GRB 260708A: GECAM-B observation of a burst,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
-GRB 260708A,45130.0,GRB 260708A: Glowbug gamma-ray detection,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
-GRB 260708A,45127.0,GRB 260708A: Kilonova-Catcher optical afterglow detection,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,4,1.0,7
-GRB 260708A,45117.0,GRB 260708A: Fermi-LAT detection,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
-GRB 260708A,45115.0,GRB 260708A: Fermi-GBM detection,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
-GRB 260708A,45123.0,Fermi LAT GRB 260708A: MASTER OT J150237.02-435307.7 optical counterpart detection,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,7
-GRB 260708A,45124.0,GRB 260708A: Fermi-GBM observation,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
 IceCube-210516A,30026.0,IceCube-210516A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,2,0.5,5
 IceCube-210516A,30046.0,Fermi-LAT Gamma-ray Observations of IceCube-210516A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,5
 IceCube-210516A,30041.0,IceCube-210516A: No significant detection in HAWC,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,5
@@ -29131,20 +29136,21 @@ GRB 241209A,38506.0,GRB 241209A: VLT/HAWK-I near-IR counterpart candidate,"['GRB
 GRB 241209A,38479.0,GRB 241209A: Prompt enhanced Swift-XRT position,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,19
 GRB 241209A,38481.0,GRB 241209A: GOTO optical upper limits,"['GRB', 'Gamma-ray Transient']",2,4,0.5,19
 GRB 241209A,38474.0,GRB 241209A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,4,0.5,19
-EP260623a,45034.0,EP260623a: WINTER J-band observations,['X-ray Transient'],1,3,0.3333333333333333,14
-EP260623a,45022.0,EP260623a: OSIRIS+/GTC redshift z = 0.703,['X-ray Transient'],1,3,0.3333333333333333,14
-EP260623a,45035.0,EP260623a:refined analysis of the EP-WXT and EP-FXT observation,['X-ray Transient'],1,3,0.3333333333333333,14
-EP260623a,45042.0,EP260623a: FTW optical and NIR observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,14
-EP260623a,45024.0,EP 260623a: COLIBRÍ optical observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,14
-EP260623a,45045.0,EP260623a: TNG NIR afterglow detection,"['Afterglow', 'X-ray Transient']",2,3,0.6666666666666666,14
-EP260623a,45029.0,"EP260623a: FRAM-ORM detection of the optical afterglow rise, peak and decay","['Afterglow', 'Optical Transient', 'X-ray Transient']",3,3,1.0,14
-EP260623a,45025.0,EP260623a: REM optical/NIR afterglow detection,"['Afterglow', 'Optical Transient', 'X-ray Transient']",3,3,1.0,14
-EP260623a,45026.0,EP260623a: TRT optical observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,14
-EP260623a,45030.0,EP260623a: Optical follow-up observations with Kinder,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,14
-EP260623a,45027.0,EP260623a: SVOM/VT optical observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,14
-EP260623a,45020.0,EP260623a: Einstein Probe detection of an X-ray transient,['X-ray Transient'],1,3,0.3333333333333333,14
-EP260623a,45021.0,EP260623a: Las Cumbres discovery of the optical counterpart,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,14
-EP260623a,45040.0,EP260623a: Liverpool Telescope optical observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,14
+EP260623a,45034.0,EP260623a: WINTER J-band observations,['X-ray Transient'],1,3,0.3333333333333333,15
+EP260623a,45022.0,EP260623a: OSIRIS+/GTC redshift z = 0.703,['X-ray Transient'],1,3,0.3333333333333333,15
+EP260623a,45035.0,EP260623a:refined analysis of the EP-WXT and EP-FXT observation,['X-ray Transient'],1,3,0.3333333333333333,15
+EP260623a,45042.0,EP260623a: FTW optical and NIR observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,15
+EP260623a,45024.0,EP 260623a: COLIBRÍ optical observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,15
+EP260623a,45045.0,EP260623a: TNG NIR afterglow detection,"['Afterglow', 'X-ray Transient']",2,3,0.6666666666666666,15
+EP260623a,45029.0,"EP260623a: FRAM-ORM detection of the optical afterglow rise, peak and decay","['Afterglow', 'Optical Transient', 'X-ray Transient']",3,3,1.0,15
+EP260623a,45025.0,EP260623a: REM optical/NIR afterglow detection,"['Afterglow', 'Optical Transient', 'X-ray Transient']",3,3,1.0,15
+EP260623a,45026.0,EP260623a: TRT optical observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,15
+EP260623a,45030.0,EP260623a: Optical follow-up observations with Kinder,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,15
+EP260623a,45027.0,EP260623a: SVOM/VT optical observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,15
+EP260623a,45020.0,EP260623a: Einstein Probe detection of an X-ray transient,['X-ray Transient'],1,3,0.3333333333333333,15
+EP260623a,45149.0,EP260623a: KAIT optical observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,15
+EP260623a,45021.0,EP260623a: Las Cumbres discovery of the optical counterpart,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,15
+EP260623a,45040.0,EP260623a: Liverpool Telescope optical observations,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,15
 GRB 130206A,14191.0,GRB 130206A: GROND Observations,"['GRB', 'Gamma-ray Transient']",2,4,0.5,10
 GRB 130206A,14186.0,"GRB 130206A, Swift-BAT refined analysis","['GRB', 'Gamma-ray Transient']",2,4,0.5,10
 GRB 130206A,14190.0,GRB 130206A: Fermi LAT Observations,"['GRB', 'Gamma-ray Transient']",2,4,0.5,10
@@ -29852,6 +29858,7 @@ GRB 020127,1241.0,GRB020127: Chandra Observations and Prospective Counterparts,"
 GRB 020127,1231.0,GRB020127 Optical Observations -- Erratum to GCN 1230,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,12
 GRB 020127,1246.0,"GRB020127, WSRT radio observations","['GRB', 'Gamma-ray Transient']",2,5,0.4,12
 GRB 020127,1250.0,GRB020127:   Palomar and VLA Observations of Possible Counterparts,"['GRB', 'Gamma-ray Transient']",2,5,0.4,12
+GRB 260715A,45167.0,GRB 260715A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 EP241206a,38457.0,EP241206a: EP detection of a fast X-ray transient,['X-ray Transient'],1,2,0.5,4
 EP241206a,38466.0,EP241206a: BOOTES Global Network optical limits,"['Optical Transient', 'X-ray Transient']",2,2,1.0,4
 EP241206a,38480.0,EP241206a: 1.5m OSN optical limit,"['Optical Transient', 'X-ray Transient']",2,2,1.0,4
@@ -30804,10 +30811,11 @@ GRB 160321A,19211.0,GRB 160321A: Swift detection of a probable burst,"['GRB', 'G
 GRB 160321A,19216.0,GRB 160321A: Swift-BAT refined analysis,"['GRB', 'Gamma-ray Transient']",2,4,0.5,9
 GRB 160321A,19217.0,GRB 160321A: Swift/UVOT Upper Limits,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,9
 GRB 220528B,32148.0,GRB 220528B: Swift/BAT-GUANO detection outside the coded FOV,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
-IceCube-260704A,45075.0,IceCube-260704A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,2,0.5,4
-IceCube-260704A,45092.0,IceCube-260704A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,4
-IceCube-260704A,45085.0,IceCube260704A: OHP/T193 optical observations,['Optical Transient'],1,2,0.5,4
-IceCube-260704A,45099.0,IceCube-260704A: No candidates from the Zwicky Transient Facility,['Neutrino'],1,2,0.5,4
+IceCube-260704A,45075.0,IceCube-260704A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,3,0.3333333333333333,5
+IceCube-260704A,45092.0,IceCube-260704A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,5
+IceCube-260704A,45143.0,Fermi-LAT Gamma-ray Observations of IceCube-260704A,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,5
+IceCube-260704A,45085.0,IceCube260704A: OHP/T193 optical observations,['Optical Transient'],1,3,0.3333333333333333,5
+IceCube-260704A,45099.0,IceCube-260704A: No candidates from the Zwicky Transient Facility,['Neutrino'],1,3,0.3333333333333333,5
 GRB 120803A,13615.0,GRB 120803A: Confirmation of the X-ray afterglow,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'X-ray Transient']",4,4,1.0,7
 GRB 120803A,13576.0,Erratum of subject line of GCN13570 (GRB 120803A => GRB 120803B),"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
 GRB 120803A,13574.0,GRB 120803A: MITSuME Okayama Optical upper limits,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
@@ -30887,7 +30895,10 @@ EP241107a,38136.0,EP241107a: KAIT optical observations,"['Optical Transient', 'X
 EP241107a,38120.0,EP241107a: FTW Optical and NIR observations of the optical counterpart,"['Optical Transient', 'X-ray Transient']",2,3,0.6666666666666666,16
 LIGO/Virgo/KAGRA S241130be,38401.0,LIGO/Virgo/KAGRA S241130be: Updated Sky localization,['GW'],1,1,1.0,2
 LIGO/Virgo/KAGRA S241130be,38393.0,LIGO/Virgo/KAGRA S241130be: Identification of a GW compact binary merger candidate,['GW'],1,1,1.0,2
-GRB 260710A,45131.0,GRB 260710A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
+GRB 260710A,45131.0,GRB 260710A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
+GRB 260710A,45138.0,GRB 260710A: Fermi GBM Detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
+GRB 260710A,45165.0,GRB 260710A: AstroSat CZTI detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
+GRB 260710A,45144.0,GRB 260710A: Insight-HXMT/HE detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
 GRB 190507B,24422.0,GRB 190507B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,2
 GRB 190507B,24425.0,GRB 190507B: GOTO optical counterpart search,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
 GRB 070126,6040.0,"GRB 070126, Swift-BAT refined analysis of a very faint burst","['GRB', 'Gamma-ray Transient']",2,5,0.4,7
@@ -31482,6 +31493,9 @@ GRB 070110,6005.0,GRB 070110: Swift detection of a burst with a possible optical
 GRB 070110,6014.0,"GRB 070110 declared a ""Burst of Interest"" by Swift team","['GRB', 'Gamma-ray Transient']",2,5,0.4,10
 GRB 070110,6015.0,GRB 070110: VLT R-band photometry,"['GRB', 'Gamma-ray Transient']",2,5,0.4,10
 GRB 070110,6019.0,GRB 070110:  Continued Detection and Request for Ground Followup,"['GRB', 'Gamma-ray Transient']",2,5,0.4,10
+EP260703a,45166.0,EP260703a: SVOM/ECLAIRs Upper Limit,"['Gamma-ray Transient', 'X-ray Transient']",2,2,1.0,3
+EP260703a,45073.0,EP260703a: EP-FXT follow-up observation,['X-ray Transient'],1,2,0.5,3
+EP260703a,45070.0,EP260703a: EP-WXT detection of a fast X-ray transient,['X-ray Transient'],1,2,0.5,3
 GRB 241206A,38456.0,GRB 241206A: Fermi GBM observation,"['GRB', 'Gamma-ray Transient']",2,4,0.5,5
 GRB 241206A,38447.0,GRB 241206A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,4,0.5,5
 GRB 241206A,38453.0,GRB 241206A: Swift/BAT-GUANO localization skymap of a burst,"['GRB', 'Gamma-ray Transient']",2,4,0.5,5
@@ -33384,13 +33398,14 @@ GRB 190525A,24662.0,GRB 190525A: Fermi GBM Final Real-time Localization,"['GRB',
 GRB 190525A,24665.0,GRB 190525A: Insight-HXMT/HE detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
 GRB 190525A,24667.0,GRB 190525A: AstroSat CZTI detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
 GRB 190505.05,24398.0,Fermi GRB190505.05 Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
-GRB 260619A,44999.0,GRB 260619A: SVOM/COLIBRÍ (FM-GFT) optical counterpart candidate,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,7
-GRB 260619A,45015.0,GRB 260619A: NOT optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,7
-GRB 260619A,45003.0,GRB 260619A: SVOM/VT optical counterpart confirmation,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,7
-GRB 260619A,45008.0,GRB 260619A: TRT optical counterpart confirmation,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,7
-GRB 260619A,44992.0,GRB 260619A: Kilonova-Catcher optical upper limit,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,7
-GRB 260619A,44985.0,GRB 260619A: SVOM possible detection of a faint burst,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,7
-GRB 260619A,45041.0,GRB 260619A: SVOM/ECLAIRs refined analysis,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,7
+GRB 260619A,44999.0,GRB 260619A: SVOM/COLIBRÍ (FM-GFT) optical counterpart candidate,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,8
+GRB 260619A,45015.0,GRB 260619A: NOT optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,8
+GRB 260619A,45003.0,GRB 260619A: SVOM/VT optical counterpart confirmation,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,8
+GRB 260619A,45008.0,GRB 260619A: TRT optical counterpart confirmation,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,8
+GRB 260619A,44992.0,GRB 260619A: Kilonova-Catcher optical upper limit,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,8
+GRB 260619A,44985.0,GRB 260619A: SVOM possible detection of a faint burst,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,8
+GRB 260619A,45041.0,GRB 260619A: SVOM/ECLAIRs refined analysis,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,8
+GRB 260619A,45152.0,GRB 260619A:   SVOM/VT continuous optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,8
 EP241113a,38211.0,EP241113a: EP on-board trigger and autonomous follow-up observation,['X-ray Transient'],1,3,0.3333333333333333,8
 EP241113a,38221.0,EP241113a : J-band observations with WINTER,['X-ray Transient'],1,3,0.3333333333333333,8
 EP241113a,38238.0,EP241113a: No Detection in Fermi-GBM Observations,"['Gamma-ray Transient', 'X-ray Transient']",2,3,0.6666666666666666,8
@@ -33868,17 +33883,18 @@ IceCube-230405A,33611.0,IceCube-230405A: BOOTES-4/MET Optical Upper Limits,['Neu
 IceCube-230405A,33587.0,Fermi-LAT gamma-ray observations of IceCube-230405A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,4
 IceCube-230405A,33589.0,IceCube-230405A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,2,0.5,4
 IceCube-230405A,33567.0,IceCube-230405A: IceCube observation of a high-energy neutrino candidate,['Neutrino'],1,2,0.5,4
-GRB 260706A,45097.0,GRB 260706A: EP-FXT follow-up observation,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,11
-GRB 260706A,45100.0,GRB 260706A: REM optical/NIR observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,11
-GRB 260706A,45101.0,GRB 260706A: SVOM/GRM observation,"['GRB', 'Gamma-ray Transient']",2,4,0.5,11
-GRB 260706A,45088.0,GRB 260706A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,4,0.5,11
-GRB 260706A,45114.0,GRB 260706A: Further EP-FXT follow-up observation,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,11
-GRB 260706A,45103.0,GRB 260706A: SVOM/ECLAIRs refined analysis,"['GRB', 'Gamma-ray Transient']",2,4,0.5,11
-GRB 260706A,45093.0,GRB 260706A: Fermi GBM Observation,"['GRB', 'Gamma-ray Transient']",2,4,0.5,11
-GRB 260706A,45089.0, GRB 260706A: SVOM detection of a burst,"['GRB', 'Gamma-ray Transient']",2,4,0.5,11
-GRB 260706A,45128.0,GRB 260706A : GRANDMA Upper limits,"['GRB', 'Gamma-ray Transient']",2,4,0.5,11
-GRB 260706A,45098.0,GRB 260706A: LCO optical upper limit,"['GRB', 'Gamma-ray Transient']",2,4,0.5,11
-GRB 260706A,45113.0,GRB 260706A: SVOM/VT optical upper limits,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,11
+GRB 260706A,45097.0,GRB 260706A: EP-FXT follow-up observation,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,12
+GRB 260706A,45100.0,GRB 260706A: REM optical/NIR observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,12
+GRB 260706A,45156.0,GRB 260706A: ATCA detection of possible radio counterpart,"['GRB', 'Gamma-ray Transient']",2,4,0.5,12
+GRB 260706A,45101.0,GRB 260706A: SVOM/GRM observation,"['GRB', 'Gamma-ray Transient']",2,4,0.5,12
+GRB 260706A,45088.0,GRB 260706A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,4,0.5,12
+GRB 260706A,45114.0,GRB 260706A: Further EP-FXT follow-up observation,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,4,0.75,12
+GRB 260706A,45103.0,GRB 260706A: SVOM/ECLAIRs refined analysis,"['GRB', 'Gamma-ray Transient']",2,4,0.5,12
+GRB 260706A,45093.0,GRB 260706A: Fermi GBM Observation,"['GRB', 'Gamma-ray Transient']",2,4,0.5,12
+GRB 260706A,45089.0, GRB 260706A: SVOM detection of a burst,"['GRB', 'Gamma-ray Transient']",2,4,0.5,12
+GRB 260706A,45128.0,GRB 260706A : GRANDMA Upper limits,"['GRB', 'Gamma-ray Transient']",2,4,0.5,12
+GRB 260706A,45098.0,GRB 260706A: LCO optical upper limit,"['GRB', 'Gamma-ray Transient']",2,4,0.5,12
+GRB 260706A,45113.0,GRB 260706A: SVOM/VT optical upper limits,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,12
 GRB 220506.27,32000.0,MAXI GRB220506.27: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 LIGO/Virgo S191213ai,26413.0,LIGO/Virgo S191213ai: Retraction of GW compact binary merger candidate,"['GW', 'Retraction']",2,3,0.6666666666666666,2
 LIGO/Virgo S191213ai,26411.0,LIGO/Virgo S191213ai: Global MASTER-Net observations report,"['GW', 'Optical Transient']",2,3,0.6666666666666666,2
@@ -35605,6 +35621,11 @@ GRB 160104B,18818.0,GRB 160104B: MAXI/GSC detection,"['GRB', 'Gamma-ray Transien
 GRB 220925A,32581.0,GRB 220925A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,2
 GRB 220925A,32584.0,Fermi GRB 220925A: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
 GRB 251021A,42379.0,GRB 251021A/EP251021b: Fermi-GBM Sub-Threshold Detection,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,3,1.0,1
+IceCube-260712A,45146.0,Fermi-LAT Gamma-ray Observations of IceCube-260712A,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,5
+IceCube-260712A,45141.0,IceCube-260712A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,3,0.3333333333333333,5
+IceCube-260712A,45157.0,IceCube-260712A: LAST optical follow-up observations of the IceCube neutrino candidate,"['Neutrino', 'Optical Transient']",2,3,0.6666666666666666,5
+IceCube-260712A,45159.0, IceCube-260712A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,5
+IceCube-260712A,45168.0,IceCube-260712A: No candidates with the Zwicky Transient Facility (ZTF),"['Neutrino', 'Optical Transient']",2,3,0.6666666666666666,5
 GRB 120907A,13726.0,GRB 120907A: EVLA observations,"['GRB', 'Gamma-ray Transient']",2,4,0.5,13
 GRB 120907A,13717.0,GRB 120907A: ROTSE-III Optical Limits,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,13
 GRB 120907A,13721.0,GRB 120907A: Fermi GBM detection,"['GRB', 'Gamma-ray Transient']",2,4,0.5,13
@@ -36646,8 +36667,11 @@ GRB 210312B,29716.0,GRB 210312B: OSN Afterglow Observations,"['Afterglow', 'GRB'
 GRB 210312B,29653.0,GRB 210312B: GTC photometry,"['GRB', 'Gamma-ray Transient']",2,4,0.5,6
 GRB 210312B,29652.0,GRB 210312B: MASTER OT confirmation,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,6
 GRB 210312B,29655.0,GRB 210312B: Redshift from OSIRIS/GTC,"['GRB', 'Gamma-ray Transient']",2,4,0.5,6
-IceCube-260708A,45120.0,IceCube-260708A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,1,1.0,2
-IceCube-260708A,45125.0,IceCube-260708A: One candidate from the Zwicky Transient Facility,['Neutrino'],1,1,1.0,2
+IceCube-260708A,45120.0,IceCube-260708A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,3,0.3333333333333333,5
+IceCube-260708A,45134.0,IceCube-260708A: Observations with the Vera C. Rubin Observatory,"['Neutrino', 'Optical Transient']",2,3,0.6666666666666666,5
+IceCube-260708A,45142.0,IceCube-260708A: Upper limits from a search for additional neutrino events in IceCube,['Neutrino'],1,3,0.3333333333333333,5
+IceCube-260708A,45145.0,Fermi-LAT Gamma-ray Observations of IceCube-260708A,"['Gamma-ray Transient', 'Neutrino']",2,3,0.6666666666666666,5
+IceCube-260708A,45125.0,IceCube-260708A: One candidate from the Zwicky Transient Facility,['Neutrino'],1,3,0.3333333333333333,5
 LIGO/Virgo/KAGRA S241201ac,38410.0,LIGO/Virgo/KAGRA S241201ac: Updated Sky localization,['GW'],1,1,1.0,2
 LIGO/Virgo/KAGRA S241201ac,38402.0,LIGO/Virgo/KAGRA S241201ac: Identification of a GW compact binary merger candidate,['GW'],1,1,1.0,2
 GRB 210515C,30020.0,GRB 210515C: Swift detection of a burst,"['GRB', 'Gamma-ray Transient']",2,4,0.5,5
@@ -37098,6 +37122,11 @@ GRB 210520A,30065.0,GRB 210520A: Fermi GBM detection,"['GRB', 'Gamma-ray Transie
 GRB 241206B,38451.0,GRB 241206B:  GWAC-F50A optical upper limit,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
 GRB 241206B,38450.0,GRB 241206B: SVOM/ECLAIRs detection of a long soft transient,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
 GRB 241206B,38452.0,GRB 241206B: SVOM/MXT observations: a probable flare from the QSO 1ES 1959+650,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
+GRB 260714B,45161.0,GRB 260714B: Fermi GBM Detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
+GRB 260714B,45160.0,GRB 260714B: BALROG localization (Fermi Trigger 805746211 / GRB 260714766),"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
+GRB 260714B,45163.0,GRB 260714B: AstroSat CZTI detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
+GRB 260714B,45158.0,GRB 260714B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
+GRB 260714B,45162.0,GRB 260714B: Fermi-LAT detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
 GRB 061110,5796.0,GRB 061110: ROTSE-III Optical Limits,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,5
 GRB 061110,5797.0,GRB 061110 : Optical afterglow candidate,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,4,1.0,5
 GRB 061110,5798.0,GRB 061110: Candidate confirmed,"['GRB', 'Gamma-ray Transient']",2,4,0.5,5
@@ -37306,11 +37335,13 @@ GRB 120911B,13756.0,GRB 120911B: Fermi-LAT detection of a burst,"['GRB', 'Gamma-
 GRB 120911B,13757.0,GRB 120911B: Fermi GBM observation,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
 GRB 120911B,13758.0,Konus-Wind observation of GRB 120911B,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
 GRB 120911B,13755.0,IPN Triangulation of GRB 120911B (long/bright),"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
+GRB 260709A,45136.0,GRB 260709A: GECAM-B observation,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
+GRB 260709A,45137.0,GRB 260709A: SVOM/GRM detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
+GRB 260709A,45121.0,GRB 260709A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
+GRB 260709A,45164.0,GRB 260709A: AstroSat CZTI detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,4
 LIGO/Virgo/KAGRA S231110g,34976.0,LIGO/Virgo/KAGRA S231110g: Updated Sky localization,['GW'],1,1,1.0,2
 LIGO/Virgo/KAGRA S231110g,34975.0, LIGO/Virgo/KAGRA S231110g: Identification of a GW compact binary merger candidate,['GW'],1,1,1.0,2
 GRB 210610.83,30173.0,Swift GRB210610.83: Global MASTER-Net OT detection,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
-EP260703a,45073.0,EP260703a: EP-FXT follow-up observation,['X-ray Transient'],1,1,1.0,2
-EP260703a,45070.0,EP260703a: EP-WXT detection of a fast X-ray transient,['X-ray Transient'],1,1,1.0,2
 GRB 120127A,12901.0,GRB 120127A: MAXI/GSC detection of a probable GRB,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,3
 GRB 120127A,12903.0,GRB 120127A / P48 Imaging,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,3
 GRB 120127A,12902.0,GRB 120127A: MASTER optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,3
@@ -39409,7 +39440,6 @@ IceCube-210717A,30468.0,IceCube-210717A: IceCube observation of a high-energy ne
 IceCube-210717A,30473.0,Fermi-LAT Gamma-ray Observations of IceCube-210717A,"['Gamma-ray Transient', 'Neutrino']",2,2,1.0,3
 GRB 190508A,24432.0,GRB 190508A: GOTO optical search - no counterparts,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,2
 GRB 190508A,24427.0,GRB 190508A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,2
-GRB 260709A,45121.0,GRB 260709A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 241201B,38411.0,GRB241201B: Fermi GBM Final Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 GRB 241201B,38412.0,GRB241201B: Fermi GBM Final Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 GRB 201229A,29200.0,GRB 201229A: Swift-XRT refined Analysis,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,8
@@ -40639,6 +40669,7 @@ GRB 090620,9554.0,GRB 090620: Fermi GBM detecion,"['GRB', 'Gamma-ray Transient']
 GRB 020904,1534.0,IPN triangulation of GRB020904,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 GRB 020904,1538.0,Single IPN error box for GRB020904,"['GRB', 'Gamma-ray Transient']",2,2,1.0,2
 GRB 221014A,32747.0,GRB 221014A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
+GRB 260714A,45154.0,GRB 260714A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 201121B,28937.0,GRB 201121B: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 120614A,13364.0,GRB 120614A: MAXI/GSC detection of a burst,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 251211B,43080.0,GRB 251211B: AstroSat CZTI detection,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,3
@@ -40795,6 +40826,8 @@ EP250207a,39224.0,EP250207a: EP-WXT detection and XRT follow-up observation,['X-
 GRB 151030A,18545.0,GRB 151030A: Fermi GBM observation,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 250430.73,40291.0,Swift GRB250430.73: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
 GRB 191020.81,26047.0,Swift GRB191020.81: Global MASTER-Net OT detection,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,1
+EP260711a,45139.0,EP260711a: Einstein Probe detection of an X-ray transient,['X-ray Transient'],1,1,1.0,2
+EP260711a,45148.0,EP260711a: EP-FXT follow-up observation,['X-ray Transient'],1,1,1.0,2
 GRB 161217B,20310.0,GRB 161217B: POLAR Observation,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 171215A,22287.0,GRB 171215A: Insight-HXMT/HE detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 LIGO/Virgo S241127aj,38370.0,LIGO/Virgo S241127aj: GRANDMA/FRAM-CTA-N Observations,['GW'],1,1,1.0,1
@@ -41124,6 +41157,7 @@ LIGO/Virgo S230618s,34010.0,LIGO/Virgo S230618s: Global MASTER-Net observations 
 GRB 210518A,30053.0,IPN triangulation of GRB 210518A,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,3
 GRB 210518A,30045.0,GRB 210518A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,3
 GRB 210518A,30049.0,Fermi GRB 210518A: Global MASTER-Net observations report,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,3
+EP260713a,45153.0,EP260713a: Einstein Probe detection of an X-ray transient,['X-ray Transient'],1,1,1.0,1
 GRB 050117A,2962.0,GRB050117a:  Refined analysis,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
 GRB 050117A,2980.0,GRB 050117a: Radio Observations,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
 GRB 050117A,2963.0,GRB050117a:  Radio Observations,"['GRB', 'Gamma-ray Transient']",2,2,1.0,3
