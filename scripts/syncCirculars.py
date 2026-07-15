@@ -89,9 +89,9 @@ def download_new_circulars(
     return downloaded
 
 
-def sync_circulars(max_consecutive_failures: int = 3, max_size_mb: int = 20):
-    archive_folder = _archive_folder()
-    tarballs_folder = _tarballs_folder()
+def sync_circulars(archive_folder, tarballs_folder, max_consecutive_failures: int = 3, max_size_mb: int = 20):
+    archive_folder = archive_folder
+    tarballs_folder = tarballs_folder 
 
     downloaded = download_new_circulars(
         archive_folder=archive_folder,
@@ -126,9 +126,23 @@ def main():
         default=20,
         help="Maximum tarball size passed through to packArchive.py",
     )
+    parser.add_argument(
+        "--archive_folder",
+        type=str,
+        default=str(_archive_folder()),
+        help="Path to the archive folder (default: ./archive)",
+    )
+    parser.add_argument(
+        "--tarballs_folder",
+        type=str,
+        default=str(_tarballs_folder()),
+        help="Path to the tarballs folder (default: ./tarballs)",
+    )
 
     args = parser.parse_args()
     sync_circulars(
+        archive_folder=Path(args.archive_folder),
+        tarballs_folder=Path(args.tarballs_folder),
         max_consecutive_failures=args.max_consecutive_failures,
         max_size_mb=args.max_size_mb,
     )
