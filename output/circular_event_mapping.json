@@ -26609,6 +26609,17 @@
             "Gamma-ray Transient"
         ]
     },
+    "45184": {
+        "subject": "GRB 260718A: LCO optical upper limits",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "23352": {
         "subject": "GRB 181020A: Fermi GBM detection",
         "events": [
@@ -55487,6 +55498,15 @@
             "GW"
         ]
     },
+    "45171": {
+        "subject": "IceCube-260708A: Follow-up studies of cosmic-ray origin of high-energy neutrino alert",
+        "events": [
+            "Neutrino"
+        ],
+        "effectiveCategory": [
+            "Neutrino"
+        ]
+    },
     "13711": {
         "subject": "GRB 120830A: Further Swift Observations",
         "events": [
@@ -60540,6 +60560,17 @@
             "Gamma-ray Transient",
             "X-ray Transient",
             "Afterglow"
+        ]
+    },
+    "45188": {
+        "subject": "GRB 260714B: Insight-HXMT/HE detection",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
         ]
     },
     "709": {
@@ -73477,6 +73508,15 @@
         "effectiveCategory": [
             "GRB",
             "Gamma-ray Transient"
+        ]
+    },
+    "45170": {
+        "subject": "SVOM sb26071506: Global MASTER-Net observations report",
+        "events": [
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "Optical Transient"
         ]
     },
     "38440": {
@@ -105597,6 +105637,19 @@
         "effectiveCategory": [
             "GW",
             "X-ray Transient"
+        ]
+    },
+    "45185": {
+        "subject": "Fermi GRB 260718A: Global MASTER-Net observations report",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
         ]
     },
     "42640": {
@@ -153754,6 +153807,17 @@
             "X-ray Transient"
         ]
     },
+    "45177": {
+        "subject": "GRB 260718A: SVOM detection of a burst",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "13717": {
         "subject": "GRB 120907A: ROTSE-III Optical Limits",
         "events": [
@@ -189323,6 +189387,17 @@
             "Gamma-ray Transient"
         ]
     },
+    "45182": {
+        "subject": "GRB 260710A: SVOM/GRM observation",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "41968": {
         "subject": "GRB 250924A: Kilonova-Catcher optical afterglow detection",
         "events": [
@@ -203932,6 +204007,17 @@
     },
     "11224": {
         "subject": "GRB100905A: MITSuME Okayama optical upper limits",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
+    "45183": {
+        "subject": "GRB 260711A: SVOM/GRM observation",
         "events": [
             "GRB",
             "Gamma-ray Transient"
@@ -238396,6 +238482,17 @@
             "Optical Transient"
         ]
     },
+    "45176": {
+        "subject": "GRB 260714B: SVOM/GRM observation",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "21237": {
         "subject": "GRB 170607A: ISON/Terskol optical observations",
         "events": [
@@ -270926,6 +271023,21 @@
             "X-ray Transient"
         ]
     },
+    "45175": {
+        "subject": "GRB 260310A / AT2026fgk: Late-time Chandra Detection",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient",
+            "X-ray Transient",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient",
+            "X-ray Transient",
+            "Optical Transient"
+        ]
+    },
     "38445": {
         "subject": "GRB 241204A: COLIBR\u00cd Optical Upper Limit",
         "events": [
@@ -301346,6 +301458,17 @@
             "Gamma-ray Transient"
         ]
     },
+    "45180": {
+        "subject": "GRB 260718A : GRANDMA and KNC upper limits",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "40678": {
         "subject": "GRB 250610B: SVOM/VT optical counterpart  ",
         "events": [
@@ -306114,6 +306237,19 @@
             "Gamma-ray Transient",
             "X-ray Transient",
             "Afterglow"
+        ]
+    },
+    "45179": {
+        "subject": "GRB 260718A: SVOM/VT optical upper limits",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
         ]
     },
     "13719": {
@@ -349515,6 +349651,19 @@
             "Optical Transient"
         ]
     },
+    "45178": {
+        "subject": "GRB 260718A: SVOM/VT optical upper limits from VHF data",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ]
+    },
     "9606": {
         "subject": "GRB 090313: optical observations",
         "events": [
@@ -352935,6 +353084,17 @@
             "GRB",
             "Gamma-ray Transient",
             "X-ray Transient"
+        ]
+    },
+    "45181": {
+        "subject": "GRB 260718A: Fermi GBM Observation",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
         ]
     },
     "16019": {
@@ -383352,6 +383512,17 @@
             "X-ray Transient"
         ]
     },
+    "45174": {
+        "subject": "GRB 260714B: GECAM-B observation of a burst",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "38444": {
         "subject": "EP241202b: KAIT optical upper limit",
         "events": [
@@ -398908,6 +399079,17 @@
             "Gamma-ray Transient"
         ]
     },
+    "45186": {
+        "subject": "Fermi  trigger No 806104130: Global MASTER-Net observations report",
+        "events": [
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ]
+    },
     "42643": {
         "subject": "GRB 251111A: EP-FXT counterpart detection",
         "events": [
@@ -400189,6 +400371,15 @@
         "effectiveCategory": [
             "GRB",
             "Gamma-ray Transient",
+            "X-ray Transient"
+        ]
+    },
+    "45169": {
+        "subject": "sb26071506: SVOM detection of a X-ray transient",
+        "events": [
+            "X-ray Transient"
+        ],
+        "effectiveCategory": [
             "X-ray Transient"
         ]
     },
@@ -435341,6 +435532,19 @@
         "effectiveCategory": [
             "GRB",
             "Gamma-ray Transient"
+        ]
+    },
+    "45173": {
+        "subject": "GRB 260618B: EP-FXT follow-up observation upper limit",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient",
+            "X-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient",
+            "X-ray Transient"
         ]
     },
     "21398": {
@@ -481609,6 +481813,19 @@
             "Afterglow"
         ]
     },
+    "45172": {
+        "subject": "GRB 260714B: COLIBR\u00cd optical counterpart candidate",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ]
+    },
     "13712": {
         "subject": "GRB 120802A: optical observations in CrAO",
         "events": [
@@ -515318,6 +515535,19 @@
         "effectiveCategory": [
             "GRB",
             "Gamma-ray Transient"
+        ]
+    },
+    "45187": {
+        "subject": "GRB 260718A: EP-FXT follow-up observation",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient",
+            "X-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient",
+            "X-ray Transient"
         ]
     },
     "11220": {
