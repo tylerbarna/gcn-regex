@@ -69,7 +69,7 @@ def download_new_circulars(
             circular_data = _load_json_from_url(circular_url)
         except (HTTPError, URLError, json.JSONDecodeError) as exc:
             consecutive_failures += 1
-            print(f"Missing circular {next_circular_id}: {exc}")
+            # print(f"Missing circular {next_circular_id}: {exc}")
             next_circular_id += 1
             continue
 
