@@ -137,6 +137,17 @@ EVENT_TYPE_MATCHERS = {
         re.compile('\\bLCO\\b', re.IGNORECASE),
         re.compile('\\bGOTO\\b', re.IGNORECASE),
     ],
+    'Radio Transient': [
+        re.compile('\\bRadio\\b', re.IGNORECASE),
+        re.compile('\\bradio[-\\s]?transients?\\b', re.IGNORECASE),
+        re.compile('\\bVLA\\b', re.IGNORECASE),
+        re.compile('\\bVLBI\\b', re.IGNORECASE),
+        re.compile('\\bMeerKAT\\b', re.IGNORECASE),
+        re.compile('\\bATCA\\b', re.IGNORECASE),
+        re.compile('\\bGHz\\b', re.IGNORECASE),
+        re.compile('\\bGMRT\\b', re.IGNORECASE),
+        re.compile('\\bALMA\\b', re.IGNORECASE),
+    ],
     'Kilonova': [
         re.compile('\\bkilonovae?\\b(?!-\\w)', re.IGNORECASE),
         re.compile('\\bKN\\b', re.IGNORECASE),
