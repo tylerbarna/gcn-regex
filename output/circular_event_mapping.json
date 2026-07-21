@@ -70747,6 +70747,21 @@
             "Gamma-ray Transient"
         ]
     },
+    "45189": {
+        "subject": "GRB 260705A: Retraction of optical counterpart",
+        "events": [
+            "Retraction",
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "Retraction",
+            "GRB",
+            "Gamma-ray Transient",
+            "Optical Transient"
+        ]
+    },
     "41963": {
         "subject": "GRB 250924A: COLIBR\u00cd optical observations",
         "events": [
@@ -403674,6 +403689,15 @@
         "effectiveCategory": [
             "GRB",
             "Gamma-ray Transient"
+        ]
+    },
+    "45190": {
+        "subject": "SVOM trigger sb26071506: SVOM/VT confirmation of a stellar flare",
+        "events": [
+            "Optical Transient"
+        ],
+        "effectiveCategory": [
+            "Optical Transient"
         ]
     },
     "40668": {

@@ -14510,12 +14510,13 @@ GRB 250617B,40760.0,GRB 250617B: Swift detection of a burst with an optical coun
 GRB 250617B,40776.0,GRB 250617B: VLT/X-shooter spectroscopic redshift z = 1.396,"['GRB', 'Gamma-ray Transient']",2,5,0.4,21
 GRB 250617B,40777.0,GRB 250617B: Kilonova-Catcher optical afterglow detection,"['Afterglow', 'GRB', 'Gamma-ray Transient', 'Optical Transient']",4,5,0.8,21
 GRB 250617B,40761.0,GRB 250617B: SAO RAS optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,21
-GRB 260705A,45080.0,Fermi GBM Sub-Threshold Detection of GRB 260705A,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
-GRB 260705A,45079.0,GRB 260705A: SVOM detection of a burst,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
-GRB 260705A,45090.0,GRB 260705A: SVOM/ECLAIRs refined analysis,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
-GRB 260705A,45084.0,GRB 260705A: LCO optical upper limits,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
-GRB 260705A,45155.0,GRB 260705A: ATCA radio observations,"['GRB', 'Gamma-ray Transient']",2,3,0.6666666666666666,6
-GRB 260705A,45105.0,GRB 260705A: Candidate Optical Counterpart from SOAR and Gemini-South and Possible Association with GRB 260705B,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,3,1.0,6
+GRB 260705A,45080.0,Fermi GBM Sub-Threshold Detection of GRB 260705A,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
+GRB 260705A,45079.0,GRB 260705A: SVOM detection of a burst,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
+GRB 260705A,45189.0,GRB 260705A: Retraction of optical counterpart,"['GRB', 'Gamma-ray Transient', 'Optical Transient', 'Retraction']",4,4,1.0,7
+GRB 260705A,45090.0,GRB 260705A: SVOM/ECLAIRs refined analysis,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
+GRB 260705A,45084.0,GRB 260705A: LCO optical upper limits,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
+GRB 260705A,45155.0,GRB 260705A: ATCA radio observations,"['GRB', 'Gamma-ray Transient']",2,4,0.5,7
+GRB 260705A,45105.0,GRB 260705A: Candidate Optical Counterpart from SOAR and Gemini-South and Possible Association with GRB 260705B,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,4,0.75,7
 GRB 060105,4436.0,GRB 060105: Mitsume optical observations,"['GRB', 'Gamma-ray Transient', 'Optical Transient']",3,5,0.6,17
 GRB 060105,4441.0,GRB 060105: Radio observations,"['GRB', 'Gamma-ray Transient']",2,5,0.4,17
 GRB 060105,4440.0,GRB 060105: MDM Observation,"['GRB', 'Gamma-ray Transient']",2,5,0.4,17
@@ -31840,8 +31841,9 @@ GRB 090419,9164.0,GRB 090419: Enhanced Swift-XRT position,"['GRB', 'Gamma-ray Tr
 GRB 090419,9172.0,GRB 090419: Swift-XRT refined analysis,"['GRB', 'Gamma-ray Transient', 'X-ray Transient']",3,5,0.6,6
 GRB 090419,9169.0,GRB 090419: GROND detection of afterglow candidate,"['Afterglow', 'GRB', 'Gamma-ray Transient']",3,5,0.6,6
 GRB 210522A,30070.0,GRB 210522A: GECAM detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
-sb26071506,45170.0,SVOM sb26071506: Global MASTER-Net observations report,['Optical Transient'],1,2,0.5,2
-sb26071506,45169.0,sb26071506: SVOM detection of a X-ray transient,['X-ray Transient'],1,2,0.5,2
+sb26071506,45170.0,SVOM sb26071506: Global MASTER-Net observations report,['Optical Transient'],1,2,0.5,3
+sb26071506,45169.0,sb26071506: SVOM detection of a X-ray transient,['X-ray Transient'],1,2,0.5,3
+sb26071506,45190.0,SVOM trigger sb26071506: SVOM/VT confirmation of a stellar flare,['Optical Transient'],1,2,0.5,3
 GRB 231204A,35272.0,GRB 231204A: CALET Gamma-Ray Burst Monitor detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
 GRB 231204A,35371.0,GRB 231204A: VZLUSAT-2 detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
 GRB 231204A,35274.0,GRB 231204A: Glowbug gamma-ray detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,5
