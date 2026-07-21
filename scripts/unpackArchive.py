@@ -37,6 +37,15 @@ def unpack_archive(tarball_path, output_folder):
         total_size_bytes += sum(member.size for member in json_members)
 
     total_size_mb = total_size_bytes / (1024 * 1024)
+    ## if output folder contains a subfolder, move all files in subfolder to output folder and delete subfolder. just do it as a cp command with the *.json files 
+    subfolders = [f.path for f in os.scandir(output_folder) if f.is_dir()]
+    for subfolder in subfolders:
+        for filename in os.listdir(subfolder):
+            if filename.endswith('.json'):
+                src_path = os.path.join(subfolder, filename)
+                dst_path = os.path.join(output_folder, filename)
+                os.rename(src_path, dst_path)
+        os.rmdir(subfolder)
     
     print(f'Unpacked {num_files} files with total size {total_size_mb:.2f} MB')
     
