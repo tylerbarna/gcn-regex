@@ -99539,6 +99539,19 @@
             "GRB"
         ]
     },
+    "45193": {
+        "subject": "Fermi GBM trigger 806384210/260722151 is not a GRB",
+        "events": [
+            "Retraction",
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "Retraction",
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
     "42656": {
         "subject": "Swift Trigger 1413695: a possible GRB 251112A",
         "events": [
@@ -168923,6 +168936,15 @@
             "GRB"
         ]
     },
+    "45194": {
+        "subject": " IceCube-260722A - IceCube observation of a high-energy neutrino candidate track-like event",
+        "events": [
+            "Neutrino"
+        ],
+        "effectiveCategory": [
+            "Neutrino"
+        ]
+    },
     "4522": {
         "subject": "GRB060116: XRT position",
         "events": [
@@ -190004,6 +190026,17 @@
     },
     "23343": {
         "subject": "GRB 181016A: Swift-BAT refined analysis",
+        "events": [
+            "GRB",
+            "Gamma-ray Transient"
+        ],
+        "effectiveCategory": [
+            "GRB",
+            "Gamma-ray Transient"
+        ]
+    },
+    "45195": {
+        "subject": "GRB 260722A: Fermi GBM Final Real-time Localization",
         "events": [
             "GRB",
             "Gamma-ray Transient"

@@ -38210,6 +38210,7 @@ GRB 121201A,14029.0,GRB 121201A: Swift-XRT refined Analysis,"['GRB', 'X-ray Tran
 GRB 121201A,14025.0,GRB 121201A: a GRB with an optical counterpart,"['GRB', 'Optical Transient']",2,5,0.4,8
 GRB 121201A,14028.0,GRB 121201A: Swift-BAT refined analysis,"['GRB', 'Gamma-ray Transient']",2,5,0.4,8
 GRB 121201A,14035.0,GRB 121201A: X-shooter redshift,['GRB'],1,5,0.2,8
+IceCube-260722A,45194.0, IceCube-260722A - IceCube observation of a high-energy neutrino candidate track-like event,['Neutrino'],1,1,1.0,1
 GRB 210528B,30094.0,GRB 210528B: MAXI/GSC detection,['GRB'],1,2,0.5,3
 GRB 210528B,30096.0,GRB 210528B: MITSuME Akeno optical upper limits,['GRB'],1,2,0.5,3
 GRB 210528B,30097.0,GRB 210528B: DDOTI Upper Limits on the Afterglow,"['Afterglow', 'GRB']",2,2,1.0,3
@@ -38822,6 +38823,7 @@ GRB 180317A,22521.0,IPN Triangulation of GRB 180317A (short/hard),['GRB'],1,2,0.
 LIGO/Virgo/KAGRA S241009em,37750.0,LIGO/Virgo/KAGRA S241009em: Identification of a GW compact binary merger candidate,['GW'],1,1,1.0,2
 LIGO/Virgo/KAGRA S241009em,37779.0,LIGO/Virgo/KAGRA S241009em: Updated Sky localization,['GW'],1,1,1.0,2
 GRB 210528.95,30095.0,MAXI GRB210528.95: Global MASTER-Net observations report,"['GRB', 'Optical Transient']",2,2,1.0,1
+GRB 260722A,45195.0,GRB 260722A: Fermi GBM Final Real-time Localization,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
 GRB 000616,714.0,GRB000616 optical observations,"['GRB', 'Optical Transient']",2,2,1.0,2
 GRB 000616,711.0,GRB000616 [IPN Position],['GRB'],1,2,0.5,2
 GRB 090429D,9311.0,GRB 090429D: Fermi GBM detection,"['GRB', 'Gamma-ray Transient']",2,2,1.0,1
