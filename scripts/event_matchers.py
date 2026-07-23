@@ -7,6 +7,7 @@ EVENT_TYPE_MATCHERS = {
         re.compile('\\bnot\\s+a\\s+(?:GRB|GW|FRB|SN|SGR|neutrino)\\b', re.IGNORECASE),
         re.compile('\\bprobably\\s+not\\s+a\\b', re.IGNORECASE),
         re.compile('\\bis\\s+not\\b', re.IGNORECASE),
+        re.compile('\\bare not\\b', re.IGNORECASE),
         re.compile('\\bDisregard\\b', re.IGNORECASE),
         re.compile('\\bIgnore\\b', re.IGNORECASE),
         re.compile('\\bFalse Trigger\\b', re.IGNORECASE),
